@@ -1,0 +1,22 @@
+# Casting sheet v16 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b473 [granny?] "Right. Manifest the cosmos."
+- b475 [granny?] "Keep the cosmos available."
+- b477 [granny?] "Gather the cosmos back."
+- b616 [granny?] "Everything is Śiva. Therefore Dharma and Adharma are indistinguishable."
+- b770 [granny?] "Māyā = fake."
+- b771 [granny?] "Mahāmāyā = extremely fake."
+- b808 [man?] "Excellent. I have enclosed the Supreme Goddess."
+- b953 [granny?] "Look at Śiva and Śakti from a distance."
+- b1107 [granny?] "Śakti exists only when somebody physically pronounces a Sanskrit syllable."
+- b1185 [granny?] "This," he declares, "is the ultimate source of Sanskrit."
+- b1389 [granny?] "That's a snake."
+- b1396 [granny?] "Is that a snake or a rope?"
+- b1628 [man?] "I hear."
+- b1630 [man?] "I heard."
+- b1634 [man?] "I see."
+- b1635 [man?] "I saw."
+- b1637 [man?] "I intend."
+- b1638 [man?] "I intended."
+- b1814 [granny?] "Memorize fifty letters and congratulations, you're liberated."
+- b1867 [granny?] "This is a place, this is an instrument, this is a phoneme"-how is such differentiation possibl

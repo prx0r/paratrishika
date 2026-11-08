@@ -1,0 +1,51 @@
+# Casting sheet v35 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b9 [granny?] “For this is ever manifest for everyone. Thus, auspiciousness.”
+- b29 [granny?] “Thus, having obtained birth from Cukhalaka of Kashmir, the bee at the lotus-feet of the venera
+- b43 [granny?] “Yes. Quite right. Universal consciousness. Absolute freedom. The unsurpassable Heart.
+- b44 [man?] “Anyway, I'm a little bee buzzing around Śiva's feet.”
+- b89 [granny?] “He composed the commentary.”
+- b118 [granny?] “From Cukhalaka, a Kashmiri.”
+- b155 [granny?] “Who could forcibly measure the venerable Śāmbhava doctrine and its unrestrained utterances, de
+- b167 [granny?] “This much, this particular extent.”
+- b171 [granny?] “Here is exactly how much there is.”
+- b175 [granny?] “Who could measure or weigh?”
+- b241 [granny?] “Let them not turn away.”
+- b245 [man?] “You must accept every word I say because I am a guru.”
+- b247 [granny?] “Let intelligent readers not turn away from what has been disclosed here.”
+- b269 [granny?] “For one who does not know, or who is afflicted by doubt and erroneous understanding, a work su
+- b279 [granny?] “Step one: sell everybody the exact same technique.”
+- b280 [granny?] “Step two: tell them the technique will work regardless of their condition.”
+- b281 [granny?] “Step three: if it doesn't work, blame the student.”
+- b295 [granny?] “Is that object a post or a person?”
+- b326 [granny?] “Produces properly,” “brings about thoroughly.”
+- b334 [granny?] “For the person already established, possessing certainty.”
+- b361 [granny?] “A composition of this kind…”
+- b403 [granny?] “One whose heart has become established in the continuous stream of grasping the essential savo
+- b496 [granny?] “Of one wishing to ascend.”
+- b530 [granny?] “In Kashmir, there was a distinguished Brahmin of eminent birth, known as the venerable Vallabh
+- b576 [granny?] “Whose person was known by the name venerable Vallabha.”
+- b592 [granny?] “His own son.”
+- b606 [granny?] “Through complete or abundant excellent qualities.”
+- b655 [granny?] “His companion, the venerable woman named Vatsalikā, is an abode of virtuous conduct, a place w
+- b670 [granny?] “His companion.”
+- b748 [granny?] “In the praise of Śaṅkara.”
+- b753 [granny?] “Whose mind blossoms.”
+- b784 [granny?] “His own son, the Brahmin named Karṇa, who contemplates the creation and maintenance of the wor
+- b798 [granny?] “His very own son.”
+- b910 [man?] “My own brother, named Manorathagupta, whose mind is firmly established in Śiva's teaching, wis
+- b913 [man?] “My very own brother.”
+- b930 [man?] “My very own,” or “of me indeed.”
+- b975 [granny?] “Desirous of examining or discriminating thoroughly.”
+- b984 [granny?] “The entire body of scripture and tantra.”
+- b997 [granny?] “For the breaking of conditioned existence.”
+- b1031 [granny?] “And there is the man named Rāmadeva, devoted exclusively to the Śaiva scriptures, knowledgeabl
+- b1071 [granny?] “Word means grammar; sentence means Mīmāṃsā; valid cognition means logic.”
+- b1144 [man?] “What I have composed, with a heart firmly devoted to doing what is dear and beneficial to thes
+- b1173 [man?] “I wrote something that my friends will enjoy.”
+- b1175 [man?] “I wrote something intellectually correct.”
+- b1179 [granny?] “With a heart firmly established or deeply rooted.”
+- b1194 [man?] “What was composed by me.”
+- b1202 [man?] “By me.”
+- b1226 [granny?] “For the attainment of Śiva.”
+- b1238 [granny?] “May it be.”

@@ -1,0 +1,93 @@
+# Casting sheet v31 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b45 [granny?] “He now explains the unsurpassable condition, supreme above everything, of this Trika teaching,
+- b60 [granny?] “Even one who has not seen a maṇḍala-whoever truly understands in this way-shall always be a pa
+- b74 [granny?] “He knows according to reality.”
+- b77 [granny?] “Anybody who misses the ritual is enlightened.”
+- b124 [granny?] “He would be,” “he shall be,” “he may become,” depending on context.
+- b152 [granny?] “The maṇḍala is a circle or assembly of deities.”
+- b159 [granny?] “Even though he has not seen it, even though he has not attained the meeting.”
+- b168 [granny?] “Here the intended meaning is this: each of the carrying goddesses…”
+- b182 [granny?] “Having the form of the body, subtle channels, cakras, and subsidiary circles.”
+- b210 [granny?] “A maṇḍala such as the trident, lotus, and so forth.”
+- b227 [granny?] “Here, initiation involving a maṇḍala and such things is not required.”
+- b242 [granny?] “Someone, having been graced by the descent of the supreme Śakti, knows in precisely this way.”
+- b287 [man?] “I don't need a guru. Śiva initiated me personally.”
+- b299 [granny?] “From a teacher, from scripture, from oneself.”
+- b304 [granny?] “That person is consecrated and initiated by the goddesses of their own consciousness.”
+- b346 [granny?] “This knowledge itself is initiation. What other initiation is there here?”
+- b349 [granny?] “This knowledge is helpful preparation for initiation.”
+- b351 [granny?] “This knowledge complements proper initiation.”
+- b353 [granny?] “This knowledge will improve your chances of being accepted into an advanced initiatory program
+- b375 [granny?] “They're on your head.”
+- b391 [granny?] “One who knows thus has been initiated by the omnipresent Lord Bhairava.”
+- b412 [granny?] “What other initiation is there here?”
+- b438 [granny?] “This concerns mantras other than this heart.”
+- b446 [granny?] “Because it transcends the forms of the Mantramaheśas and those above them.”
+- b458 [granny?] “A mantra merely situated in written characters is without potency.”
+- b488 [granny?] “This heart is indeed not to be written in books.”
+- b492 [granny?] “Genuine attainment of this comes precisely through the grace of the descent of supreme Śakti.”
+- b514 [granny?] “Independence from considerations such as birth, religious observance, prescribed conduct, and 
+- b518 [granny?] “Here, knowing alone is paramount.”
+- b552 [granny?] “Dear Bhairava,
+- b553 [man?] “I have completed seventeen preliminary courses, received six certificates of attendance, purch
+- b554 [man?] “Please find attached my spiritual qualifications and a reference from my teacher.”
+- b556 [granny?] “Do you recognise your nature?”
+- b557 [granny?] “Well, no, but the certificates are embossed.”
+- b558 [granny?] “Fantastic. You've mastered the stationery.”
+- b574 [granny?] “They understand yoga as unity.”
+- b586 [granny?] “His very initiation is characterised by the giving of knowledge and the elimination of Māyā.”
+- b612 [granny?] “And.”
+- b615 [granny?] “He is a yogin, and he is initiated.”
+- b619 [granny?] “The particle *ca* has a restrictive or emphatic force.”
+- b643 [granny?] “By merely knowing this, one becomes known to all the Śaktis; indeed, even without yoga, one co
+- b649 [granny?] “By this.”
+- b657 [granny?] “By the mere fact of this having been known.”
+- b665 [man?] “He is known,” or “it is known,” depending on what subject is supplied by the contextual constr
+- b671 [granny?] “He is known by all the Śaktis.”
+- b679 [granny?] “In the expression ‘by all the Śaktis,’ the third case is instrumental in the sense of an instr
+- b691 [man?] “I see this.”
+- b692 [man?] “I remember that.”
+- b693 [man?] “I can understand one thing but not another.”
+- b726 [granny?] “He becomes the Lord of the circle of powers, having the nature of Akula, the general vibration
+- b786 [man?] “Excellent. I have learned that I am the Lord of the Śākinīs. Please inform the universe that a
+- b797 [granny?] “Even without yoga.”
+- b823 [granny?] “And furthermore.”
+- b833 [granny?] “One who does not know the prescribed procedure becomes knowledgeable concerning the performanc
+- b842 [granny?] “Not knowing the prescribed procedure.”
+- b846 [granny?] “One who knows the prescribed arrangement or procedure.”
+- b855 [granny?] “With respect to worship.”
+- b871 [granny?] “*Vidhi* is action; *jñā* is knowledge.”
+- b894 [granny?] “The bound soul is eternal, incorporeal, ignorant, inactive, without qualities, and not soverei
+- b964 [granny?] “Situated within the belly of Māyā.”
+- b976 [granny?] “Concerned with the means of enjoyment.”
+- b998 [granny?] “An agent and a knower.”
+- b1006 [granny?] “And even his incomplete worship becomes complete.”
+- b1010 [granny?] “Because the heart consists of everything.”
+- b1028 [granny?] “For indeed…”
+- b1036 [granny?] “Taking Kālāgni as the beginning and Māyā as the limit, this is contained within the body of Br
+- b1071 [granny?] “Situated within the body of Brahman.”
+- b1075 [granny?] “In the body of Brahman, that is, of the phoneme *sa*.”
+- b1087 [granny?] “Within the *aukāra* of Ananta.”
+- b1103 [granny?] “The supreme triad of powers, whose nature is visarga.”
+- b1165 [granny?] “Whatever is contained within that and established in the pure path, the finite subject soon at
+- b1243 [granny?] “He reaches,” “attains,” “obtains.”
+- b1249 [granny?] “The finite subject attains sovereign knowledge.”
+- b1281 [granny?] “How?”
+- b1291 [granny?] “How?”
+- b1298 [granny?] “The one who impels or teaches this is to be understood as Śiva: the all-knowing Supreme Lord, 
+- b1307 [granny?] “The one who impels toward that.”
+- b1313 [granny?] “The guru who impels toward that is indeed to be understood as Śiva.”
+- b1323 [granny?] “Śiva is to be known.”
+- b1326 [granny?] “Śiva is not knowable.”
+- b1349 [granny?] “And he is not knowable $$as an object$$; he is the knower alone.”
+- b1366 [granny?] “Śiva is to be known” can mean that the guru's ultimate nature must be recognised as Śiva.
+- b1367 [granny?] “Śiva is unknowable” can mean that the supreme subject is not an object of ordinary cognition.
+- b1373 [granny?] “Where is consciousness?”
+- b1436 [granny?] “He extends or manifests his own movements or courses, the states whose nature is cognition.”
+- b1512 [granny?] “Wonderful. No guru required. No mantra required. No meditation required. No ritual required. I
+- b1529 [man?] “Unless you have undergone precisely my recognised ceremony, you cannot possess ultimate knowle
+- b1575 [granny?] “Having thus explained at length, he now brings the matter to its conclusion according to its e
+- b1583 [granny?] “Just as a great tree exists in the banyan seed in the form of power…”
+- b1587 [granny?] “So this entire moving and unmoving world exists within the seed of the heart.”
+- b1668 [granny?] “Very interesting. But where exactly is this awareness thing?”

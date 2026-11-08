@@ -1,0 +1,25 @@
+# Casting sheet v12 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b32 [man?] "With matters thus established, we return to the subject under discussion."
+- b70 [man?] "Right, we've resolved the preliminary questions. Back to work."
+- b304 [man?] "Am I conscious? Yes. Excellent."
+- b329 [granny?] "The Absolute is completely undifferentiated, entirely without reflexive awareness, wholly inca
+- b333 [granny?] "Excellent. That's the Absolute expressing itself."
+- b337 [granny?] "Somewhere."
+- b339 [granny?] "Well, perhaps from another principle."
+- b432 [granny?] "Wonderful. This must be the Absolute."
+- b855 [granny?] "Ah, consciousness first existed as a, then became ā, then became i, then became ī, and so on."
+- b995 [man?] "I want that."
+- b1034 [granny?] "There exists something called the Absolute."
+- b1037 [granny?] "The Absolute has a property called consciousness."
+- b1047 [man?] "I'm hungry. I want food."
+- b1055 [granny?] "There's nothing here."
+- b1056 [man?] "I feel bored."
+- b1057 [man?] "Perhaps I should create some stars."
+- b1058 [man?] "But first I need to invent time so I can schedule the project."
+- b1172 [granny?] "If *a* is the Absolute, why would it need to become bliss?"
+- b1243 [granny?] "Śiva desires the universe, therefore the universe is the product of a cosmic craving."
+- b1677 [granny?] "If will can expand and contract, and knowledge can expand and contract, then perhaps the expan
+- b1678 [granny?] "And the expansion of that will requires another will."
+- b1679 [granny?] "And the expansion of that..."
+- b1759 [man?] "*a* has no will. *i* suddenly creates will."

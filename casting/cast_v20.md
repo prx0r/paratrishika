@@ -1,0 +1,80 @@
+# Casting sheet v20 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b41 [man?] "Excuse me. How can an indivisible letter have a half?"
+- b55 [granny?] "And these $$phonemic powers$$ beginning with *a*, established within Prāṇa according to a conf
+- b86 [granny?] "And those beginning with *a*."
+- b157 [granny?] "Having joined one *tuṭi* through a half-of-half subdivision..."
+- b205 [granny?] "Excellent. Sixteen units."
+- b207 [granny?] "Fine. What happens to the extra unit?"
+- b208 [granny?] "The difference is explained through a half-of-half."
+- b209 [granny?] "A quarter?"
+- b210 [granny?] "In the relevant representation."
+- b211 [granny?] "Of what?"
+- b212 [granny?] "The supreme phonemic power."
+- b223 [man?] "Even outwardly, in dissolution and emergence, they extend into a temporal form constituted by 
+- b344 [granny?] "And the sixteenth *kalā* has Visarga as its nature."
+- b387 [granny?] "Upon further separation, $$the power$$ is described as the seventeenth *kalā* in the scripture
+- b445 [granny?] "That seventeenth Goddess has the form of half of half the phoneme *ha*."
+- b501 [granny?] "Because Visarga has the character of half of *ha*, and the further separation is again half of
+- b571 [man?] "What have I inherited?"
+- b572 [granny?] "Half of half the phoneme *ha*."
+- b573 [granny?] "That sounds like a quarter."
+- b574 [granny?] "Yes, in the symbolic relation."
+- b575 [granny?] "Of what material?"
+- b576 [granny?] "Divine emission."
+- b577 [man?] "So where do I put it?"
+- b578 [granny?] "In Anuttara."
+- b579 [granny?] "Does it occupy space?"
+- b580 [granny?] "Not in the sense you're imagining."
+- b590 [granny?] "If a single phoneme is without parts, how can such a differentiation be made?"
+- b623 [granny?] "Of one indivisible phoneme."
+- b646 [granny?] "If it is objected thus..."
+- b655 [granny?] "Because Tantra says so."
+- b657 [granny?] "Because the Goddess is beyond logic."
+- b671 [man?] "In our position, everything is indeed without parts, because it does not exceed the one manife
+- b769 [granny?] "Here is the first half."
+- b770 [granny?] "Here is the second."
+- b771 [granny?] "And here is a quarter."
+- b772 [man?] "Now I have four different Absolutes."
+- b785 [granny?] "Everything is one, therefore the objection is irrelevant."
+- b798 [granny?] "Nevertheless, through sovereign freedom itself, even in the manifestation of parts, the condit
+- b859 [granny?] "What contradiction is there?"
+- b877 [granny?] "If you insist that sound must be divided physically into independent pieces, how do you accoun
+- b884 [granny?] "In just this way, the manifestation of phonemes is intelligible."
+- b960 [granny?] "How, having struck the throat, does it strike the palate?"
+- b1001 [granny?] "At what exact location did the first sound become a completely separate ultimate substance?"
+- b1003 [man?] "I'm just moving through the vocal tract, mate."
+- b1016 [granny?] "If there were simultaneous filling, there would be simultaneity of time."
+- b1102 [granny?] "The character of *anupradāna* is assigned to breath and resonance because they are apprehended
+- b1163 [granny?] "How can *ha* have a half?"
+- b1178 [granny?] "In forms of two and three mātrās, the inclusion of two and corresponding subdivisions is alrea
+- b1182 [granny?] "Likewise, even in a one-mātrā form, the possibility of a half-mātrā and other subdivisions is 
+- b1283 [granny?] "Salutation to him who is subtler than even the upper half-mātrā of Praṇava, yet great."
+- b1291 [granny?] "Salutation to the steadfast Lord, subtler than even the upper half-mātrā of Praṇava, yet great
+- b1399 [granny?] "How small are you?"
+- b1400 [granny?] "Smaller than the upper half-mātrā of Oṃ."
+- b1401 [granny?] "How large?"
+- b1402 [granny?] "Greater than the cosmic egg."
+- b1403 [granny?] "Which one?"
+- b1404 [man?] "Both descriptions fail to exhaust my nature."
+- b1421 [granny?] "Here, however, the fifty phonemes-or even the universe itself-are one, without sequence."
+- b1471 [granny?] "In certain scriptures, including those of the Mata tradition, an eighteenth *kalā* is also acc
+- b1530 [granny?] "Surely one of these must be the correct number?"
+- b1532 [granny?] "Correct for which system, and for which aspect of the power?"
+- b1533 [man?] "Can't we just have a single number?"
+- b1534 [granny?] "The supreme reality is nondual."
+- b1535 [granny?] "Then why are there eighteen?"
+- b1536 [granny?] "Because the nondual reality can be described through differentiated powers."
+- b1558 [granny?] "Thus these very *kalās* are called *svaras*."
+- b1637 [man?] "I'm fine."
+- b1675 [granny?] "A movement of consciousness characterized by pathos, erotic sentiment, tranquillity and relate
+- b1865 [granny?] "Taking the form of vocal accent, inflection and related qualities, they reveal $$the conscious
+- b1905 [man?] "I see."
+- b1919 [granny?] "All emotions are frequencies."
+- b1920 [granny?] "Every sacred feeling has an exact pitch."
+- b1921 [granny?] "Śṛṅgāra must be 432 Hz."
+- b1992 [granny?] "Udātta means high."
+- b1994 [man?] "Excellent. I'll shout."
+- b2031 [granny?] "Because these very $$sound-powers$$ have the nature of the musical notes beginning with Ṣaḍja,
+- b2100 [granny?] "Thus, in every cognition, all these powers-from *a* to *kṣa*-come together."
+- b2147 [granny?] "How can an indivisible phoneme have a half?"

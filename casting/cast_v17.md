@@ -1,0 +1,45 @@
+# Casting sheet v17 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b16 [man?] "Excuse me."
+- b18 [granny?] "Yes?"
+- b19 [granny?] "If consciousness is one homogeneous, undifferentiated fullness, how can you distinguish one so
+- b20 [granny?] "How can you distinguish the throat from the palate?"
+- b21 [granny?] "How can you distinguish an instrument of articulation from the sound it produces?"
+- b22 [granny?] "And if the distinctions don't ultimately exist independently, why doesn't everybody just say t
+- b41 [granny?] "How, then, can there be differentiation into 'this is a place of articulation,' 'this is an in
+- b124 [granny?] "All sounds are Śakti."
+- b126 [granny?] "Excellent. Sanskrit phonetics is therefore unnecessary."
+- b129 [granny?] "Those are three different consonants."
+- b131 [granny?] "At the supreme level, they are one."
+- b133 [granny?] "At the ordinary level, your pronunciation is shit."
+- b167 [granny?] "This is a pot."
+- b179 [granny?] "This is happiness."
+- b190 [granny?] "This is knowledge."
+- b203 [man?] "I am the knower."
+- b249 [granny?] "One letter? Fine."
+- b250 [granny?] "Another letter? More difficult."
+- b251 [granny?] "Five consonant classes? Extraordinary expenditure."
+- b252 [man?] "Thirty-six tattvas? We're going to need a divine engineering contractor."
+- b355 [granny?] "A stone has an ordinary human mind."
+- b357 [granny?] "Trees speak Sanskrit internally."
+- b359 [granny?] "Every crow possesses the same cognitive capacities as a philosopher."
+- b379 [granny?] "Surely each class must have a separate ultimate consciousness?"
+- b381 [granny?] "No. Their differentiation is manifested within one Parā."
+- b526 [granny?] "If the instruments differ, there must be a completely unrelated music for each instrument."
+- b605 [granny?] "Look at that crow. He's doing phonetics."
+- b667 [granny?] "Ka! Ka!"
+- b669 [granny?] "That bird has an unusual place of articulation."
+- b671 [granny?] "Ka!"
+- b674 [granny?] "Excellent. Now explain why the bird's sound is not outside the universal power of speech."
+- b761 [man?] "Fine. Perhaps it's outside the alphabet. We simply don't include it because it has no linguist
+- b830 [granny?] "Indistinct sounds have no use."
+- b832 [granny?] "They can produce delight or distress. What other use were you demanding?"
+- b845 [granny?] "Nothing meaningful occurred because the drummer failed to supply an accusative singular."
+- b1030 [granny?] "Excellent. All of you illustrate the impossibility of restricting sound to clearly articulated
+- b1453 [granny?] "Actually, in another classification, there are sixty-four."
+- b1608 [granny?] "But all sounds are one consciousness."
+- b1610 [granny?] "Then the supreme consciousness can surely manifest the correct vowel."
+- b1694 [granny?] "Eight times eight."
+- b1695 [granny?] "Sixty-four."
+- b1696 [man?] "Excellent. We have a complete Mātṛkā-circle."
+- b1749 [man?] "Right. We're not going to become completely obsessed with every detail of that phonemic proced

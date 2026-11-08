@@ -1,0 +1,30 @@
+# Casting sheet v32 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b47 [granny?] “Having thus explained extensively, he now brings the matter to its conclusion by stating its e
+- b52 [man?] “Right. I've explained this in some detail.”
+- b87 [granny?] “Just as a great tree exists within the seed of a banyan in the form of potential power, so thi
+- b210 [granny?] “Whoever truly knows in this way has an unmistakeable initiation leading to liberation, devoid 
+- b263 [granny?] “Without the offerings of sesame and clarified butter.”
+- b287 [granny?] “Here it has already been said that nothing whatsoever is unreal or nonexistent.”
+- b291 [granny?] “And that the universe has the nature of the All.”
+- b349 [granny?] “In precisely the form appropriate to it.”
+- b361 [granny?] “The tree exists potentially in the seed.”
+- b480 [granny?] “As has been said.”
+- b487 [granny?] “This alone is the attainment of immortality; this alone is the apprehension of the Self. And t
+- b498 [granny?] “Attainment of identity with that.”
+- b569 [granny?] “Other initiations too may bestow enjoyments.”
+- b573 [granny?] “But true understanding of this alone is initiation in the ultimate sense.”
+- b634 [granny?] “At progressively higher positions of a balance…”
+- b638 [granny?] “An immeasurable difference in measure.”
+- b696 [granny?] “Conscious apprehension itself is initiation.”
+- b757 [granny?] “Thus the unsurpassable state is established without abandoning the forms of what follows or is
+- b766 [granny?] “The absolute is beyond everything, therefore everything must be rejected.”
+- b828 [granny?] “But now this must be stated.”
+- b836 [granny?] “Those supreme Lords remain concealed, having assumed human bodies, who worship the heart-relat
+- b858 [granny?] “Then how is its worship to be performed?”
+- b885 [granny?] “On the head, face, heart, secret region, and form likewise…”
+- b889 [granny?] “Having performed the placement and bound the topknot empowered by twenty-seven recitations…”
+- b924 [granny?] “The world is in consciousness.”
+- b966 [granny?] “What is the reality in which the entire search is appearing?”
+- b1017 [granny?] “Everything is one, so all rituals are pointless.”
+- b1019 [granny?] “Ritual is absolutely necessary, so direct recognition cannot be enough.”

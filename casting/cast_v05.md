@@ -1,0 +1,24 @@
+# Casting sheet v05 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b32 [granny?] "Listen, O greatly blessed Goddess, to that which is unsurpassable even in relation to what is 
+- b33 [granny?] "This Kaulika method, O Goddess, is established in the space of my Heart. I shall explain, O Mi
+- b342 [granny?] "This is a blue flower."
+- b355 [granny?] "Knowledge requires buddhi. Buddhi is a product of Prakṛti. Therefore how could Śiva possess kn
+- b438 [man?] "I can hear noise, but I can't hear what they're saying."
+- b507 [man?] "My mantra is entirely internal because I whispered it extremely quietly."
+- b570 [granny?] "He."
+- b571 [granny?] "She."
+- b572 [granny?] "It."
+- b612 [man?] "I am twenty-seven years old, I enjoy Sanskrit, and I've had entirely too much tea."
+- b622 [granny?] "He and you stand."
+- b628 [man?] "He, you, and I stand."
+- b679 [man?] "He is looking at me."
+- b682 [man?] "You little bastard, I know you're watching me."
+- b685 [man?] "I am watching him watching me."
+- b767 [granny?] "Anuttara is higher than Uttara."
+- b891 [man?] "I've understood the supreme consciousness, but unfortunately the physical universe is still ou
+- b1291 [man?] "I have now illuminated this teaching so thoroughly that the darkness of incompetent commentary
+- b1375 [man?] "Everything I experience occurs in my awareness, therefore my individual mind creates the whole
+- b1403 [granny?] "He."
+- b1404 [granny?] "You."
+- b1405 [man?] "I."

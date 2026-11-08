@@ -1,0 +1,809 @@
+{
+ "unit": "v35",
+ "status": "proposed-scholar-confirm",
+ "rule": "citation Deva + final gloss required; video shows confirmed only",
+ "deva_terms": [
+  {
+   "term": "स",
+   "occurrences": 8,
+   "gloss": ""
+  },
+  {
+   "term": "त",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "प",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "ममैव",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "न",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "भात",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "तत",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "य",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "कश्मीरेष",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "द्विज",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "श",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "भ्रात",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "सर्वस्य",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "शिवाप्तय",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "भूयात",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "प्रपन्नजनतोद्धरणप्रवृत्त",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "वृत्त",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "व्यधात",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "त्त",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "श्रीश",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "भव",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "वाच",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "सुधिय",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "अज्ञस्य",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "प्रकरोत",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "सम्यक",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "रूढस्य",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "निश्चयवत",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "हृदयप्रतिष्ठ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "कृतिरीदृशीयम",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "विपर्यय",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "प्राग्र्यजन्म",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "तस्य",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "स्वाङ्गभव",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "शिशुचन्द्रचूडचरणध्यानैकरत्नाकर",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "नर्मभ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "सहचर",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "तस्यैव",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "करनुत",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "तस्यैवात्मभव",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "विभावितजगत्सर्गस्थित",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "बाल्य",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "यौवन",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "विषयासक्त",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "विमर्शपदव",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "शिवशासनरूढचित्त",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "प्रेप्स",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "परात्मन",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "प्रविवेक्तुकाम",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "भवभेदनाय",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "शिवशास्त्रैकरसिक",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "पदवाक्यप्रमाणवित",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "यन्मय",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "रचितम",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "मार्गप्रदर्शन",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "सततोदित",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ह्येतत्सर्वस्येत",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "शिवम",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "इत्थ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "श्रीमन्महेश्वरपदाम्बुजचञ्चुरीक",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "त्रिकरहस्यविमर्शगर्भ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "काश्मीरिकाच्चुखलकादधिगम्य",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "जन्म",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "चञ्चुरीक",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "त्रिकरहस्यविमर्शगर्भाम",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "काश्मीरिकाच्चुखलकाद",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "प्रपन्न",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "न्न",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "उद्धरण",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "द्ध",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "द",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ध",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "प्रवृत्त",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "एतावदेतदित",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "कस्तुलयेत्प्रसह्य",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "मतमनर्गलिताश्च",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "एतत्त",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "तावदखिलात्मन",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "यन्म",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "त्र",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ],
+ "iast_terms": [
+  {
+   "term": "Śiva",
+   "occurrences": 32,
+   "gloss": ""
+  },
+  {
+   "term": "Śauri",
+   "occurrences": 21,
+   "gloss": ""
+  },
+  {
+   "term": "Vatsalikā",
+   "occurrences": 18,
+   "gloss": ""
+  },
+  {
+   "term": "Vasantatilakā",
+   "occurrences": 16,
+   "gloss": ""
+  },
+  {
+   "term": "Karṇa",
+   "occurrences": 15,
+   "gloss": ""
+  },
+  {
+   "term": "Devanāgarī",
+   "occurrences": 13,
+   "gloss": ""
+  },
+  {
+   "term": "pāda",
+   "occurrences": 12,
+   "gloss": ""
+  },
+  {
+   "term": "vimarśa",
+   "occurrences": 10,
+   "gloss": ""
+  },
+  {
+   "term": "pādas",
+   "occurrences": 10,
+   "gloss": ""
+  },
+  {
+   "term": "Śārdūlavikrīḍita",
+   "occurrences": 10,
+   "gloss": ""
+  },
+  {
+   "term": "Rāmadeva",
+   "occurrences": 10,
+   "gloss": ""
+  },
+  {
+   "term": "Āryā",
+   "occurrences": 8,
+   "gloss": ""
+  },
+  {
+   "term": "mayā",
+   "occurrences": 8,
+   "gloss": ""
+  },
+  {
+   "term": "Yaśaskara",
+   "occurrences": 7,
+   "gloss": ""
+  },
+  {
+   "term": "Parātrīśikāvivaraṇa",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Śaiva",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "rūḍha",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "dvijaḥ",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Śaṅkara",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Tantrāloka",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "śiva",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "vyadhāt",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "vācaḥ",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "saṃsāra",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "pramāṇa",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "śivāptaye",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "bhūyāt",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "mātrā",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "vṛtti",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Narasiṃhagupta",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "bhāti",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "syuḥ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Śambhu",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "kaḥ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "ātman",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "vā",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "īdṛśīyam",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Vivaraṇa",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "niścayavataḥ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "hṛdaya",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "śrīmān",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "yaḥ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "prāgryajanmā",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "svāṅgabhavaḥ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "dhyāna",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "sahacarī",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "jṛmbhate",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "āyatana",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "bhū",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "bālye",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "vihāya",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "bhrātā",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Mīmāṃsā",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "vākya",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "śāstra",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "mārgapradarśanaṃ",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "śivam",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "itthaṃ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "prapannajanatoddharaṇapravṛtta",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "vṛttiṃ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "kāśmīrikāc",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "cukhalakād",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "vṛt",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Maheśvara",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "ā",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "vṛttim",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "dhā",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "prakāśa",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "ṇa",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "etāvad",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "śrīśāṃbhavaṃ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "anargalitāś",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "akhilātmani",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "parāṅmukhāḥ",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "ātmani",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "bhātam",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "bhā",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "rūḍhasya",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "kṛtir",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "jña",
+   "occurrences": 2,
+   "gloss": ""
+  }
+ ]
+}

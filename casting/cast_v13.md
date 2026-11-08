@@ -1,0 +1,27 @@
+# Casting sheet v13 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b21 [man?] "Excuse me, Ācārya."
+- b22 [granny?] "Yes?"
+- b23 [granny?] "If will can expand and contract, doesn't that require a further power governing its expansion?
+- b24 [granny?] "And if that power expands, doesn't it require another?"
+- b25 [granny?] "And another?"
+- b26 [granny?] "And another?"
+- b71 [granny?] "Withdraw your attention from this proliferation."
+- b158 [granny?] "Thoughts bad. No thoughts good."
+- b345 [granny?] "This pot has generated consciousness."
+- b348 [man?] "Because I am conscious of it."
+- b352 [granny?] "Then the pot must be unreal."
+- b411 [man?] "Everything I experience is mental, therefore there is no physical world."
+- b484 [granny?] "There's nothing in the universe."
+- b485 [man?] "I need a pot."
+- b486 [man?] "Then I shall be complete."
+- b873 [man?] "I shall leap over the shadow of my own head."
+- b944 [granny?] "Right. Six completed. Now action."
+- b1138 [man?] "We shall manifest."
+- b1140 [granny?] "Here is the intelligible structure of what becomes manifest."
+- b1142 [man?] "Right. I'll handle the actual unfolding."
+- b1591 [granny?] "Ah yes, now consider the question of its long form, its protracted form, the special grammatic
+- b1772 [granny?] "The Absolute possesses unlimited creative power."
+- b1774 [granny?] "Action emerges from the intermixture of will and knowledge."
+- b1776 [granny?] "The first four new vowel-powers are like burnt seeds."
+- b1778 [granny?] "They are the four nectar-seeds."

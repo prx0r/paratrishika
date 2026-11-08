@@ -1,0 +1,28 @@
+# Casting sheet v04 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b145 [man?] "Tell me this secret, this exceedingly great secret, my Lord."
+- b274 [man?] "I."
+- b318 [man?] "I see that."
+- b341 [man?] "Tell me."
+- b399 [man?] "My phone."
+- b400 [man?] "My book."
+- b401 [man?] "My body."
+- b402 [man?] "My experience."
+- b406 [man?] "Mine"?
+- b424 [man?] "I am all."
+- b458 [man?] "Tell me a secret."
+- b460 [man?] "First, let us construct a recursive possessive compound explaining why the Absolute cannot pos
+- b467 [man?] "I see."
+- b468 [man?] "I think."
+- b469 [man?] "I want."
+- b470 [man?] "I remember."
+- b490 [man?] "Tell me, O Lord of the gods, about that Śakti who dwells in the Heart, Kaulikī, the Mistress o
+- b492 [granny?] "Where is the Goddess?"
+- b494 [granny?] "What is the correct mantra?"
+- b713 [granny?] "Is the Goddess inside the universe or beyond the universe?"
+- b906 [man?] "I want to feel better."
+- b930 [man?] "I am merely this limited being."
+- b931 [man?] "I lack."
+- b932 [man?] "I must become something else."
+- b983 [granny?] "Gently consider loosening the knot when convenient."
+- b1005 [granny?] "Listen, O greatly fortunate Goddess, to that which is unsurpassable even beyond the higher."

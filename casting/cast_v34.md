@@ -1,0 +1,53 @@
+# Casting sheet v34 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b25 [granny?] “Complete recognition of one's own nature-this is the ultimate mantra.”
+- b55 [granny?] “What happens through worship in this manner? The following passage is introduced.”
+- b71 [granny?] “One who has performed the procedure of worship, properly remembering the seed, attains accompl
+- b124 [granny?] “Thus, remembering the seed uninterruptedly, even amid ordinary activities…”
+- b164 [granny?] “By remembrance itself, the procedure of worship has been performed.”
+- b183 [granny?] “Liberated while living.”
+- b223 [granny?] “This very experience recurs; nothing else whatsoever.”
+- b240 [granny?] “But the practitioner…”
+- b258 [granny?] “From the lotus-mouth of the gracious venerable guru.”
+- b311 [granny?] “Within which the entirety shines…”
+- b315 [granny?] “The supreme Heart.”
+- b368 [granny?] “A she-ass or even a mare…”
+- b397 [granny?] “He or she rejoices,” “becomes delighted,” from √*hṛṣ*.
+- b465 [granny?] “In the interior of the Heart associated with Suṣumnā.”
+- b469 [granny?] “Vibrating … characterised by creation.”
+- b505 [granny?] “One should contemplate.”
+- b522 [granny?] “Whether meditating, remembering, reflecting, or acting, anywhere whatsoever…”
+- b592 [man?] “I am inside here, managing these events.”
+- b641 [man?] “Śiva is nondual, therefore I must stop thinking.”
+- b645 [man?] “I must not think.”
+- b648 [man?] “Am I succeeding at not thinking?”
+- b686 [granny?] “Each finding its own variegated…”
+- b738 [granny?] “The world is unreal. Ignore it.”
+- b762 [granny?] “Even amid states, substances, activities, places, knowledge, and so forth…”
+- b818 [granny?] “Try to think of Śiva occasionally throughout the day.”
+- b885 [granny?] “Together with Kula observance-days and the pavitraka ceremonies.”
+- b947 [granny?] “As has been said.”
+- b953 [granny?] “Among teachings, the Trika scripture…”
+- b957 [granny?] “Among liberations, the Bhairava state.”
+- b1019 [granny?] “But for those desiring accomplishments, yoga must be explained.”
+- b1033 [granny?] “Imagine something and it will happen because you are Śiva.”
+- b1042 [granny?] “Nevertheless, for the sake of varied or particular activity, the means should be carefully exp
+- b1089 [granny?] “To explain that path of yoga, the remaining portion of the text is introduced.”
+- b1222 [man?] “Thus our teachers.”
+- b1225 [granny?] “But others…”
+- b1289 [granny?] “The seventeenth portion.”
+- b1357 [granny?] “The ever-arisen japa of the Heart.”
+- b1430 [granny?] “Whatever objects of desire he desires, those very things he may quickly attain.”
+- b1451 [granny?] “He desires.”
+- b1466 [granny?] “May obtain,” “would obtain,” or, in a prescriptive/resultative context, “shall obtain.”
+- b1474 [granny?] “From this, $$something$$ becomes directly manifest.”
+- b1478 [granny?] “The ignorant one comes into direct manifestation or apprehension…”
+- b1491 [granny?] “the condition of being all-knowing.”
+- b1515 [granny?] “Well,” they explain, “the supreme consciousness transcends grammar.”
+- b1541 [granny?] “Thus the attainment of the fruit of mantra is explained: this is the Rudrayāmala. Through prac
+- b1555 [granny?] “Attainment of the fruit of mantra.”
+- b1572 [granny?] “Is attained.”
+- b1583 [granny?] “The conjunction of Rudra and Rudrā…”
+- b1647 [granny?] “For this is ever manifest for everyone. Thus-auspiciousness.”
+- b1798 [man?] “I am having an unusual experience.”
+- b1800 [granny?] “The ultimate nature of the subject and its manifestation is this self-aware consciousness.”

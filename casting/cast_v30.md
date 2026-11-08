@@ -1,0 +1,88 @@
+# Casting sheet v30 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b32 [granny?] “And likewise.”
+- b41 [granny?] “She is to be received by the disciple only when the guru has been satisfied through bodily ser
+- b42 [granny?] “She” refers to the feminine mantra or sacred teaching discussed in the surrounding tantra.
+- b48 [granny?] “When she has been made known by that guru whose mind is delighted, then she should be understo
+- b53 [granny?] “On a scale of one to ten, how pleased is your guru with the quality of your devotional service
+- b54 [granny?] “Have you demonstrated sufficient metaphysical understanding, acceptable conduct, and the corre
+- b55 [granny?] “Thank you. Your application to transcend the thirty-six tattvas has been forwarded to the appr
+- b133 [granny?] “By that guru whose mind is pleased.”
+- b149 [granny?] “O one honoured by the heroes.”
+- b177 [granny?] “Made known,” “awakened,” “instructed.”
+- b214 [granny?] “Thus. And elsewhere, too-”
+- b218 [granny?] “One seed consisting of creation…”
+- b231 [granny?] “Therefore there is the rule that it is not to be written in a book.”
+- b297 [granny?] “The *jīva*, joined with the left thigh, has come through the succession of transmission.”
+- b337 [granny?] “And here too it will be said…”
+- b341 [granny?] “Just as $$what is$$ situated within the seed of a banyan tree…”
+- b358 [granny?] “This, then, is the heart of the one whose nature is Bhairava.”
+- b372 [granny?] “With reference to Mālinī, from the phoneme *na*.”
+- b376 [granny?] “But in reality, born from the phoneme *a* and from the Yoginī, the power of visarga.”
+- b433 [granny?] “Rudra is the one in whom the condition of being a knowing subject has become manifest.”
+- b442 [granny?] “One who obstructs and dissolves the bonds.”
+- b462 [man?] “I am only this body.”
+- b463 [man?] “I am only this mind.”
+- b464 [man?] “I am the one who is trapped inside experience.”
+- b465 [man?] “I am a little observer confronting an independently external universe.”
+- b475 [granny?] “He alone is the man, the person.”
+- b479 [granny?] “He obtains this clearly.”
+- b485 [granny?] “But not one who is not Rudra.”
+- b503 [granny?] “Immediate union is identity with Bhairava.”
+- b507 [granny?] “That alone has been determined to be liberation.”
+- b600 [granny?] “The mantras are the venerable phoneme-lords.”
+- b621 [granny?] “Having the nature of reflection and protection.”
+- b634 [granny?] “Consisting of non-conceptual consciousness.”
+- b638 [granny?] “Consisting of conceptual consciousness.”
+- b655 [granny?] “And the mudrās consist of the activities of all the instruments, such as hands and feet; they 
+- b686 [granny?] “The group constituted by these has the nature of an aggregate and is of one nature with the su
+- b708 [granny?] “Through sudden entry into the supreme nature.”
+- b712 [granny?] “Through the concealment of inertness characterised by dependence.”
+- b716 [granny?] “The arising of a knowing subject permeated by independent agency.”
+- b738 [granny?] “By entering into the supreme intrinsic nature.”
+- b754 [granny?] “Having the nature of dependence.”
+- b812 [granny?] “It is called *svadā* because it gives a thing its own nature.”
+- b842 [granny?] “By the expression *sadya*, entry into *sat* is also indicated.”
+- b855 [granny?] “It comes to face that,” or “becomes oriented toward that.”
+- b873 [man?] “I am here. The tree is there. I am a little consciousness inside this body looking at an exter
+- b888 [granny?] “Therefore, a moment.”
+- b894 [granny?] “Although it is not delimited by time, relative to another mode of reckoning it is merely an op
+- b908 [man?] “Oh! It's my old friend!”
+- b929 [granny?] “With reference to another reckoning.”
+- b944 [granny?] “By whose opening and closing…”
+- b969 [granny?] “The one who remembers, who connects or integrates.”
+- b989 [granny?] “Makes them one within their own Self, nondually.”
+- b1001 [granny?] “How?”
+- b1005 [granny?] “Through the magnetic, universally touching, Śākta form.”
+- b1053 [granny?] “For restriction, determination, or emphasis.”
+- b1068 [granny?] “When questioned, he also relates matters past and future.”
+- b1077 [granny?] “Whatever he seeks to know, that very thing, already within, he brings outward.”
+- b1118 [granny?] “Just as the sustaining power, invoked according to desire, brings into manifestation the objec
+- b1198 [granny?] “He is one, remaining the same even in remembering and imagining.”
+- b1231 [granny?] “Unbounded by the two aspects of time.”
+- b1257 [granny?] “And further, what is reckoned as a *ghaṭikā* in some waking condition…”
+- b1287 [granny?] “The supreme withdrawal, called Akula.”
+- b1354 [granny?] “He sees directly, without doubt.”
+- b1377 [man?] “I don't know whether that is a post or a person”
+- b1403 [granny?] “That is a blue ceramic cup, probably manufactured in 2023, belonging to me, and standing on th
+- b1421 [man?] “I tasted that mango.”
+- b1448 [granny?] “Seeing is the supreme goddess Parā, remembering is Parāparā, and conceptual determination is A
+- b1454 [granny?] “Māyā and Vidyā are both his. Māyā has the character of the four cosmic spheres, while Vidyā is
+- b1462 [granny?] “The Lord consists of the powers of the Trika.”
+- b1603 [man?] “I like this.”
+- b1604 [man?] “I dislike that.”
+- b1605 [man?] “I want this.”
+- b1606 [man?] “I fear that.”
+- b1631 [granny?] “They grant supreme accomplishment, or the fruit that has been desired.”
+- b1712 [man?] “I am fundamentally a limited subject.”
+- b1713 [man?] “Everything else is outside me.”
+- b1714 [granny?] “The world is composed of absolutely independent objects.”
+- b1715 [granny?] “Consciousness is merely one such object, somewhere inside my head.”
+- b1726 [granny?] “Thus this supreme Lord, whose nature encompasses both Vidyā and Māyā, is one alone, a compact 
+- b1764 [granny?] “But if the emphasis is on yoga…”
+- b1771 [granny?] “In the case of observable results, activity, being subject to determinacy, necessarily require
+- b1793 [man?] “Because I am Śiva, I can make anything happen by imagining it.”
+- b1822 [man?] “Because all numbers belong to mathematics, I can ignore arithmetic while doing my accounts.”
+- b1851 [granny?] “Now, concerning this meaning of the Trika…”
+- b1856 [granny?] “The unsurpassable condition that stands above all.”
+- b1863 [granny?] “Even one who has not seen the maṇḍala, whoever truly knows in this manner, becomes a possessor

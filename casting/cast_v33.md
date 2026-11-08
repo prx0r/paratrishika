@@ -1,0 +1,65 @@
+# Casting sheet v33 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b22 [granny?] “Right. Now put something on your head, face, chest, and secret parts. Bind the topknot. Do twe
+- b46 [granny?] “Having performed the placement on the head, face, heart, secret region, and bodily form likewi
+- b93 [granny?] “Having performed.”
+- b96 [granny?] “Having bound.”
+- b121 [granny?] “To Īśāna, associated with the head.”
+- b125 [granny?] “To Tatpuruṣa, associated with the face.”
+- b129 [granny?] “To Aghora, associated with the heart.”
+- b133 [granny?] “To Vāmadeva, associated with the secret region.”
+- b137 [granny?] “To Sadyojāta, associated with embodied form.”
+- b211 [granny?] “And the three goddesses, each through conjunction with the triad beginning with Will, attain n
+- b215 [granny?] “And again, through creation, maintenance, and withdrawal, they acquire threefold differentiati
+- b271 [granny?] “Binding is identity whose essence is the nondivision of everything.”
+- b317 [granny?] “One should apply the binding individually to the ten directions, first making three audible cl
+- b334 [granny?] “The directions are simply things being indicated, such as pots and the like.”
+- b357 [granny?] “One should apply or connect.”
+- b400 [granny?] “Identity with the ocean of undivided Bhairava.”
+- b437 [man?] “May Śiva, entered into our very form, make obeisance through his own Śakti to his expanded Sel
+- b448 [man?] “Entered into our form.”
+- b503 [granny?] “Then one should sprinkle all the flowers and other materials, in sequence, with water over whi
+- b555 [granny?] “Where the moving and unmoving world is absorbed.”
+- b563 [granny?] “One should worship the inner or spiritual liṅga in which the moving and unmoving world is diss
+- b615 [granny?] “The arrangement of the seat is made with a flower empowered by fourteen repetitions. There the
+- b623 [granny?] “By the fourteenth, the phoneme *au*.”
+- b627 [granny?] “Because that very phoneme has the form of the trident.”
+- b711 [granny?] “There one should worship creation.”
+- b733 [granny?] “Having enclosed creation, one should afterwards begin worship of her who is completely filled 
+- b768 [granny?] “And the enclosure of creation has the nature of the bliss arising through the encounter and st
+- b812 [granny?] “Adorned with all ornaments.”
+- b816 [granny?] “Resplendent with every constituent or limb.”
+- b857 [granny?] “One should worship the Goddess, the great sovereign Lady, empowered through twenty-seven recit
+- b912 [man?] “I am here.”
+- b913 [granny?] “The Goddess is over there.”
+- b914 [man?] “I must give her something.”
+- b915 [man?] “She might accept it and give me a result.”
+- b942 [granny?] “One should worship with supreme devotion and offer oneself. Thus the method of worship has bee
+- b981 [granny?] “One should worship by Parā herself, whose nature is the Heart.”
+- b1022 [granny?] “For the object of worship is itself brought forth.”
+- b1024 [granny?] “The deity is created?”
+- b1025 [granny?] “What the fuck are you saying?”
+- b1026 [granny?] “Are you claiming the Goddess is imaginary?”
+- b1089 [granny?] “Because there is nothing else to be offered.”
+- b1106 [granny?] “One should bring the whole Self, without remainder, into recognition of the unsurpassable stat
+- b1115 [man?] “I am willing to offer my possessions.”
+- b1119 [man?] “I am willing to offer my actions.”
+- b1123 [man?] “I am willing to offer my thoughts.”
+- b1143 [granny?] “The Self situated in all beings…”
+- b1152 [granny?] “The person whose self is established in yoga and whose vision is equal everywhere sees the Sel
+- b1169 [granny?] “In the Self.”
+- b1200 [granny?] “Thus the worship has been explained; this same procedure also applies to the fire rite.”
+- b1258 [granny?] “This alone is the procedure in the fire rite, extending even to initiation; there is no separa
+- b1295 [granny?] “Complete recognition of one's own nature is this ultimate mantra. This is initiation; this is 
+- b1318 [granny?] “This is the ultimate mantra.”
+- b1390 [granny?] “What happens through worship in this manner? Thus the next passage is introduced.”
+- b1398 [granny?] “One who has performed the method of worship, properly remembering the seed, attains accomplish
+- b1514 [granny?] “What exactly are you offering?”
+- b1515 [man?] “Myself, Lord.”
+- b1516 [granny?] “Very good. And who are you?”
+- b1517 [granny?] “A limited person seeking the divine.”
+- b1518 [granny?] “Are you certain?”
+- b1519 [man?] “Well, I've completed the ritual.”
+- b1520 [granny?] “Yes, excellent. The flowers were lovely. But who was aware of the ritual?”
+- b1521 [man?] “I was.”
+- b1522 [granny?] “And what is the nature of that awareness?”

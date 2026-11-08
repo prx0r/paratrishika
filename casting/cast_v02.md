@@ -1,0 +1,33 @@
+# Casting sheet v02 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b79 [granny?] "Śiva is the ultimate reality."
+- b80 [granny?] "Wonderful. What makes Śiva real?"
+- b81 [granny?] "Ultra-Śiva."
+- b82 [granny?] "And what makes Ultra-Śiva real?"
+- b83 [granny?] "Premium Śiva."
+- b120 [man?] "Excuse me, where can I find the water?"
+- b122 [granny?] "Well, according to scripture, you'll need to travel approximately three nautical miles beyond 
+- b186 [man?] "Fantastic. I've reached the stage beyond thoughts. Now I must be closer to Śiva."
+- b289 [granny?] "Śiva is infinite."
+- b296 [granny?] "Śiva is consciousness."
+- b309 [granny?] "This mango is ripe."
+- b310 [granny?] "That mango is rotten."
+- b323 [granny?] "This."
+- b325 [granny?] "This is the reality."
+- b341 [granny?] "This is discomfort."
+- b343 [man?] "This discomfort is preventing my meditation."
+- b345 [man?] "I am the sort of person whose meditation is constantly interrupted."
+- b399 [man?] "I have transcended waking consciousness and entered the fourth state."
+- b401 [man?] "And after that I attained the state beyond the fourth."
+- b403 [man?] "And now I'm trying to attain the one beyond the state beyond the fourth."
+- b454 [man?] "My consciousness is spiritually superior because my ancestors had a better ceremonial job desc
+- b492 [man?] "I."
+- b559 [granny?] "The first character is more fundamentally real than the entire theatre, the script, the perfor
+- b594 [man?] "Hold still, mate. I'm transferring approximately 250 millilitres of Bhairava."
+- b707 [man?] "I."
+- b817 [man?] "Ah yes, I seem to be conscious."
+- b989 [man?] "I am here."
+- b990 [granny?] "The world is there."
+- b991 [man?] "I was something yesterday."
+- b992 [man?] "I must become something tomorrow."
+- b993 [man?] "I need to get closer to Śiva."

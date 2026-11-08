@@ -1,0 +1,55 @@
+# Casting sheet v36 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b29 [granny?] “A man of eminent birth named Atrigupta, having been born in Antarvedī, entered glorious Kashmi
+- b56 [granny?] “Bearing the name Atrigupta.”
+- b73 [granny?] “He entered.”
+- b95 [granny?] “By manifestations or descents of the Crescent-crested Lord.”
+- b113 [granny?] “Whose surrounding regions have been purified.”
+- b155 [granny?] “Born from Varāhagupta, who had arisen in that distinguished lineage, was the man called Cukhal
+- b165 [granny?] “In his lineage.”
+- b203 [granny?] “Born from Varāhagupta… the one named Cukhala.”
+- b237 [granny?] “Called Cukhala.”
+- b294 [granny?] “From him.”
+- b373 [granny?] “This hidden essential truth of Trika.”
+- b424 [granny?] “As for those whose hearts are barren of genuine discrimination, it is better simply to offer t
+- b447 [granny?] “Those whose hearts are barren of discriminative understanding.”
+- b459 [granny?] “A salutation is preferable.”
+- b471 [granny?] “They discriminate or attempt to distinguish.”
+- b481 [granny?] “And they have not reached the far shore.”
+- b488 [granny?] “Fie upon these dullards!”
+- b526 [man?] “Let that person make my effort fruitful.”
+- b571 [granny?] “Those who remain indolent even about discriminating their own Self-despite their appeal for in
+- b584 [granny?] “To discern one's own Self.”
+- b618 [granny?] “For the discernment of this universe.”
+- b692 [granny?] “Wandering in confusion themselves, those of feeble understanding lead the dull multitude of cr
+- b720 [granny?] “They themselves are wandering, and they make others wander.”
+- b763 [granny?] “Through the force of designations of qualities,” or “because of attributed virtues or reputati
+- b776 [granny?] “Having bound them firmly with bonds.”
+- b821 [granny?] “To cut their fetters completely.”
+- b878 [man?] “I myself have been led astray by many who imagined themselves teachers of reality-people whose
+- b882 [man?] “I myself.”
+- b900 [granny?] “Even by many.”
+- b910 [man?] “That very I.”
+- b949 [granny?] “The pair of sound-units expressed as *tattva*.”
+- b969 [granny?] “She or it did not touch.”
+- b974 [granny?] “Whose tongue did not touch…”
+- b1005 [granny?] “The Supreme Lord, the glorious god Śambhu, whose guru-heart is moved by compassion to lift up 
+- b1078 [man?] “He appointed me.”
+- b1081 [granny?] “In this much of the matter concerning reality.”
+- b1116 [granny?] “Having reflected upon the venerable Somānanda's teaching-as though it had itself entered a hea
+- b1161 [granny?] “As though it had entered by itself.”
+- b1187 [man?] “I copied Somānanda.”
+- b1189 [man?] “I received a formula and repeated it without understanding.”
+- b1202 [man?] “This was composed by me.”
+- b1240 [granny?] “Ah! O goddesses, filled with overflowing bliss shining through the movements of the Heart's ci
+- b1392 [granny?] “In you.”
+- b1442 [granny?] “Appointed by you to the station of performing commentarial and related work, having entered th
+- b1487 [granny?] “Having entered the condition or role of a guru.”
+- b1511 [granny?] “Therefore,” “because of that.”
+- b1531 [granny?] “Forgive!”
+- b1563 [granny?] “Forgive.”
+- b1568 [granny?] “This explanation of the reality taught in the Parātriṃśikā is complete.”
+- b1585 [granny?] “This Triṃśikā has been explained in nineteen hundreds; it will break apart the knots in all th
+- b1613 [granny?] “Nineteen hundreds.”
+- b1812 [granny?] “Complete recognition of one's own nature is the ultimate mantra.”
+- b2151 [man?] “Where can I find Śiva?”

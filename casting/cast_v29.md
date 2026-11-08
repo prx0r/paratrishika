@@ -1,0 +1,164 @@
+# Casting sheet v29 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b24 [granny?] "Just as, among forms themselves, there are forms such as four-armed, three-eyed, full-bodied a
+- b30 [granny?] "Thus the letter *sa* is of this nature. The vowel *au* and Visarga have also been explained."
+- b38 [granny?] "Just as, even within the domain of forms..."
+- b67 [granny?] "Just as among forms themselves..."
+- b85 [granny?] "Much rice" → one who possesses much rice.
+- b100 [granny?] "That's unusual."
+- b101 [granny?] "Precisely."
+- b102 [granny?] "Does having four arms establish an entirely separate universe of ultimate being?"
+- b103 [granny?] "No. It is a distinctive form within the domain of forms."
+- b147 [granny?] "Those beginning with full and lean forms, and the like."
+- b176 [granny?] "Each displays a distinctive form."
+- b178 [granny?] "Exactly."
+- b187 [granny?] "And among substances, alcoholic preparations such as surā and āsava."
+- b279 [man?] "I have captured the supreme phonemic power!"
+- b281 [granny?] "Do you mean you've written its conventional graphic representation?"
+- b282 [granny?] "Yes."
+- b283 [granny?] "And is the graphic form identical with the conscious power through which writing and reading b
+- b306 [granny?] "The condition of possessing eminence or distinction."
+- b324 [granny?] "This letter is interesting."
+- b348 [granny?] "Special recognition for the letter **sa**!"
+- b350 [granny?] "Why him?"
+- b351 [granny?] "Because of his connection with supreme bliss and the expressive power of the entire phonemic n
+- b363 [granny?] "To begin with, the phoneme *sa* has the nature of the nectar of supreme bliss."
+- b429 [man?] "I have experienced pleasure."
+- b431 [granny?] "Very good."
+- b432 [man?] "Therefore I know the supreme nature of bliss."
+- b433 [granny?] "Not necessarily."
+- b434 [granny?] "But the pleasure was intense!"
+- b435 [granny?] "Intensity alone doesn't establish metaphysical realization."
+- b447 [granny?] "The entire network of phonemes."
+- b450 [granny?] "Having drawn in, gathered or brought into its scope."
+- b503 [granny?] "That's not how ordinary pronunciation works!"
+- b532 [granny?] "Of truth, happiness, prosperity, existence and the rest."
+- b569 [granny?] "The ultimate nature or form."
+- b584 [man?] "All the words *satya*, *sukha*, *sampat* and *sattā* have identical lexical meanings because t
+- b592 [man?] "I mean truth."
+- b594 [man?] "I mean happiness."
+- b596 [man?] "I mean prosperity."
+- b598 [man?] "I mean existence."
+- b600 [granny?] "Different lexical items."
+- b602 [granny?] "And what about their ultimate conscious ground and their phonemic connection with *sa*?"
+- b659 [granny?] "Excellent. A vocal expression."
+- b661 [granny?] "This may be interpreted as a sign of blissful power."
+- b663 [granny?] "Does the acoustic waveform prove realization of Parā Vāk?"
+- b664 [granny?] "No."
+- b665 [granny?] "Does the absence of the sound disprove realization?"
+- b666 [granny?] "Also no."
+- b667 [granny?] "Then what is its function?"
+- b668 [granny?] "A manifestation through which the relation between bodily expression and supreme bliss is disc
+- b725 [granny?] "Oh."
+- b739 [granny?] "Contraction and expansion of the beautiful or excellent limb."
+- b797 [granny?] "These all occur within embodied experience."
+- b799 [granny?] "And embodied experience belongs to the manifestation of conscious power."
+- b800 [granny?] "So are they the same as supreme bliss?"
+- b801 [granny?] "Not simply."
+- b802 [granny?] "Can they serve as signs in a particular Tantric interpretation?"
+- b803 [granny?] "Yes."
+- b804 [granny?] "Is the supreme reality dependent upon the body producing those signs?"
+- b805 [granny?] "No."
+- b815 [granny?] "In reality, a nature that is not Māyic."
+- b859 [granny?] "They all begin with S!"
+- b861 [granny?] "That doesn't establish common etymology."
+- b863 [man?] "Correct. My argument concerns their ultimate significance within the divine phonemic system."
+- b865 [granny?] "So you're making a metaphysical interpretation?"
+- b866 [granny?] "Yes."
+- b867 [granny?] "Not a claim of identical ordinary dictionary derivation?"
+- b868 [granny?] "Precisely."
+- b911 [granny?] "A gavaya resembles a cow."
+- b970 [granny?] "Ga-"
+- b985 [granny?] "Ga-"
+- b1007 [granny?] "Occurring at the beginning, middle or end."
+- b1034 [man?] "Can I identify a word from its first letter?"
+- b1057 [granny?] "The genuine expressive capacity of each individual phoneme."
+- b1097 [granny?] "Every Sanskrit phoneme has one fixed dictionary meaning."
+- b1101 [granny?] "Phonemes are entirely meaningless until a conventional word is constructed from acoustically m
+- b1131 [man?] "I can signify the sky!"
+- b1133 [granny?] "A wild ox!"
+- b1135 [granny?] "A cow!"
+- b1137 [granny?] "Those are distinct words."
+- b1139 [man?] "Yes. My expressive capacity operates within different complete expressions."
+- b1140 [granny?] "Can you uniquely specify all three without context?"
+- b1141 [granny?] "No."
+- b1142 [granny?] "Then your claim isn't that you are three dictionary entries at once?"
+- b1143 [granny?] "Correct."
+- b1159 [granny?] "The essential fullness of desire is described in conjunction."
+- b1203 [granny?] "As has been said."
+- b1212 [granny?] "Because word, meaning and cognition are superimposed upon one another, confusion results. Thro
+- b1345 [granny?] "Chirp."
+- b1347 [granny?] "A bird made a sound."
+- b1374 [granny?] "Every isolated sound has one independently complete conventional meaning."
+- b1382 [man?] "I've come to discuss word, object and cognition."
+- b1384 [granny?] "Excellent."
+- b1385 [man?] "Are you adopting my entire metaphysics?"
+- b1386 [granny?] "No."
+- b1387 [man?] "Then why am I here?"
+- b1388 [man?] "Because your analysis is relevant to my argument."
+- b1411 [granny?] "Having the nature of a single *varṇa*."
+- b1450 [granny?] "Rāma and Kṛṣṇa."
+- b1470 [granny?] "Not a pot."
+- b1474 [granny?] "Pot and cloth."
+- b1555 [granny?] "What does everyone contribute?"
+- b1557 [granny?] "An object or entity-type."
+- b1559 [granny?] "An action or state."
+- b1561 [granny?] "A relation of combination."
+- b1563 [granny?] "Exclusion or denial."
+- b1565 [granny?] "A grammatical relation."
+- b1568 [granny?] "So the meaningfulness of language isn't reducible to independently naming objects?"
+- b1578 [granny?] "Turned away from objectified this-ness."
+- b1666 [man?] "I am a thing!"
+- b1668 [granny?] "What sort of thing?"
+- b1669 [granny?] "A combination."
+- b1670 [granny?] "Of what?"
+- b1671 [man?] "Whatever expressions I'm joining."
+- b1672 [granny?] "So your role depends upon a relation?"
+- b1673 [granny?] "Yes."
+- b1674 [granny?] "Then you're not functioning exactly like an ordinary object-naming noun?"
+- b1675 [granny?] "No."
+- b1691 [granny?] "Of the venerable Bhartṛhari."
+- b1698 [granny?] "The initial word $$may be regarded as the sentence$$, or each word separately, or a word requi
+- b1709 [granny?] "Philosophers hold many different views concerning the sentence."
+- b1794 [granny?] "Bhartṛhari, Vākyapadīya 2.2, proves that every single phoneme contains every meaning."
+- b1802 [granny?] "Can a meaningful whole be understood from parts?"
+- b1804 [man?] "First, we should identify the competing theories of the sentence."
+- b1862 [man?] "I see a cow."
+- b1906 [man?] "We've assembled all the parts."
+- b1908 [granny?] "Who understands the sentence?"
+- b1979 [granny?] "Excellent. Every word containing S must therefore mean precisely the same thing!"
+- b1990 [granny?] "Because of determination or the power of ordered restriction."
+- b2032 [man?] "Every Sanskrit word means whatever I can creatively derive from its letters!"
+- b2034 [granny?] "That isn't how derivation works."
+- b2036 [granny?] "Does the interpretation belong to a recognized sacred phonemic and scriptural framework?"
+- b2037 [granny?] "Well, no."
+- b2038 [granny?] "Does it respect the relevant determination of meaning?"
+- b2039 [granny?] "Not really."
+- b2040 [granny?] "Then you cannot simply extend it without limit."
+- b2054 [granny?] "Thus the letter *sa* is of this nature."
+- b2058 [granny?] "The vowel *au* and Visarga have also been explained."
+- b2098 [granny?] "This has been stated in the revered Pūrvaśāstra."
+- b2196 [granny?] "Can a single letter mean something?"
+- b2198 [granny?] "Yes, in several distinguishable senses."
+- b2206 [granny?] "A letter is just a meaningless noise."
+- b2340 [granny?] “Only the sacred objects are actually divine.”
+- b2342 [granny?] “Everything participates in the divine, but particular manifestations may disclose or activate 
+- b2355 [granny?] “The phoneme *sa*, to begin with, has the essential nature of the nectar of supreme bliss.”
+- b2705 [granny?] “Ga…”
+- b2719 [man?] “I'm going to the…”
+- b2740 [granny?] “Mate, an initial G can begin thousands of words. That does not mean G has a fixed meaning.”
+- b2762 [granny?] “Because word, object or meaning, and cognition are mutually superimposed, there is confusion. 
+- b2832 [granny?] “See? Patañjali proves the magic alphabet.”
+- b2880 [granny?] “And.”
+- b2900 [granny?] “Rāma sees.”
+- b2903 [granny?] “$$Someone$$ sees Rāma.”
+- b2967 [granny?] “With regard to the sentence, the views of theorists differ in many ways: the initial word, eve
+- b2983 [granny?] “Fire!”
+- b2986 [granny?] “There is currently a fire in the building, and, having considered the relevant circumstances, 
+- b3004 [granny?] “Rāma gave…”
+- b3130 [granny?] “Every Sanskrit letter contains every meaning.”
+- b3161 [man?] “I personally invented the universe.”
+- b3183 [granny?] “There is a sound.”
+- b3185 [man?] “I am hearing that sound.”
+- b3229 [granny?] “Thus the phoneme *sa* is of this nature. The vowel *au* and visarga have also been explained.”
+- b3256 [granny?] “Through the phoneme *sa*, the triad is pervaded; through the trident, the fourth. Through visa

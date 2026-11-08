@@ -1,0 +1,21 @@
+# Casting sheet v14 (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b25 [granny?] "Thus, will and Īśana..."
+- b78 [man?] "Hello. I'd like to enter the supreme state."
+- b79 [granny?] "Where are you coming from?"
+- b80 [granny?] "Your own freedom."
+- b81 [granny?] "And what will you become when you arrive?"
+- b82 [granny?] "A new phonemic expression of your own power."
+- b83 [granny?] "Excellent. No passport necessary."
+- b183 [granny?] "Well, divine freedom permits a short *e*, therefore a short *e* must exist in ordinary Sanskri
+- b274 [granny?] "There's no short *e* in ordinary Sanskrit. You've invented it because your metaphysics require
+- b276 [granny?] "Not quite. There are special recitational precedents."
+- b285 [granny?] "Sir, is it true that certain Sāmavedic schools use shorter *e* and *o* sounds?"
+- b286 [granny?] "Yes, in the specified recitational context."
+- b287 [granny?] "Excellent."
+- b288 [granny?] "Does that mean Śiva has personally manifested the power of bliss through every instance of *e*
+- b289 [granny?] "That is not a question of ordinary grammar."
+- b781 [man?] "I am the consciousness in which objects appear."
+- b784 [man?] "Therefore every personal desire I have is a command of the Absolute, and I possess unrestricte
+- b970 [granny?] "Will is one deity. Knowledge is another. Action is a third. Therefore the universe has three i
+- b1308 [granny?] "If there are three Śaktis, there must be three ultimate substances."

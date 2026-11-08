@@ -1,0 +1,28 @@
+{
+ "unit": "v20",
+ "files": {
+  "storyboards/storyboard_v20.json": {
+   "sha256": "22662400a7dee547",
+   "bytes": 652357
+  },
+  "chapters/v20.md": {
+   "sha256": "dcc2864383b6f659",
+   "bytes": 104809
+  },
+  "overrides_v20.json": {
+   "sha256": "c7f9aed4f11ff4b8",
+   "bytes": 1401
+  },
+  "glossary_v20.json": {
+   "sha256": "40461b607c2de385",
+   "bytes": 11784
+  },
+  "casting/cast_v20.md": {
+   "sha256": "abd40244bc3aaff3",
+   "bytes": 5390
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms",
+ "warnings": "verse-display sections with no narration (structural, owner disposes)"
+}

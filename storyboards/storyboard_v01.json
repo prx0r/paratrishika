@@ -1,0 +1,3396 @@
+{
+ "title": "Parātrīśikāvivaraṇa",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "title",
+   "voice": "granny",
+   "text": "Parātrīśikāvivaraṇa",
+   "directed": "[long pause] Parātrīśikāvivaraṇa"
+  },
+  {
+   "id": "b2",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta's Absolute Masterclass in Consciousness, Language and the Supreme Reality",
+   "directed": "Abhinavagupta's Absolute Masterclass in Consciousness, Language and the Supreme Reality"
+  },
+  {
+   "id": "b3",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "PART I - The Goddess Asks the Ultimate Question",
+   "directed": "PART I - The Goddess Asks the Ultimate Question"
+  },
+  {
+   "id": "b4",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right, you magnificent little contraction of infinite consciousness. We're entering some seriously outrageous territory now.",
+   "directed": "Right, you magnificent little contraction of infinite consciousness. We're entering some seriously outrageous territory now."
+  },
+  {
+   "id": "b5",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You've survived the Śiva Sūtras. You've wrestled with the Paramārthasāra. You've followed Abhinavagupta through the Tantrasāra, where the entire universe turned out to be Śiva doing increasingly elaborate things with himself.",
+   "directed": "You've survived the Śiva Sūtras. You've wrestled with the Paramārthasāra. You've followed Abhinavagupta through the Tantrasāra, where the entire universe turned out to be Śiva doing increasingly elaborate things with himself."
+  },
+  {
+   "id": "b6",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we've arrived at the *Parātrīśikāvivaraṇa*.",
+   "directed": "And now we've arrived at the *Parātrīśikāvivaraṇa*."
+  },
+  {
+   "id": "b7",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where Abhinavagupta looks at the whole business of language and declares, essentially:",
+   "directed": "[short pause] This is where Abhinavagupta looks at the whole business of language and declares, essentially:"
+  },
+  {
+   "id": "b8",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**You think you're speaking Sanskrit? My brother in Bhairava, the entire cosmos is already an act of speech.**",
+   "directed": "**You think you're speaking Sanskrit? My brother in Bhairava, the entire cosmos is already an act of speech.**"
+  },
+  {
+   "id": "b9",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then he proceeds to spend an extraordinary amount of time explaining the first question.",
+   "directed": "And then he proceeds to spend an extraordinary amount of time explaining the first question."
+  },
+  {
+   "id": "b10",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I'm not kidding. The first verse alone receives approximately fifty pages of commentary in the Kashmir Series edition. He explores sixteen interpretations of one word, *anuttara*. Sixteen. The man has barely opened his mouth and the metaphysical machinery is already operating at maximum capacity. ; \\]",
+   "directed": "I'm not kidding. The first verse alone receives approximately fifty pages of commentary in the Kashmir Series edition. He explores sixteen interpretations of one word, *anuttara*. Sixteen. The man has barely opened his mouth and the metaphysical machinery is already operating at maximum capacity. ; \\]"
+  },
+  {
+   "id": "b11",
+   "section": "Parātrīśikāvivaraṇa",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We'll follow the actual order: Abhinavagupta's five opening benedictory verses, the Goddess's first question, and the opening movement of his commentary. All original Sanskrit verses will be presented in Devanāgarī and IAST, with literal word analysis, sandhi, grammatical endings, and the deeper Trika meanings clearly distinguished.",
+   "directed": "We'll follow the actual order: Abhinavagupta's five opening benedictory verses, the Goddess's first question, and the opening movement of his commentary. All original Sanskrit verses will be presented in Devanāgarī and IAST, with literal word analysis, sandhi, grammatical endings, and the deeper Trika meanings clearly distinguished."
+  },
+  {
+   "id": "b12",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "title",
+   "voice": "granny",
+   "text": "Prologue: What the hell does the title mean?",
+   "directed": "[long pause] Prologue: What the hell does the title mean?"
+  },
+  {
+   "id": "b13",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**परात्रीशिकाविवरण**",
+   "directed": "[slowly] **परात्रीशिकाविवरण**"
+  },
+  {
+   "id": "b14",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Parātrīśikāvivaraṇa*",
+   "directed": "[slowly] *Parātrīśikāvivaraṇa*"
+  },
+  {
+   "id": "b15",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Start by dividing the title:",
+   "directed": "[short pause] Start by dividing the title:"
+  },
+  {
+   "id": "b16",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**परात्रीशिका + विवरण**",
+   "directed": "[slowly] **परात्रीशिका + विवरण**"
+  },
+  {
+   "id": "b17",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Parātrīśikā + vivaraṇa*",
+   "directed": "[slowly] *Parātrīśikā + vivaraṇa*"
+  },
+  {
+   "id": "b18",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "- **Parā (परा):** the Supreme, the transcendent Goddess, supreme Consciousness.\n- **Trīśikā (त्रीशिका):** interpreted within the Trika tradition in relation to the three divine powers.\n- **Vivaraṇa (विवरण):** an explanation, exposition, or detailed elucidation.",
+   "directed": "[slowly] - **Parā (परा):** the Supreme, the transcendent Goddess, supreme Consciousness.\n- **Trīśikā (त्रीशिका):** interpreted within the Trika tradition in relation to the three divine powers.\n- **Vivaraṇa (विवरण):** an explanation, exposition, or detailed elucidation."
+  },
+  {
+   "id": "b19",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The name also occurs in forms such as *Parātriṃśikā* and *Parātriṃśaka*. These are textual title variants, so we shouldn't pretend they all have one uncomplicated grammatical derivation.",
+   "directed": "The name also occurs in forms such as *Parātriṃśikā* and *Parātriṃśaka*. These are textual title variants, so we shouldn't pretend they all have one uncomplicated grammatical derivation."
+  },
+  {
+   "id": "b20",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And *vivaraṇa* is a lovely word. It describes an exposition that opens something up, making its meaning apparent.",
+   "directed": "And *vivaraṇa* is a lovely word. It describes an exposition that opens something up, making its meaning apparent."
+  },
+  {
+   "id": "b21",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Essentially, the scripture is a compact teaching preserved as part of the Rudrayāmala tradition, and Abhinavagupta comes along and unfolds its implications across an enormous philosophical commentary.",
+   "directed": "Essentially, the scripture is a compact teaching preserved as part of the Rudrayāmala tradition, and Abhinavagupta comes along and unfolds its implications across an enormous philosophical commentary."
+  },
+  {
+   "id": "b22",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The central subject is not merely *what* consciousness is.",
+   "directed": "The central subject is not merely *what* consciousness is."
+  },
+  {
+   "id": "b23",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is how the infinite, undivided consciousness of Śiva can appear as thought, language, distinction, individual experience, and the entire universe without ever ceasing to be undivided.",
+   "directed": "It is how the infinite, undivided consciousness of Śiva can appear as thought, language, distinction, individual experience, and the entire universe without ever ceasing to be undivided."
+  },
+  {
+   "id": "b24",
+   "section": "Prologue: What the hell does the title mean?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the bastard is cooking.",
+   "directed": "Now the bastard is cooking."
+  },
+  {
+   "id": "b25",
+   "section": "The five opening verses",
+   "type": "title",
+   "voice": "granny",
+   "text": "The five opening verses",
+   "directed": "[long pause] The five opening verses"
+  },
+  {
+   "id": "b26",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Before the actual Tantra begins, Abhinavagupta composes five introductory verses. These belong to **Abhinavagupta's commentary**, not to the Goddess-Bhairava dialogue itself.",
+   "directed": "Before the actual Tantra begins, Abhinavagupta composes five introductory verses. These belong to **Abhinavagupta's commentary**, not to the Goddess-Bhairava dialogue itself."
+  },
+  {
+   "id": "b27",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Benediction I - The cosmic parents",
+   "directed": "### Benediction I - The cosmic parents"
+  },
+  {
+   "id": "b28",
+   "section": "The five opening verses",
+   "type": "label",
+   "voice": "none",
+   "text": "ORIGINAL SANSKRIT",
+   "directed": "ORIGINAL SANSKRIT"
+  },
+  {
+   "id": "b29",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विमलकलाश्रयाभिनवसृष्टिमहा जननी भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः।",
+   "directed": "[slowly] विमलकलाश्रयाभिनवसृष्टिमहा जननी भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः।"
+  },
+  {
+   "id": "b30",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तदुभययामलस्फुरितभावविसर्गमयं हृदयमनुत्तरामृतकुलं मम संस्फुरतात्॥१॥",
+   "directed": "[slowly] तदुभययामलस्फुरितभावविसर्गमयं हृदयमनुत्तरामृतकुलं मम संस्फुरतात्॥१॥"
+  },
+  {
+   "id": "b31",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuśca pañcamukhaguptarucirjanakaḥ.*",
+   "directed": "[slowly] *Vimalakalāśrayābhinavasṛṣṭimahā jananī bharitatanuśca pañcamukhaguptarucirjanakaḥ.*"
+  },
+  {
+   "id": "b32",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Tadubhayayāmalasphuritabhāvavisargamayaṃ hṛdayamanuttarāmṛtakulaṃ mama saṃsphuratāt.*",
+   "directed": "*Tadubhayayāmalasphuritabhāvavisargamayaṃ hṛdayamanuttarāmṛtakulaṃ mama saṃsphuratāt.*"
+  },
+  {
+   "id": "b33",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### The reading",
+   "directed": "### The reading"
+  },
+  {
+   "id": "b34",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta begins with the Mother and Father: Śakti and Śiva, the divine pair whose inseparable union manifests the universe.",
+   "directed": "Abhinavagupta begins with the Mother and Father: Śakti and Śiva, the divine pair whose inseparable union manifests the universe."
+  },
+  {
+   "id": "b35",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mother is the power of ever-new creation. The Father is fullness itself, whose fivefold divine power participates in the unfolding of that creation.",
+   "directed": "The Mother is the power of ever-new creation. The Father is fullness itself, whose fivefold divine power participates in the unfolding of that creation."
+  },
+  {
+   "id": "b36",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta prays that his own heart might blaze forth as the meeting place of their undivided reality, filled with the nectar of Anuttara.",
+   "directed": "And Abhinavagupta prays that his own heart might blaze forth as the meeting place of their undivided reality, filled with the nectar of Anuttara."
+  },
+  {
+   "id": "b37",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b38",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "May my heart stop behaving like some miserable little private apartment belonging to an anxious individual and reveal itself as the limitless living expanse of Śiva and Śakti.",
+   "directed": "May my heart stop behaving like some miserable little private apartment belonging to an anxious individual and reveal itself as the limitless living expanse of Śiva and Śakti."
+  },
+  {
+   "id": "b39",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful.",
+   "directed": "Beautiful."
+  },
+  {
+   "id": "b40",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now look at what he's done with the Sanskrit.",
+   "directed": "But now look at what he's done with the Sanskrit."
+  },
+  {
+   "id": "b41",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Abhinava (अभिनव)** means fresh, new, ever-renewed.",
+   "directed": "[slowly] **Abhinava (अभिनव)** means fresh, new, ever-renewed."
+  },
+  {
+   "id": "b42",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Break it down:",
+   "directed": "[short pause] Break it down:"
+  },
+  {
+   "id": "b43",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "- **abhi (अभि)** - towards, in the direction of, intensely.\n- **nava (नव)** - new, fresh.",
+   "directed": "[slowly] - **abhi (अभि)** - towards, in the direction of, intensely.\n- **nava (नव)** - new, fresh."
+  },
+  {
+   "id": "b44",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The complete word means new, fresh or novel; its components do not independently establish every philosophical implication.",
+   "directed": "The complete word means new, fresh or novel; its components do not independently establish every philosophical implication."
+  },
+  {
+   "id": "b45",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Sṛṣṭi (सृष्टि)** means emission, creation, manifestation, from √*sṛj*, to release or send forth.",
+   "directed": "[slowly] **Sṛṣṭi (सृष्टि)** means emission, creation, manifestation, from √*sṛj*, to release or send forth."
+  },
+  {
+   "id": "b46",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Jananī (जननी)** means mother, she who gives birth, related to √*jan*, to generate or be born.",
+   "directed": "[slowly] **Jananī (जननी)** means mother, she who gives birth, related to √*jan*, to generate or be born."
+  },
+  {
+   "id": "b47",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Hṛdaya (हृदय)** means heart. In Trika, the divine Heart is not merely an organ or an emotional metaphor. It is the luminous centre of all manifestation, where subject and object are not ultimately separated.",
+   "directed": "[slowly] **Hṛdaya (हृदय)** means heart. In Trika, the divine Heart is not merely an organ or an emotional metaphor. It is the luminous centre of all manifestation, where subject and object are not ultimately separated."
+  },
+  {
+   "id": "b48",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Visarga (विसर्ग)** means emission, sending forth, release.",
+   "directed": "[slowly] **Visarga (विसर्ग)** means emission, sending forth, release."
+  },
+  {
+   "id": "b49",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this last word is going to become absolutely crucial.",
+   "directed": "And this last word is going to become absolutely crucial."
+  },
+  {
+   "id": "b50",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the two dots of the Sanskrit visarga sign, **ः**?",
+   "directed": "Remember the two dots of the Sanskrit visarga sign, **ः**?"
+  },
+  {
+   "id": "b51",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary Sanskrit writing, the visarga represents a particular post-vocalic sound. But in Trika's phonemic symbolism, *visarga* also acquires a cosmological significance: the power of consciousness to emit manifestation.",
+   "directed": "In ordinary Sanskrit writing, the visarga represents a particular post-vocalic sound. But in Trika's phonemic symbolism, *visarga* also acquires a cosmological significance: the power of consciousness to emit manifestation."
+  },
+  {
+   "id": "b52",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This does **not** mean Sanskrit grammar literally proves the metaphysics. Abhinavagupta is taking the structure of sacred language and interpreting it as a revelation of consciousness.",
+   "directed": "This does **not** mean Sanskrit grammar literally proves the metaphysics. Abhinavagupta is taking the structure of sacred language and interpreting it as a revelation of consciousness."
+  },
+  {
+   "id": "b53",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here's the cheeky bit.",
+   "directed": "Now here's the cheeky bit."
+  },
+  {
+   "id": "b54",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stanza can also be read as an allusion to Abhinavagupta's actual parents: his mother Vimalā and his father Narasiṃhagupta.",
+   "directed": "The stanza can also be read as an allusion to Abhinavagupta's actual parents: his mother Vimalā and his father Narasiṃhagupta."
+  },
+  {
+   "id": "b55",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So his very first verse carries a double meaning: the cosmic parents and the human parents through whom he came into existence.",
+   "directed": "So his very first verse carries a double meaning: the cosmic parents and the human parents through whom he came into existence."
+  },
+  {
+   "id": "b56",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe creates Abhinavagupta; Abhinavagupta writes about the universe creating itself.",
+   "directed": "The universe creates Abhinavagupta; Abhinavagupta writes about the universe creating itself."
+  },
+  {
+   "id": "b57",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recursive audacity is already off the charts.",
+   "directed": "The recursive audacity is already off the charts."
+  },
+  {
+   "id": "b58",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Benediction II - The universe is inside her",
+   "directed": "### Benediction II - The universe is inside her"
+  },
+  {
+   "id": "b59",
+   "section": "The five opening verses",
+   "type": "label",
+   "voice": "none",
+   "text": "ORIGINAL SANSKRIT",
+   "directed": "ORIGINAL SANSKRIT"
+  },
+  {
+   "id": "b60",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "यस्यामन्तर्विश्वमेतद्विभाति बाह्याभासं भासमानं विशृष्टौ।",
+   "directed": "[slowly] यस्यामन्तर्विश्वमेतद्विभाति बाह्याभासं भासमानं विशृष्टौ।"
+  },
+  {
+   "id": "b61",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "क्षोभे क्षीणेऽनुत्तरायां स्थितौ तां वन्दे देवीं स्वात्मसंवित्तिमेकाम्॥२॥",
+   "directed": "[slowly] क्षोभे क्षीणेऽनुत्तरायां स्थितौ तां वन्दे देवीं स्वात्मसंवित्तिमेकाम्॥२॥"
+  },
+  {
+   "id": "b62",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Yasyām antar viśvam etad vibhāti bāhyābhāsaṃ bhāsamānaṃ viśṛṣṭau.*",
+   "directed": "*Yasyām antar viśvam etad vibhāti bāhyābhāsaṃ bhāsamānaṃ viśṛṣṭau.*"
+  },
+  {
+   "id": "b63",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Kṣobhe kṣīṇe 'nuttarāyāṃ sthitau tāṃ vande devīṃ svātmasaṃvittim ekām.*",
+   "directed": "*Kṣobhe kṣīṇe 'nuttarāyāṃ sthitau tāṃ vande devīṃ svātmasaṃvittim ekām.*"
+  },
+  {
+   "id": "b64",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### The reading",
+   "directed": "### The reading"
+  },
+  {
+   "id": "b65",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta bows to the one Goddess, the consciousness of one's own Self, within whom the entire universe shines.",
+   "directed": "Abhinavagupta bows to the one Goddess, the consciousness of one's own Self, within whom the entire universe shines."
+  },
+  {
+   "id": "b66",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "During manifestation, the world appears external. When the agitation of differentiation subsides, that apparent exteriority is recognized as resting within Anuttara.",
+   "directed": "During manifestation, the world appears external. When the agitation of differentiation subsides, that apparent exteriority is recognized as resting within Anuttara."
+  },
+  {
+   "id": "b67",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now wait.",
+   "directed": "Now wait."
+  },
+  {
+   "id": "b68",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is one of those sentences that can completely rearrange your understanding of experience.",
+   "directed": "This is one of those sentences that can completely rearrange your understanding of experience."
+  },
+  {
+   "id": "b69",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Look at the Sanskrit:",
+   "directed": "[short pause] Look at the Sanskrit:"
+  },
+  {
+   "id": "b70",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**विश्वम् - viśvam**: the universe, everything.",
+   "directed": "[slowly] **विश्वम् - viśvam**: the universe, everything."
+  },
+  {
+   "id": "b71",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**अन्तर् - antar**: within.",
+   "directed": "[slowly] **अन्तर् - antar**: within."
+  },
+  {
+   "id": "b72",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**विभाति - vibhāti**: shines forth, appears.",
+   "directed": "[slowly] **विभाति - vibhāti**: shines forth, appears."
+  },
+  {
+   "id": "b73",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From *vi-* plus √*bhā*, to shine.",
+   "directed": "From *vi-* plus √*bhā*, to shine."
+  },
+  {
+   "id": "b74",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b75",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**बाह्याभासम् - bāhyābhāsam**",
+   "directed": "[slowly] **बाह्याभासम् - bāhyābhāsam**"
+  },
+  {
+   "id": "b76",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Break this one down carefully.",
+   "directed": "Break this one down carefully."
+  },
+  {
+   "id": "b77",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "- **bāhya (बाह्य)** - external, outward.\n- **ābhāsa (आभास)** - appearance, manifestation, shining forth.",
+   "directed": "[slowly] - **bāhya (बाह्य)** - external, outward.\n- **ābhāsa (आभास)** - appearance, manifestation, shining forth."
+  },
+  {
+   "id": "b78",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Together, *bāhyābhāsa* means an appearance of exteriority.",
+   "directed": "Together, *bāhyābhāsa* means an appearance of exteriority."
+  },
+  {
+   "id": "b79",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not necessarily something entirely false.",
+   "directed": "Not necessarily something entirely false."
+  },
+  {
+   "id": "b80",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something **appearing as external**.",
+   "directed": "Something **appearing as external**."
+  },
+  {
+   "id": "b81",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That's a huge difference.",
+   "directed": "That's a huge difference."
+  },
+  {
+   "id": "b82",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Trika does not simply dismiss the world as a mistake. Manifestation is real as the self-expression of consciousness. What is mistaken is the assumption that its apparent separation constitutes ultimate independence from consciousness.",
+   "directed": "Trika does not simply dismiss the world as a mistake. Manifestation is real as the self-expression of consciousness. What is mistaken is the assumption that its apparent separation constitutes ultimate independence from consciousness."
+  },
+  {
+   "id": "b83",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine looking at a tree.",
+   "directed": "Imagine looking at a tree."
+  },
+  {
+   "id": "b84",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary experience says: here is me, the observer, and over there is the tree, an object.",
+   "directed": "Ordinary experience says: here is me, the observer, and over there is the tree, an object."
+  },
+  {
+   "id": "b85",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta is asking you to investigate the very experience in which that separation appears.",
+   "directed": "Abhinavagupta is asking you to investigate the very experience in which that separation appears."
+  },
+  {
+   "id": "b86",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The visual form of the tree is present to awareness. Its greenness, its shape, its location, even its apparent distance, all arise as determinations of experience.",
+   "directed": "The visual form of the tree is present to awareness. Its greenness, its shape, its location, even its apparent distance, all arise as determinations of experience."
+  },
+  {
+   "id": "b87",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is experienced *as outside*, but that outside-ness itself is manifest within consciousness.",
+   "directed": "The world is experienced *as outside*, but that outside-ness itself is manifest within consciousness."
+  },
+  {
+   "id": "b88",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Trika goes further than this phenomenological observation: consciousness is not merely the private awareness of one individual witnessing a world. Universal consciousness is the ground and reality of both observer and observed.",
+   "directed": "And Trika goes further than this phenomenological observation: consciousness is not merely the private awareness of one individual witnessing a world. Universal consciousness is the ground and reality of both observer and observed."
+  },
+  {
+   "id": "b89",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now watch the other important expression.",
+   "directed": "Now watch the other important expression."
+  },
+  {
+   "id": "b90",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**स्वात्मसंवित्तिम् - svātmasaṃvittim**",
+   "directed": "[slowly] **स्वात्मसंवित्तिम् - svātmasaṃvittim**"
+  },
+  {
+   "id": "b91",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "- **sva** - one's own.\n- **ātman** - self.\n- **saṃvitti** - consciousness, awareness, knowing.",
+   "directed": "- **sva** - one's own.\n- **ātman** - self.\n- **saṃvitti** - consciousness, awareness, knowing."
+  },
+  {
+   "id": "b92",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is sandhi here: *sva + ātma* becomes *svātma*, because **a + ā → ā**.",
+   "directed": "There is sandhi here: *sva + ātma* becomes *svātma*, because **a + ā → ā**."
+  },
+  {
+   "id": "b93",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the ending *-im* marks the feminine accusative singular: the Goddess whom he is praising.",
+   "directed": "And the ending *-im* marks the feminine accusative singular: the Goddess whom he is praising."
+  },
+  {
+   "id": "b94",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same reality is the awareness by which you know your own being.",
+   "directed": "The same reality is the awareness by which you know your own being."
+  },
+  {
+   "id": "b95",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No second universe required.",
+   "directed": "No second universe required."
+  },
+  {
+   "id": "b96",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Benediction III - The Trika itself",
+   "directed": "### Benediction III - The Trika itself"
+  },
+  {
+   "id": "b97",
+   "section": "The five opening verses",
+   "type": "label",
+   "voice": "none",
+   "text": "ORIGINAL SANSKRIT",
+   "directed": "ORIGINAL SANSKRIT"
+  },
+  {
+   "id": "b98",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नरशक्तिशिवात्मकं त्रिकं हृदये या विनिधाय भासयेत्।",
+   "directed": "[slowly] नरशक्तिशिवात्मकं त्रिकं हृदये या विनिधाय भासयेत्।"
+  },
+  {
+   "id": "b99",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रणमामि परामनुत्तरां निजभासां प्रतिभाचमत्कृतिम्॥३॥",
+   "directed": "[slowly] प्रणमामि परामनुत्तरां निजभासां प्रतिभाचमत्कृतिम्॥३॥"
+  },
+  {
+   "id": "b100",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Naraśaktiśivātmakaṃ trikaṃ hṛdaye yā vinidhāya bhāsayet.*",
+   "directed": "[slowly] *Naraśaktiśivātmakaṃ trikaṃ hṛdaye yā vinidhāya bhāsayet.*"
+  },
+  {
+   "id": "b101",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Praṇamāmi parām anuttarāṃ nijabhāsāṃ pratibhācamatkṛtim.*",
+   "directed": "[slowly] *Praṇamāmi parām anuttarāṃ nijabhāsāṃ pratibhācamatkṛtim.*"
+  },
+  {
+   "id": "b102",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here we have the actual triad:",
+   "directed": "[short pause] Here we have the actual triad:"
+  },
+  {
+   "id": "b103",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**नर**",
+   "directed": "[slowly] **नर**"
+  },
+  {
+   "id": "b104",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "nara",
+   "directed": "nara"
+  },
+  {
+   "id": "b105",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited experiencer, the individual.",
+   "directed": "The limited experiencer, the individual."
+  },
+  {
+   "id": "b106",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**शक्ति**",
+   "directed": "[slowly] **शक्ति**"
+  },
+  {
+   "id": "b107",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "śakti",
+   "directed": "[slowly] śakti"
+  },
+  {
+   "id": "b108",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Divine power, the dynamism of consciousness.",
+   "directed": "Divine power, the dynamism of consciousness."
+  },
+  {
+   "id": "b109",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**शिव**",
+   "directed": "[slowly] **शिव**"
+  },
+  {
+   "id": "b110",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "śiva",
+   "directed": "[slowly] śiva"
+  },
+  {
+   "id": "b111",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme conscious reality.",
+   "directed": "The supreme conscious reality."
+  },
+  {
+   "id": "b112",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Nara-śakti-śivātmakaṃ trikam** means the triad constituted by nara, Śakti, and Śiva.",
+   "directed": "**Nara-śakti-śivātmakaṃ trikam** means the triad constituted by nara, Śakti, and Śiva."
+  },
+  {
+   "id": "b113",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That word *trika* comes from *tri*, three.",
+   "directed": "That word *trika* comes from *tri*, three."
+  },
+  {
+   "id": "b114",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the three are not three entirely separate substances.",
+   "directed": "But the three are not three entirely separate substances."
+  },
+  {
+   "id": "b115",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess holds this whole triad within her Heart and causes it to shine forth.",
+   "directed": "The Goddess holds this whole triad within her Heart and causes it to shine forth."
+  },
+  {
+   "id": "b116",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited human being is therefore not an alien object accidentally deposited in a universe controlled by Śiva.",
+   "directed": "The limited human being is therefore not an alien object accidentally deposited in a universe controlled by Śiva."
+  },
+  {
+   "id": "b117",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nara is Śiva appearing under conditions of limitation, through his own Śakti.",
+   "directed": "Nara is Śiva appearing under conditions of limitation, through his own Śakti."
+  },
+  {
+   "id": "b118",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes my favourite expression in the verse:",
+   "directed": "[short pause] And then comes my favourite expression in the verse:"
+  },
+  {
+   "id": "b119",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**प्रतिभाचमत्कृतिम् - pratibhācamatkṛtim**",
+   "directed": "[slowly] **प्रतिभाचमत्कृतिम् - pratibhācamatkṛtim**"
+  },
+  {
+   "id": "b120",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Pratibhā* refers to intuitive illumination, the immediate flash of understanding.",
+   "directed": "*Pratibhā* refers to intuitive illumination, the immediate flash of understanding."
+  },
+  {
+   "id": "b121",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Camatkṛti* suggests wonder, astonishment, delighted recognition.",
+   "directed": "*Camatkṛti* suggests wonder, astonishment, delighted recognition."
+  },
+  {
+   "id": "b122",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The astonishing, self-luminous flash of consciousness.",
+   "directed": "The astonishing, self-luminous flash of consciousness."
+  },
+  {
+   "id": "b123",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is not just dry epistemology. Abhinavagupta insists that consciousness possesses a reflexive, experiential vitality, a capacity to recognize and relish its own manifestation.",
+   "directed": "This is not just dry epistemology. Abhinavagupta insists that consciousness possesses a reflexive, experiential vitality, a capacity to recognize and relish its own manifestation."
+  },
+  {
+   "id": "b124",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva doesn't merely know.",
+   "directed": "Śiva doesn't merely know."
+  },
+  {
+   "id": "b125",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He knows that he knows, and the self-revelation of that knowing is not something added from outside.",
+   "directed": "He knows that he knows, and the self-revelation of that knowing is not something added from outside."
+  },
+  {
+   "id": "b126",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, my friend, we have arrived at the point where epistemology begins behaving suspiciously like ecstasy.",
+   "directed": "And now, my friend, we have arrived at the point where epistemology begins behaving suspiciously like ecstasy."
+  },
+  {
+   "id": "b127",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Benediction IV - The first teacher",
+   "directed": "### Benediction IV - The first teacher"
+  },
+  {
+   "id": "b128",
+   "section": "The five opening verses",
+   "type": "label",
+   "voice": "none",
+   "text": "ORIGINAL SANSKRIT",
+   "directed": "ORIGINAL SANSKRIT"
+  },
+  {
+   "id": "b129",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "जयत्यनर्घमहिमा विपाशितपशुव्रजः।",
+   "directed": "[slowly] जयत्यनर्घमहिमा विपाशितपशुव्रजः।"
+  },
+  {
+   "id": "b130",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "श्रीमानाद्यगुरुः शम्भुः श्रीकण्ठः परमेश्वरः॥४॥",
+   "directed": "[slowly] श्रीमानाद्यगुरुः शम्भुः श्रीकण्ठः परमेश्वरः॥४॥"
+  },
+  {
+   "id": "b131",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Jayaty anarghamahimā vipāśitapaśuvrajaḥ.*",
+   "directed": "*Jayaty anarghamahimā vipāśitapaśuvrajaḥ.*"
+  },
+  {
+   "id": "b132",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Śrīmān ādyaguruḥ śambhuḥ śrīkaṇṭhaḥ parameśvaraḥ.*",
+   "directed": "[slowly] *Śrīmān ādyaguruḥ śambhuḥ śrīkaṇṭhaḥ parameśvaraḥ.*"
+  },
+  {
+   "id": "b133",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Glory to the primordial Guru, Śambhu, the Supreme Lord, of immeasurable greatness, who frees the multitude of bound beings.",
+   "directed": "Glory to the primordial Guru, Śambhu, the Supreme Lord, of immeasurable greatness, who frees the multitude of bound beings."
+  },
+  {
+   "id": "b134",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Important words:",
+   "directed": "[short pause] Important words:"
+  },
+  {
+   "id": "b135",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Ādyaguruḥ** \\= *ādya* \\(first, original) + *guru* \\(teacher).",
+   "directed": "**Ādyaguruḥ** \\= *ādya* \\(first, original) + *guru* \\(teacher)."
+  },
+  {
+   "id": "b136",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Paśu (पशु)** \\= literally an animal, but in Śaiva theology, a bound individual soul.",
+   "directed": "[slowly] **Paśu (पशु)** \\= literally an animal, but in Śaiva theology, a bound individual soul."
+  },
+  {
+   "id": "b137",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Pāśa (पाश)** \\= a bond, fetter or noose.",
+   "directed": "[slowly] **Pāśa (पाश)** \\= a bond, fetter or noose."
+  },
+  {
+   "id": "b138",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Traditional Śaiva interpretation connects the bound *paśu* to the *pāśa* that restricts it. These are closely related in the theological symbolism, although that is not an excuse to invent simplistic grammatical derivations.",
+   "directed": "Traditional Śaiva interpretation connects the bound *paśu* to the *pāśa* that restricts it. These are closely related in the theological symbolism, although that is not an excuse to invent simplistic grammatical derivations."
+  },
+  {
+   "id": "b139",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In this system, bondage involves the contractions and obscurations preventing recognition of one's own universal nature.",
+   "directed": "In this system, bondage involves the contractions and obscurations preventing recognition of one's own universal nature."
+  },
+  {
+   "id": "b140",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The *paśu* is not a fundamentally worthless being.",
+   "directed": "The *paśu* is not a fundamentally worthless being."
+  },
+  {
+   "id": "b141",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It's consciousness taking its own limitation as final.",
+   "directed": "It's consciousness taking its own limitation as final."
+  },
+  {
+   "id": "b142",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the primordial Guru reveals that limitation for what it is.",
+   "directed": "And the primordial Guru reveals that limitation for what it is."
+  },
+  {
+   "id": "b143",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Benediction V - Abhinavagupta enters the chat",
+   "directed": "### Benediction V - Abhinavagupta enters the chat"
+  },
+  {
+   "id": "b144",
+   "section": "The five opening verses",
+   "type": "label",
+   "voice": "none",
+   "text": "ORIGINAL SANSKRIT",
+   "directed": "ORIGINAL SANSKRIT"
+  },
+  {
+   "id": "b145",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "निजशिष्यविबोधाय प्रबुद्धस्मरणाय च।",
+   "directed": "[slowly] निजशिष्यविबोधाय प्रबुद्धस्मरणाय च।"
+  },
+  {
+   "id": "b146",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मयाभिनवगुप्तेन श्रमोऽयं क्रियते मनाक्॥५॥",
+   "directed": "[slowly] मयाभिनवगुप्तेन श्रमोऽयं क्रियते मनाक्॥५॥"
+  },
+  {
+   "id": "b147",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Nijaśiṣyavibodhāya prabuddhasmaraṇāya ca.*",
+   "directed": "*Nijaśiṣyavibodhāya prabuddhasmaraṇāya ca.*"
+  },
+  {
+   "id": "b148",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Mayābhinavaguptena śramo 'yaṃ kriyate manāk.*",
+   "directed": "*Mayābhinavaguptena śramo 'yaṃ kriyate manāk.*"
+  },
+  {
+   "id": "b149",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is genuinely charming.",
+   "directed": "Now this is genuinely charming."
+  },
+  {
+   "id": "b150",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After all that cosmic ecstasy, he tells us why he's writing.",
+   "directed": "After all that cosmic ecstasy, he tells us why he's writing."
+  },
+  {
+   "id": "b151",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For the illumination of his students and to refresh the understanding of those already awakened to the teaching, Abhinavagupta undertakes this small effort.",
+   "directed": "For the illumination of his students and to refresh the understanding of those already awakened to the teaching, Abhinavagupta undertakes this small effort."
+  },
+  {
+   "id": "b152",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A small effort.",
+   "directed": "A small effort."
+  },
+  {
+   "id": "b153",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "My brother, you are about to write one of the most demanding metaphysical commentaries in the entire tradition.",
+   "directed": "My brother, you are about to write one of the most demanding metaphysical commentaries in the entire tradition."
+  },
+  {
+   "id": "b154",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But let's learn the Sanskrit.",
+   "directed": "But let's learn the Sanskrit."
+  },
+  {
+   "id": "b155",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "| Sanskrit | Literal meaning |\n|--------|--------|\n| *nija* | Own, personal |\n| *śiṣya* | Student, disciple |\n| *vibodhāya* | For awakening or understanding |\n| *prabuddha* | Awakened, well-informed |\n| *smaraṇāya* | For recollection |\n| *ca* | And |\n| *mayā* | By me |\n| *abhinavaguptena* | By Abhinavagupta |\n| *śramaḥ* | Effort, labour |\n| *ayam* | This |\n| *kriyate* | Is done, is undertaken |\n| *manāk* | A little |",
+   "directed": "| Sanskrit | Literal meaning |\n|--------|--------|\n| *nija* | Own, personal |\n| *śiṣya* | Student, disciple |\n| *vibodhāya* | For awakening or understanding |\n| *prabuddha* | Awakened, well-informed |\n| *smaraṇāya* | For recollection |\n| *ca* | And |\n| *mayā* | By me |\n| *abhinavaguptena* | By Abhinavagupta |\n| *śramaḥ* | Effort, labour |\n| *ayam* | This |\n| *kriyate* | Is done, is undertaken |\n| *manāk* | A little |"
+  },
+  {
+   "id": "b156",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two fantastic grammatical lessons.",
+   "directed": "Two fantastic grammatical lessons."
+  },
+  {
+   "id": "b157",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**मयाभिनवगुप्तेन** is actually:",
+   "directed": "[slowly] **मयाभिनवगुप्तेन** is actually:"
+  },
+  {
+   "id": "b158",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*mayā + abhinavaguptena*",
+   "directed": "*mayā + abhinavaguptena*"
+  },
+  {
+   "id": "b159",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final ā of *mayā* and the initial a of *abhinava* combine:",
+   "directed": "[short pause] The final ā of *mayā* and the initial a of *abhinava* combine:"
+  },
+  {
+   "id": "b160",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**ā + a → ā**",
+   "directed": "**ā + a → ā**"
+  },
+  {
+   "id": "b161",
+   "section": "The five opening verses",
+   "type": "verse",
+   "voice": "verse",
+   "text": "And **श्रमोऽयं** is:",
+   "directed": "[slowly] And **श्रमोऽयं** is:"
+  },
+  {
+   "id": "b162",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*śramaḥ + ayam → śramo 'yam*",
+   "directed": "*śramaḥ + ayam → śramo 'yam*"
+  },
+  {
+   "id": "b163",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the final *-aḥ* before a following initial *a* becomes *-o*, and the initial a is represented by the avagraha **ऽ**.",
+   "directed": "Here the final *-aḥ* before a following initial *a* becomes *-o*, and the initial a is represented by the avagraha **ऽ**."
+  },
+  {
+   "id": "b164",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So now whenever you see that little apostrophe-looking sign in Devanāgarī, you know something phonological has happened. An original vowel has been elided.",
+   "directed": "So now whenever you see that little apostrophe-looking sign in Devanāgarī, you know something phonological has happened. An original vowel has been elided."
+  },
+  {
+   "id": "b165",
+   "section": "The five opening verses",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is exactly the kind of Sanskrit literacy that makes reading these texts increasingly enjoyable.",
+   "directed": "This is exactly the kind of Sanskrit literacy that makes reading these texts increasingly enjoyable."
+  },
+  {
+   "id": "b166",
+   "section": "Chapter One - The Goddess asks",
+   "type": "title",
+   "voice": "granny",
+   "text": "Chapter One - The Goddess asks",
+   "directed": "[long pause] Chapter One - The Goddess asks"
+  },
+  {
+   "id": "b167",
+   "section": "Chapter One - The Goddess asks",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally, we reach the first actual verse of the Parātrīśikā.",
+   "directed": "And finally, we reach the first actual verse of the Parātrīśikā."
+  },
+  {
+   "id": "b168",
+   "section": "Chapter One - The Goddess asks",
+   "type": "figure",
+   "voice": "none",
+   "text": "PARĀTRĪŚIKĀ - VERSE 1",
+   "directed": "PARĀTRĪŚIKĀ - VERSE 1"
+  },
+  {
+   "id": "b169",
+   "section": "श्रीदेव्युवाच",
+   "type": "verse",
+   "voice": "verse",
+   "text": "श्रीदेव्युवाच",
+   "directed": "[slowly] श्रीदेव्युवाच"
+  },
+  {
+   "id": "b170",
+   "section": "अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।",
+   "directed": "[slowly] अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।"
+  },
+  {
+   "id": "b171",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "verse",
+   "voice": "verse",
+   "text": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "directed": "[slowly] येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥"
+  },
+  {
+   "id": "b172",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Śrīdevy uvāca*",
+   "directed": "[slowly] *Śrīdevy uvāca*"
+  },
+  {
+   "id": "b173",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Anuttaraṃ kathaṃ deva sadyaḥ kaulikasiddhidam.*",
+   "directed": "*Anuttaraṃ kathaṃ deva sadyaḥ kaulikasiddhidam.*"
+  },
+  {
+   "id": "b174",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Yena vijñātamātreṇa khecarīsamatāṃ vrajet.*",
+   "directed": "*Yena vijñātamātreṇa khecarīsamatāṃ vrajet.*"
+  },
+  {
+   "id": "b175",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Literal translation",
+   "directed": "### Literal translation"
+  },
+  {
+   "id": "b176",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The venerable Goddess said:",
+   "directed": "[short pause] The venerable Goddess said:"
+  },
+  {
+   "id": "b177",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How, O Lord, does Anuttara immediately grant Kaulika perfection, by the mere recognition of which one may attain equality or identity with Khecarī?",
+   "directed": "How, O Lord, does Anuttara immediately grant Kaulika perfection, by the mere recognition of which one may attain equality or identity with Khecarī?"
+  },
+  {
+   "id": "b178",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the scene.",
+   "directed": "Now imagine the scene."
+  },
+  {
+   "id": "b179",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess is sitting before Bhairava.",
+   "directed": "The Goddess is sitting before Bhairava."
+  },
+  {
+   "id": "b180",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She doesn't ask how to become wealthy. She doesn't ask for a better rebirth. She doesn't ask for an impressive yogic trick or a list of seventeen breathing exercises.",
+   "directed": "She doesn't ask how to become wealthy. She doesn't ask for a better rebirth. She doesn't ask for an impressive yogic trick or a list of seventeen breathing exercises."
+  },
+  {
+   "id": "b181",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She goes straight for the absolute maximum.",
+   "directed": "She goes straight for the absolute maximum."
+  },
+  {
+   "id": "b182",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**How does recognition of ultimate Reality bring about immediate divine perfection?**",
+   "directed": "**How does recognition of ultimate Reality bring about immediate divine perfection?**"
+  },
+  {
+   "id": "b183",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not in twelve lifetimes.",
+   "directed": "Not in twelve lifetimes."
+  },
+  {
+   "id": "b184",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not after you've paid a subscription fee to the cosmic liberation department.",
+   "directed": "Not after you've paid a subscription fee to the cosmic liberation department."
+  },
+  {
+   "id": "b185",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately.",
+   "directed": "Immediately."
+  },
+  {
+   "id": "b186",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then Abhinavagupta says: Excellent question. Before answering it, we're going to have to discuss the nature of language, consciousness, temporality, the Goddess, causation, and the entire metaphysical constitution of the universe.",
+   "directed": "And then Abhinavagupta says: Excellent question. Before answering it, we're going to have to discuss the nature of language, consciousness, temporality, the Goddess, causation, and the entire metaphysical constitution of the universe."
+  },
+  {
+   "id": "b187",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course we bloody are.",
+   "directed": "Of course we bloody are."
+  },
+  {
+   "id": "b188",
+   "section": "The Sanskrit laboratory",
+   "type": "title",
+   "voice": "granny",
+   "text": "The Sanskrit laboratory",
+   "directed": "[long pause] The Sanskrit laboratory"
+  },
+  {
+   "id": "b189",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We're not going to learn these words as disconnected English approximations. We're going to see how they are actually built.",
+   "directed": "We're not going to learn these words as disconnected English approximations. We're going to see how they are actually built."
+  },
+  {
+   "id": "b190",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 1. अनुत्तरम् - anuttaram",
+   "directed": "[slowly] ### 1. अनुत्तरम् - anuttaram"
+  },
+  {
+   "id": "b191",
+   "section": "The Sanskrit laboratory",
+   "type": "figure",
+   "voice": "none",
+   "text": "THE UNSURPASSABLE",
+   "directed": "THE UNSURPASSABLE"
+  },
+  {
+   "id": "b192",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Start with:",
+   "directed": "[short pause] Start with:"
+  },
+  {
+   "id": "b193",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**uttara (उत्तर)**",
+   "directed": "[slowly] **uttara (उत्तर)**"
+  },
+  {
+   "id": "b194",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This can mean higher, superior, later, subsequent, or an answer, depending on context.",
+   "directed": "This can mean higher, superior, later, subsequent, or an answer, depending on context."
+  },
+  {
+   "id": "b195",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It contains the comparative formation associated with elevation or what is further beyond.",
+   "directed": "It contains the comparative formation associated with elevation or what is further beyond."
+  },
+  {
+   "id": "b196",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now add the negative prefix **an-**:",
+   "directed": "[short pause] Now add the negative prefix **an-**:"
+  },
+  {
+   "id": "b197",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*an + uttara → anuttara*",
+   "directed": "*an + uttara → anuttara*"
+  },
+  {
+   "id": "b198",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The prefix is *an-* here because the following word begins with a vowel.",
+   "directed": "The prefix is *an-* here because the following word begins with a vowel."
+  },
+  {
+   "id": "b199",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So *anuttara* is that above which there is nothing higher.",
+   "directed": "So *anuttara* is that above which there is nothing higher."
+  },
+  {
+   "id": "b200",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**The unsurpassable.**",
+   "directed": "**The unsurpassable.**"
+  },
+  {
+   "id": "b201",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the final **-m** in *anuttaram* is a neuter singular ending.",
+   "directed": "And the final **-m** in *anuttaram* is a neuter singular ending."
+  },
+  {
+   "id": "b202",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In this verse, *anuttaram* refers to supreme Reality and is grammatically connected with *kaulikasiddhidam*.",
+   "directed": "In this verse, *anuttaram* refers to supreme Reality and is grammatically connected with *kaulikasiddhidam*."
+  },
+  {
+   "id": "b203",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta is about to do something extraordinary.",
+   "directed": "But Abhinavagupta is about to do something extraordinary."
+  },
+  {
+   "id": "b204",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He will explain *anuttara* in sixteen distinct ways.",
+   "directed": "He will explain *anuttara* in sixteen distinct ways."
+  },
+  {
+   "id": "b205",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the word doesn't merely suggest the highest point on an enormous ladder.",
+   "directed": "Because the word doesn't merely suggest the highest point on an enormous ladder."
+  },
+  {
+   "id": "b206",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is no ladder beyond it.",
+   "directed": "There is no ladder beyond it."
+  },
+  {
+   "id": "b207",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in the deepest interpretation, Anuttara is not even one item at the top of a hierarchy.",
+   "directed": "And in the deepest interpretation, Anuttara is not even one item at the top of a hierarchy."
+  },
+  {
+   "id": "b208",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the reality within which hierarchies, distinctions and the very possibility of comparison appear.",
+   "directed": "It is the reality within which hierarchies, distinctions and the very possibility of comparison appear."
+  },
+  {
+   "id": "b209",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The difference matters.",
+   "directed": "The difference matters."
+  },
+  {
+   "id": "b210",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If you say Śiva is the highest *thing*, you've made him into a thing.",
+   "directed": "If you say Śiva is the highest *thing*, you've made him into a thing."
+  },
+  {
+   "id": "b211",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now you need another metaphysical explanation for the existence of that thing.",
+   "directed": "And now you need another metaphysical explanation for the existence of that thing."
+  },
+  {
+   "id": "b212",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations. You've created another problem.",
+   "directed": "Congratulations. You've created another problem."
+  },
+  {
+   "id": "b213",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta refuses the premise.",
+   "directed": "Abhinavagupta refuses the premise."
+  },
+  {
+   "id": "b214",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 2. कथम् - katham",
+   "directed": "[slowly] ### 2. कथम् - katham"
+  },
+  {
+   "id": "b215",
+   "section": "The Sanskrit laboratory",
+   "type": "figure",
+   "voice": "none",
+   "text": "HOW? IN WHAT MANNER?",
+   "directed": "HOW? IN WHAT MANNER?"
+  },
+  {
+   "id": "b216",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The interrogative base *ka-* plus the adverbial formation *-tham* gives *katham*, meaning how or in what way.",
+   "directed": "The interrogative base *ka-* plus the adverbial formation *-tham* gives *katham*, meaning how or in what way."
+  },
+  {
+   "id": "b217",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess is asking about the manner of realization.",
+   "directed": "The Goddess is asking about the manner of realization."
+  },
+  {
+   "id": "b218",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice something philosophically important.",
+   "directed": "And notice something philosophically important."
+  },
+  {
+   "id": "b219",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She doesn't simply ask:",
+   "directed": "[short pause] She doesn't simply ask:"
+  },
+  {
+   "id": "b220",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*What is Anuttara?*",
+   "directed": "*What is Anuttara?*"
+  },
+  {
+   "id": "b221",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She asks how Anuttara grants immediate perfection.",
+   "directed": "She asks how Anuttara grants immediate perfection."
+  },
+  {
+   "id": "b222",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She is bringing together ontology and realization.",
+   "directed": "She is bringing together ontology and realization."
+  },
+  {
+   "id": "b223",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What is real?",
+   "directed": "What is real?"
+  },
+  {
+   "id": "b224",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And how is it recognized?",
+   "directed": "And how is it recognized?"
+  },
+  {
+   "id": "b225",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For Trika these cannot be separated indefinitely, because the supreme reality is consciousness itself, not a remote object waiting to be discovered by another consciousness.",
+   "directed": "For Trika these cannot be separated indefinitely, because the supreme reality is consciousness itself, not a remote object waiting to be discovered by another consciousness."
+  },
+  {
+   "id": "b226",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 3. सद्यः - sadyaḥ",
+   "directed": "[slowly] ### 3. सद्यः - sadyaḥ"
+  },
+  {
+   "id": "b227",
+   "section": "The Sanskrit laboratory",
+   "type": "figure",
+   "voice": "none",
+   "text": "IMMEDIATELY",
+   "directed": "IMMEDIATELY"
+  },
+  {
+   "id": "b228",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is an indeclinable adverb meaning straightaway, at once.",
+   "directed": "This is an indeclinable adverb meaning straightaway, at once."
+  },
+  {
+   "id": "b229",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final sign **ः** represents visarga.",
+   "directed": "The final sign **ः** represents visarga."
+  },
+  {
+   "id": "b230",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice that this is an actual Sanskrit phonological feature, independently of the later mystical meaning Abhinavagupta gives to *visarga*.",
+   "directed": "Notice that this is an actual Sanskrit phonological feature, independently of the later mystical meaning Abhinavagupta gives to *visarga*."
+  },
+  {
+   "id": "b231",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In *sadyaḥ kaulika-*, the final visarga is followed by *k*.",
+   "directed": "In *sadyaḥ kaulika-*, the final visarga is followed by *k*."
+  },
+  {
+   "id": "b232",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In careful traditional recitation, the realization of visarga can be influenced by the following consonant and by the recitational tradition.",
+   "directed": "In careful traditional recitation, the realization of visarga can be influenced by the following consonant and by the recitational tradition."
+  },
+  {
+   "id": "b233",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the meaning remains:",
+   "directed": "[short pause] But the meaning remains:"
+  },
+  {
+   "id": "b234",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Immediately.**",
+   "directed": "**Immediately.**"
+  },
+  {
+   "id": "b235",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that's philosophically explosive.",
+   "directed": "And that's philosophically explosive."
+  },
+  {
+   "id": "b236",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A result normally appears after a cause has operated.",
+   "directed": "A result normally appears after a cause has operated."
+  },
+  {
+   "id": "b237",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So how can the highest realization be immediate?",
+   "directed": "So how can the highest realization be immediate?"
+  },
+  {
+   "id": "b238",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Trika answer cannot simply be that somebody performs a ritual ten thousand times more quickly.",
+   "directed": "The Trika answer cannot simply be that somebody performs a ritual ten thousand times more quickly."
+  },
+  {
+   "id": "b239",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It must concern the nature of what is being realized.",
+   "directed": "It must concern the nature of what is being realized."
+  },
+  {
+   "id": "b240",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If supreme consciousness is already the ground of experience, its recognition is not the production of something previously absent.",
+   "directed": "If supreme consciousness is already the ground of experience, its recognition is not the production of something previously absent."
+  },
+  {
+   "id": "b241",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 4. कौलिकसिद्धिदम् - kaulikasiddhidam",
+   "directed": "[slowly] ### 4. कौलिकसिद्धिदम् - kaulikasiddhidam"
+  },
+  {
+   "id": "b242",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This glorious compound deserves to be dismantled.",
+   "directed": "This glorious compound deserves to be dismantled."
+  },
+  {
+   "id": "b243",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Kaulika + siddhi + dam*",
+   "directed": "*Kaulika + siddhi + dam*"
+  },
+  {
+   "id": "b244",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First:",
+   "directed": "[short pause] First:"
+  },
+  {
+   "id": "b245",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Kula (कुल)**",
+   "directed": "[slowly] **Kula (कुल)**"
+  },
+  {
+   "id": "b246",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, a family, clan or group.",
+   "directed": "Ordinarily, a family, clan or group."
+  },
+  {
+   "id": "b247",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Kaula theology, the word acquires a much larger meaning, referring to integrated manifestation and the totality of divine powers.",
+   "directed": "In Kaula theology, the word acquires a much larger meaning, referring to integrated manifestation and the totality of divine powers."
+  },
+  {
+   "id": "b248",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One important contrast is between **kula**, the field of manifested diversity, and **akula**, the transcendent dimension of Śiva, though the two are ultimately inseparable.",
+   "directed": "One important contrast is between **kula**, the field of manifested diversity, and **akula**, the transcendent dimension of Śiva, though the two are ultimately inseparable."
+  },
+  {
+   "id": "b249",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From *kula* we have the derivative forms *kaula* and *kaulika*.",
+   "directed": "From *kula* we have the derivative forms *kaula* and *kaulika*."
+  },
+  {
+   "id": "b250",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The vowel transformation **u → au** is an example of Sanskrit vowel strengthening, *vṛddhi*, in derivative formation.",
+   "directed": "The vowel transformation **u → au** is an example of Sanskrit vowel strengthening, *vṛddhi*, in derivative formation."
+  },
+  {
+   "id": "b251",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the **au** sound is represented by:",
+   "directed": "[short pause] And the **au** sound is represented by:"
+  },
+  {
+   "id": "b252",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**औ**",
+   "directed": "[slowly] **औ**"
+  },
+  {
+   "id": "b253",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b254",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कु - *ku*",
+   "directed": "[slowly] कु - *ku*"
+  },
+  {
+   "id": "b255",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कौ - *kau*",
+   "directed": "[slowly] कौ - *kau*"
+  },
+  {
+   "id": "b256",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different vowel, different written sign.",
+   "directed": "Different vowel, different written sign."
+  },
+  {
+   "id": "b257",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next:",
+   "directed": "[short pause] Next:"
+  },
+  {
+   "id": "b258",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Siddhi (सिद्धि)**",
+   "directed": "[slowly] **Siddhi (सिद्धि)**"
+  },
+  {
+   "id": "b259",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From √*sidh*, to succeed, accomplish, attain.",
+   "directed": "From √*sidh*, to succeed, accomplish, attain."
+  },
+  {
+   "id": "b260",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It can signify attainment, perfection or spiritual accomplishment.",
+   "directed": "It can signify attainment, perfection or spiritual accomplishment."
+  },
+  {
+   "id": "b261",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally:",
+   "directed": "[short pause] And finally:"
+  },
+  {
+   "id": "b262",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**-da (द)**",
+   "directed": "[slowly] **-da (द)**"
+  },
+  {
+   "id": "b263",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A giver, from √*dā*, to give.",
+   "directed": "A giver, from √*dā*, to give."
+  },
+  {
+   "id": "b264",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In this compound *-dam* means granting or giving, with the neuter ending agreeing with *anuttaram*.",
+   "directed": "In this compound *-dam* means granting or giving, with the neuter ending agreeing with *anuttaram*."
+  },
+  {
+   "id": "b265",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thus:",
+   "directed": "[short pause] Thus:"
+  },
+  {
+   "id": "b266",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**kaulika-siddhi-da**",
+   "directed": "**kaulika-siddhi-da**"
+  },
+  {
+   "id": "b267",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That which grants Kaulika perfection.",
+   "directed": "That which grants Kaulika perfection."
+  },
+  {
+   "id": "b268",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this is not necessarily a promise of supernatural abilities.",
+   "directed": "But this is not necessarily a promise of supernatural abilities."
+  },
+  {
+   "id": "b269",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The central philosophical interpretation concerns the perfection of consciousness in which the individual recognizes its inseparability from the divine totality.",
+   "directed": "The central philosophical interpretation concerns the perfection of consciousness in which the individual recognizes its inseparability from the divine totality."
+  },
+  {
+   "id": "b270",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So don't read it as:",
+   "directed": "[short pause] So don't read it as:"
+  },
+  {
+   "id": "b271",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Learn the right spell and unlock premium wizard powers.",
+   "directed": "Learn the right spell and unlock premium wizard powers."
+  },
+  {
+   "id": "b272",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Read it as:",
+   "directed": "[short pause] Read it as:"
+  },
+  {
+   "id": "b273",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What is the perfection in which the contracted experiencer knows itself as the very reality of the whole?",
+   "directed": "What is the perfection in which the contracted experiencer knows itself as the very reality of the whole?"
+  },
+  {
+   "id": "b274",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That's the bigger question.",
+   "directed": "That's the bigger question."
+  },
+  {
+   "id": "b275",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 5. विज्ञातमात्रेण - vijñātamātreṇa",
+   "directed": "[slowly] ### 5. विज्ञातमात्रेण - vijñātamātreṇa"
+  },
+  {
+   "id": "b276",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This one is particularly beautiful.",
+   "directed": "This one is particularly beautiful."
+  },
+  {
+   "id": "b277",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Break it into:",
+   "directed": "[short pause] Break it into:"
+  },
+  {
+   "id": "b278",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**vi + jñāta + mātreṇa**",
+   "directed": "**vi + jñāta + mātreṇa**"
+  },
+  {
+   "id": "b279",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The verbal root is √**jñā**, to know.",
+   "directed": "The verbal root is √**jñā**, to know."
+  },
+  {
+   "id": "b280",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The prefix **vi-** can indicate distinction, differentiation or particularization.",
+   "directed": "The prefix **vi-** can indicate distinction, differentiation or particularization."
+  },
+  {
+   "id": "b281",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Vijñāta* means known, understood or recognized.",
+   "directed": "*Vijñāta* means known, understood or recognized."
+  },
+  {
+   "id": "b282",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b283",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**mātra (मात्र)** - mere, only, simply the measure or extent of something.",
+   "directed": "[slowly] **mātra (मात्र)** - mere, only, simply the measure or extent of something."
+  },
+  {
+   "id": "b284",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the ending:",
+   "directed": "[short pause] And the ending:"
+  },
+  {
+   "id": "b285",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**-eṇa** - instrumental singular.",
+   "directed": "**-eṇa** - instrumental singular."
+  },
+  {
+   "id": "b286",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The compound expresses the idea of **by the mere knowing or recognition**.",
+   "directed": "The compound expresses the idea of **by the mere knowing or recognition**."
+  },
+  {
+   "id": "b287",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by building a new reality.",
+   "directed": "Not by building a new reality."
+  },
+  {
+   "id": "b288",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by manufacturing Śiva in a laboratory.",
+   "directed": "Not by manufacturing Śiva in a laboratory."
+  },
+  {
+   "id": "b289",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "By recognition.",
+   "directed": "By recognition."
+  },
+  {
+   "id": "b290",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where the relationship with *pratyabhijñā*, recognition, becomes interesting, although the terms are not grammatically identical.",
+   "directed": "This is where the relationship with *pratyabhijñā*, recognition, becomes interesting, although the terms are not grammatically identical."
+  },
+  {
+   "id": "b291",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Pratyabhijñā** involves recognizing what is already somehow known but not presently recognized in its true identity.",
+   "directed": "**Pratyabhijñā** involves recognizing what is already somehow known but not presently recognized in its true identity."
+  },
+  {
+   "id": "b292",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A traditional analogy is seeing someone and suddenly recognizing: this is that very person I knew before.",
+   "directed": "A traditional analogy is seeing someone and suddenly recognizing: this is that very person I knew before."
+  },
+  {
+   "id": "b293",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the Trika application, the recognition is radically deeper.",
+   "directed": "In the Trika application, the recognition is radically deeper."
+  },
+  {
+   "id": "b294",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not merely recognizing a particular object.",
+   "directed": "It is not merely recognizing a particular object."
+  },
+  {
+   "id": "b295",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is recognition of the universal nature of the experiencer.",
+   "directed": "It is recognition of the universal nature of the experiencer."
+  },
+  {
+   "id": "b296",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One important qualification: *vijñātamātreṇa* does not automatically mean a shallow intellectual statement such as \"I am Śiva\" is equivalent to realization. The kind of knowing at issue is transformative recognition, not just possession of a proposition.",
+   "directed": "One important qualification: *vijñātamātreṇa* does not automatically mean a shallow intellectual statement such as \"I am Śiva\" is equivalent to realization. The kind of knowing at issue is transformative recognition, not just possession of a proposition."
+  },
+  {
+   "id": "b297",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 6. खेचरीसमताम् - khecarīsamatām",
+   "directed": "[slowly] ### 6. खेचरीसमताम् - khecarīsamatām"
+  },
+  {
+   "id": "b298",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words brought together:",
+   "directed": "[short pause] Two words brought together:"
+  },
+  {
+   "id": "b299",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**Khecarī + samatā**",
+   "directed": "[slowly] **Khecarī + samatā**"
+  },
+  {
+   "id": "b300",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let's break down *khecarī* first.",
+   "directed": "Let's break down *khecarī* first."
+  },
+  {
+   "id": "b301",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "- **kha (ख)** - sky, space, expanse.\n- **carī (चरी)** - moving, going, from √*car*, to move.",
+   "directed": "[slowly] - **kha (ख)** - sky, space, expanse.\n- **carī (चरी)** - moving, going, from √*car*, to move."
+  },
+  {
+   "id": "b302",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So *khecarī* is she who moves through space.",
+   "directed": "So *khecarī* is she who moves through space."
+  },
+  {
+   "id": "b303",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here the space is not merely the physical sky.",
+   "directed": "But here the space is not merely the physical sky."
+  },
+  {
+   "id": "b304",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within Trika, Khecarī can denote a divine power of consciousness associated with the freedom of awareness.",
+   "directed": "Within Trika, Khecarī can denote a divine power of consciousness associated with the freedom of awareness."
+  },
+  {
+   "id": "b305",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The suffix gives a feminine form.",
+   "directed": "The suffix gives a feminine form."
+  },
+  {
+   "id": "b306",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b307",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**samatā (समता)**",
+   "directed": "[slowly] **samatā (समता)**"
+  },
+  {
+   "id": "b308",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From *sama*, equal, even, alike.",
+   "directed": "From *sama*, equal, even, alike."
+  },
+  {
+   "id": "b309",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The abstract noun *samatā* means equality or sameness.",
+   "directed": "The abstract noun *samatā* means equality or sameness."
+  },
+  {
+   "id": "b310",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And *samatām* is accusative singular, the state one reaches.",
+   "directed": "And *samatām* is accusative singular, the state one reaches."
+  },
+  {
+   "id": "b311",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So *khecarīsamatāṃ vrajet* means one might attain sameness with Khecarī.",
+   "directed": "So *khecarīsamatāṃ vrajet* means one might attain sameness with Khecarī."
+  },
+  {
+   "id": "b312",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not necessarily float above the floor.",
+   "directed": "Not necessarily float above the floor."
+  },
+  {
+   "id": "b313",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is about identity with a divine mode of consciousness, rather than remaining confined to an apparently isolated personal awareness.",
+   "directed": "It is about identity with a divine mode of consciousness, rather than remaining confined to an apparently isolated personal awareness."
+  },
+  {
+   "id": "b314",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "### 7. व्रजेत् - vrajet",
+   "directed": "[slowly] ### 7. व्रजेत् - vrajet"
+  },
+  {
+   "id": "b315",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From √*vraj*, to go, proceed, attain.",
+   "directed": "From √*vraj*, to go, proceed, attain."
+  },
+  {
+   "id": "b316",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The form is third-person singular optative.",
+   "directed": "The form is third-person singular optative."
+  },
+  {
+   "id": "b317",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It means **one might attain**, **one should reach**, or **one would come to**, depending on context.",
+   "directed": "It means **one might attain**, **one should reach**, or **one would come to**, depending on context."
+  },
+  {
+   "id": "b318",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice the consonant cluster in Devanāgarī:",
+   "directed": "[short pause] Notice the consonant cluster in Devanāgarī:"
+  },
+  {
+   "id": "b319",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**व्र = व् + र**",
+   "directed": "[slowly] **व्र = व् + र**"
+  },
+  {
+   "id": "b320",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the *r* is attached after the *v* as a consonant conjunct. This is different from the repha sign used when *r* comes first in certain consonant clusters.",
+   "directed": "Here the *r* is attached after the *v* as a consonant conjunct. This is different from the repha sign used when *r* comes first in certain consonant clusters."
+  },
+  {
+   "id": "b321",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So *vrajet* is not *varajet*.",
+   "directed": "So *vrajet* is not *varajet*."
+  },
+  {
+   "id": "b322",
+   "section": "The Sanskrit laboratory",
+   "type": "verse",
+   "voice": "verse",
+   "text": "The implicit *a* after व has been suppressed by the consonant combination.",
+   "directed": "[slowly] The implicit *a* after व has been suppressed by the consonant combination."
+  },
+  {
+   "id": "b323",
+   "section": "The Sanskrit laboratory",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the whole verse becomes something you can actually read and hear meaning in, rather than simply memorize.",
+   "directed": "And now the whole verse becomes something you can actually read and hear meaning in, rather than simply memorize."
+  },
+  {
+   "id": "b324",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "title",
+   "voice": "granny",
+   "text": "Now Abhinavagupta starts explaining",
+   "directed": "[long pause] Now Abhinavagupta starts explaining"
+  },
+  {
+   "id": "b325",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here's where the commentary gets wild.",
+   "directed": "Here's where the commentary gets wild."
+  },
+  {
+   "id": "b326",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The original begins by discussing supreme Śiva and his divine Śakti, particularly the power of grace, **anugraha**.",
+   "directed": "The original begins by discussing supreme Śiva and his divine Śakti, particularly the power of grace, **anugraha**."
+  },
+  {
+   "id": "b327",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He insists that the Goddess is not ultimately separate from Śiva.",
+   "directed": "He insists that the Goddess is not ultimately separate from Śiva."
+  },
+  {
+   "id": "b328",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An important line of the Sanskrit commentary is:",
+   "directed": "[short pause] An important line of the Sanskrit commentary is:"
+  },
+  {
+   "id": "b329",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**नहि शक्तिः शिवाद्भेदमामर्शयेत्।**",
+   "directed": "[slowly] **नहि शक्तिः शिवाद्भेदमामर्शयेत्।**"
+  },
+  {
+   "id": "b330",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "*Na hi śaktiḥ śivād bhedam āmarśayet.*",
+   "directed": "*Na hi śaktiḥ śivād bhedam āmarśayet.*"
+  },
+  {
+   "id": "b331",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is, Śakti does not conceive of herself as separate from Śiva.",
+   "directed": "That is, Śakti does not conceive of herself as separate from Śiva."
+  },
+  {
+   "id": "b332",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relationship is not between two independent beings.",
+   "directed": "The relationship is not between two independent beings."
+  },
+  {
+   "id": "b333",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti is Śiva's own power of knowing, willing, manifesting and recognizing.",
+   "directed": "Śakti is Śiva's own power of knowing, willing, manifesting and recognizing."
+  },
+  {
+   "id": "b334",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta is asking something subtler still.",
+   "directed": "But Abhinavagupta is asking something subtler still."
+  },
+  {
+   "id": "b335",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**What makes the Goddess's question itself possible?**",
+   "directed": "**What makes the Goddess's question itself possible?**"
+  },
+  {
+   "id": "b336",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because there's already a problem here.",
+   "directed": "Because there's already a problem here."
+  },
+  {
+   "id": "b337",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess says something.",
+   "directed": "The Goddess says something."
+  },
+  {
+   "id": "b338",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhairava will respond.",
+   "directed": "Bhairava will respond."
+  },
+  {
+   "id": "b339",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We seem to have two speakers, two acts, and an interval between question and answer.",
+   "directed": "We seem to have two speakers, two acts, and an interval between question and answer."
+  },
+  {
+   "id": "b340",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But if all is one consciousness, what is actually happening?",
+   "directed": "But if all is one consciousness, what is actually happening?"
+  },
+  {
+   "id": "b341",
+   "section": "Now Abhinavagupta starts explaining",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Welcome to the metaphysics of speech.",
+   "directed": "Welcome to the metaphysics of speech."
+  },
+  {
+   "id": "b342",
+   "section": "The four levels of Vāk",
+   "type": "title",
+   "voice": "granny",
+   "text": "The four levels of Vāk",
+   "directed": "[long pause] The four levels of Vāk"
+  },
+  {
+   "id": "b343",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Vāk (वाक्)* means speech, word or expressive power.",
+   "directed": "[slowly] *Vāk (वाक्)* means speech, word or expressive power."
+  },
+  {
+   "id": "b344",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta treats language not merely as a human convention, but as something emerging from increasingly differentiated levels of consciousness.",
+   "directed": "Abhinavagupta treats language not merely as a human convention, but as something emerging from increasingly differentiated levels of consciousness."
+  },
+  {
+   "id": "b345",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**1. परा - Parā** (Undivided)",
+   "directed": "[slowly] **1. परा - Parā** (Undivided)"
+  },
+  {
+   "id": "b346",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Supreme speech. Before the distinction between word, meaning, speaker and spoken object.",
+   "directed": "Supreme speech. Before the distinction between word, meaning, speaker and spoken object."
+  },
+  {
+   "id": "b347",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Emerging differentiation",
+   "directed": "Emerging differentiation"
+  },
+  {
+   "id": "b348",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**2. पश्यन्ती - Paśyantī**",
+   "directed": "[slowly] **2. पश्यन्ती - Paśyantī**"
+  },
+  {
+   "id": "b349",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seeing or visionary level. Meaning begins to become distinguishable, without fully articulated separation.",
+   "directed": "The seeing or visionary level. Meaning begins to become distinguishable, without fully articulated separation."
+  },
+  {
+   "id": "b350",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**3. मध्यमा - Madhyamā**",
+   "directed": "[slowly] **3. मध्यमा - Madhyamā**"
+  },
+  {
+   "id": "b351",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Inner speech. The distinction between the signifying word and what it signifies becomes mentally apparent.",
+   "directed": "Inner speech. The distinction between the signifying word and what it signifies becomes mentally apparent."
+  },
+  {
+   "id": "b352",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**4. वैखरी - Vaikharī**",
+   "directed": "[slowly] **4. वैखरी - Vaikharī**"
+  },
+  {
+   "id": "b353",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Articulated speech. Words manifest in their differentiated, audible form.",
+   "directed": "Articulated speech. Words manifest in their differentiated, audible form."
+  },
+  {
+   "id": "b354",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a schematic account, not four separate substances or a universal empirical neuroscience model.",
+   "directed": "This is a schematic account, not four separate substances or a universal empirical neuroscience model."
+  },
+  {
+   "id": "b355",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let's make it funny and practical.",
+   "directed": "Let's make it funny and practical."
+  },
+  {
+   "id": "b356",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine you're thinking about a mango.",
+   "directed": "Imagine you're thinking about a mango."
+  },
+  {
+   "id": "b357",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the level of articulated speech you say:",
+   "directed": "[short pause] At the level of articulated speech you say:"
+  },
+  {
+   "id": "b358",
+   "section": "The four levels of Vāk",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "\"I want a mango.\"",
+   "directed": "[short pause] \"I want a mango.\""
+  },
+  {
+   "id": "b359",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations. *Vaikharī*.",
+   "directed": "Congratulations. *Vaikharī*."
+  },
+  {
+   "id": "b360",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A moment before that, the entire sentence exists as an internal linguistic intention.",
+   "directed": "A moment before that, the entire sentence exists as an internal linguistic intention."
+  },
+  {
+   "id": "b361",
+   "section": "The four levels of Vāk",
+   "type": "verse",
+   "voice": "verse",
+   "text": "*Madhyamā*.",
+   "directed": "[slowly] *Madhyamā*."
+  },
+  {
+   "id": "b362",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Before this, an apprehension of the desired fruit may be present without its explicit formulation in words.",
+   "directed": "Before this, an apprehension of the desired fruit may be present without its explicit formulation in words."
+  },
+  {
+   "id": "b363",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This provides a rough analogy for *Paśyantī*.",
+   "directed": "This provides a rough analogy for *Paśyantī*."
+  },
+  {
+   "id": "b364",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But **Parā is not simply a still earlier unconscious thought about mangoes.**",
+   "directed": "But **Parā is not simply a still earlier unconscious thought about mangoes.**"
+  },
+  {
+   "id": "b365",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the undivided ground of awareness from which the entire event of wanting, knowing, naming, and experiencing is possible.",
+   "directed": "It is the undivided ground of awareness from which the entire event of wanting, knowing, naming, and experiencing is possible."
+  },
+  {
+   "id": "b366",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This distinction is essential.",
+   "directed": "This distinction is essential."
+  },
+  {
+   "id": "b367",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Otherwise we turn a metaphysical teaching into a very elaborate description of thinking quietly.",
+   "directed": "Otherwise we turn a metaphysical teaching into a very elaborate description of thinking quietly."
+  },
+  {
+   "id": "b368",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider what Abhinavagupta is doing.",
+   "directed": "Now consider what Abhinavagupta is doing."
+  },
+  {
+   "id": "b369",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess's question begins in consciousness itself.",
+   "directed": "The Goddess's question begins in consciousness itself."
+  },
+  {
+   "id": "b370",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the supreme level, question and answer are not separate.",
+   "directed": "At the supreme level, question and answer are not separate."
+  },
+  {
+   "id": "b371",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At subtler levels, their distinction begins to emerge.",
+   "directed": "At subtler levels, their distinction begins to emerge."
+  },
+  {
+   "id": "b372",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the level of articulated speech, the Goddess asks and Bhairava answers.",
+   "directed": "At the level of articulated speech, the Goddess asks and Bhairava answers."
+  },
+  {
+   "id": "b373",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the reader believes there is a dialogue occurring between two independent entities.",
+   "directed": "And the reader believes there is a dialogue occurring between two independent entities."
+  },
+  {
+   "id": "b374",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta effectively says:",
+   "directed": "[short pause] Abhinavagupta effectively says:"
+  },
+  {
+   "id": "b375",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**My friend, consciousness is having a conversation with itself, and you've mistaken the conversation for evidence that there are two ultimate speakers.**",
+   "directed": "**My friend, consciousness is having a conversation with itself, and you've mistaken the conversation for evidence that there are two ultimate speakers.**"
+  },
+  {
+   "id": "b376",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But he's not dismissing the dialogue as meaningless.",
+   "directed": "But he's not dismissing the dialogue as meaningless."
+  },
+  {
+   "id": "b377",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The differentiation is itself a real manifestation of divine power.",
+   "directed": "The differentiation is itself a real manifestation of divine power."
+  },
+  {
+   "id": "b378",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That's the extraordinary Trika move.",
+   "directed": "That's the extraordinary Trika move."
+  },
+  {
+   "id": "b379",
+   "section": "The four levels of Vāk",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Difference exists as manifestation, without establishing ultimate separation.",
+   "directed": "Difference exists as manifestation, without establishing ultimate separation."
+  },
+  {
+   "id": "b380",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "title",
+   "voice": "granny",
+   "text": "Why does the Goddess say “uvāca”?",
+   "directed": "[long pause] Why does the Goddess say “uvāca”?"
+  },
+  {
+   "id": "b381",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here's a peculiarly Abhinavaguptan moment.",
+   "directed": "Now here's a peculiarly Abhinavaguptan moment."
+  },
+  {
+   "id": "b382",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The opening says:",
+   "directed": "[short pause] The opening says:"
+  },
+  {
+   "id": "b383",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "verse",
+   "voice": "verse",
+   "text": "**श्रीदेव्युवाच - Śrīdevy uvāca**",
+   "directed": "[slowly] **श्रीदेव्युवाच - Śrīdevy uvāca**"
+  },
+  {
+   "id": "b384",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess *said*.",
+   "directed": "The Goddess *said*."
+  },
+  {
+   "id": "b385",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why the past tense?",
+   "directed": "Why the past tense?"
+  },
+  {
+   "id": "b386",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If supreme consciousness is not fundamentally located in ordinary time, why is the scripture referring to her as though she spoke at some previous moment?",
+   "directed": "If supreme consciousness is not fundamentally located in ordinary time, why is the scripture referring to her as though she spoke at some previous moment?"
+  },
+  {
+   "id": "b387",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is not just a grammatical curiosity for Abhinavagupta.",
+   "directed": "This is not just a grammatical curiosity for Abhinavagupta."
+  },
+  {
+   "id": "b388",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It points to the relationship between timeless consciousness and temporal manifestation.",
+   "directed": "It points to the relationship between timeless consciousness and temporal manifestation."
+  },
+  {
+   "id": "b389",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the undivided level, the distinction between having spoken, speaking now, and speaking later does not apply in the ordinary manner.",
+   "directed": "At the undivided level, the distinction between having spoken, speaking now, and speaking later does not apply in the ordinary manner."
+  },
+  {
+   "id": "b390",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But once consciousness manifests the structures of differentiated cognition, sequence becomes possible.",
+   "directed": "But once consciousness manifests the structures of differentiated cognition, sequence becomes possible."
+  },
+  {
+   "id": "b391",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Past and future are experienced.",
+   "directed": "Past and future are experienced."
+  },
+  {
+   "id": "b392",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The question becomes a prior utterance, and the answer becomes something following it.",
+   "directed": "The question becomes a prior utterance, and the answer becomes something following it."
+  },
+  {
+   "id": "b393",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yet the underlying consciousness remains the condition of the entire sequence.",
+   "directed": "Yet the underlying consciousness remains the condition of the entire sequence."
+  },
+  {
+   "id": "b394",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta develops this through comparisons involving states that are apprehended retrospectively, including the report of having spoken during sleep or intoxication. He is not equating supreme realization with unconsciousness; the comparison concerns the way a state can subsequently be referred to as past without its original character being that of ordinary differentiated cognition.",
+   "directed": "Abhinavagupta develops this through comparisons involving states that are apprehended retrospectively, including the report of having spoken during sleep or intoxication. He is not equating supreme realization with unconsciousness; the comparison concerns the way a state can subsequently be referred to as past without its original character being that of ordinary differentiated cognition."
+  },
+  {
+   "id": "b395",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So even the word **uvāca** matters.",
+   "directed": "So even the word **uvāca** matters."
+  },
+  {
+   "id": "b396",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you thought he was going to let the introductory formula slide.",
+   "directed": "And you thought he was going to let the introductory formula slide."
+  },
+  {
+   "id": "b397",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely not.",
+   "directed": "[short pause] Absolutely not."
+  },
+  {
+   "id": "b398",
+   "section": "Why does the Goddess say “uvāca”?",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every syllable is getting investigated.",
+   "directed": "Every syllable is getting investigated."
+  },
+  {
+   "id": "b399",
+   "section": "The philosophical punchline of Part I",
+   "type": "title",
+   "voice": "granny",
+   "text": "The philosophical punchline of Part I",
+   "directed": "[long pause] The philosophical punchline of Part I"
+  },
+  {
+   "id": "b400",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Look at what has happened already.",
+   "directed": "Look at what has happened already."
+  },
+  {
+   "id": "b401",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess asks how the unsurpassable grants immediate perfection through recognition.",
+   "directed": "The Goddess asks how the unsurpassable grants immediate perfection through recognition."
+  },
+  {
+   "id": "b402",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta begins by showing that the very possibility of asking and answering depends upon the supreme consciousness whose realization she asks about.",
+   "directed": "But Abhinavagupta begins by showing that the very possibility of asking and answering depends upon the supreme consciousness whose realization she asks about."
+  },
+  {
+   "id": "b403",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The question is not external to its answer.",
+   "directed": "The question is not external to its answer."
+  },
+  {
+   "id": "b404",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teacher is not ultimately external to the student.",
+   "directed": "The teacher is not ultimately external to the student."
+  },
+  {
+   "id": "b405",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Language is not ultimately external to what it expresses.",
+   "directed": "Language is not ultimately external to what it expresses."
+  },
+  {
+   "id": "b406",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Śakti is not ultimately external to Śiva.",
+   "directed": "And Śakti is not ultimately external to Śiva."
+  },
+  {
+   "id": "b407",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That does **not** eliminate the practical distinction between teacher and student, or make every ordinary utterance automatically liberating. Abhinavagupta is identifying the deeper ground in which these distinctions arise, and from which liberating recognition becomes possible.",
+   "directed": "That does **not** eliminate the practical distinction between teacher and student, or make every ordinary utterance automatically liberating. Abhinavagupta is identifying the deeper ground in which these distinctions arise, and from which liberating recognition becomes possible."
+  },
+  {
+   "id": "b408",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire *Parātrīśikāvivaraṇa* will increasingly investigate how **sound, the alphabet, mantra, and the great awareness expressed as *aham* - I - disclose the creative freedom of consciousness**.",
+   "directed": "The entire *Parātrīśikāvivaraṇa* will increasingly investigate how **sound, the alphabet, mantra, and the great awareness expressed as *aham* - I - disclose the creative freedom of consciousness**."
+  },
+  {
+   "id": "b409",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The funny thing is that the Goddess's first question already contains most of the problem.",
+   "directed": "The funny thing is that the Goddess's first question already contains most of the problem."
+  },
+  {
+   "id": "b410",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How can knowing reality grant perfection immediately?",
+   "directed": "How can knowing reality grant perfection immediately?"
+  },
+  {
+   "id": "b411",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because, from this perspective, liberation is not the acquisition of a second reality.",
+   "directed": "Because, from this perspective, liberation is not the acquisition of a second reality."
+  },
+  {
+   "id": "b412",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the recognition of what consciousness has always been, even while appearing as a limited experiencer.",
+   "directed": "It is the recognition of what consciousness has always been, even while appearing as a limited experiencer."
+  },
+  {
+   "id": "b413",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that's where Abhinavagupta is leading us.",
+   "directed": "And that's where Abhinavagupta is leading us."
+  },
+  {
+   "id": "b414",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not to a bigger philosophical concept.",
+   "directed": "Not to a bigger philosophical concept."
+  },
+  {
+   "id": "b415",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "To the very light in which concepts, questions, and answers appear.",
+   "directed": "To the very light in which concepts, questions, and answers appear."
+  },
+  {
+   "id": "b416",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Sanskrit worth retaining from this installment",
+   "directed": "### Sanskrit worth retaining from this installment"
+  },
+  {
+   "id": "b417",
+   "section": "The philosophical punchline of Part I",
+   "type": "verse",
+   "voice": "verse",
+   "text": "| Sanskrit | Remember it as |\n|--------|--------|\n| **अनुत्तर - anuttara** | Nothing beyond it |\n| **स्वात्मसंवित्ति - svātmasaṃvitti** | Consciousness of one's own Self |\n| **विसर्ग - visarga** | Emission, manifestation |\n| **त्रिक - trika** | The triad |\n| **विज्ञात - vijñāta** | Known, recognized |\n| **सिद्धि - siddhi** | Accomplishment, perfection |\n| **हृदय - hṛdaya** | Heart |\n| **विमर्श - vimarśa** | Reflexive awareness |\n| **परा वाक् - parā vāk** | Supreme speech |\n| **प्रत्यभिज्ञा - pratyabhijñā** | Recognition |",
+   "directed": "[slowly] | Sanskrit | Remember it as |\n|--------|--------|\n| **अनुत्तर - anuttara** | Nothing beyond it |\n| **स्वात्मसंवित्ति - svātmasaṃvitti** | Consciousness of one's own Self |\n| **विसर्ग - visarga** | Emission, manifestation |\n| **त्रिक - trika** | The triad |\n| **विज्ञात - vijñāta** | Known, recognized |\n| **सिद्धि - siddhi** | Accomplishment, perfection |\n| **हृदय - hṛdaya** | Heart |\n| **विमर्श - vimarśa** | Reflexive awareness |\n| **परा वाक् - parā vāk** | Supreme speech |\n| **प्रत्यभिज्ञा - pratyabhijñā** | Recognition |"
+  },
+  {
+   "id": "b418",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next, we enter the sixteen interpretations of **Anuttara** in the order Abhinavagupta develops them, with the same detailed grammatical and philosophical breakdown. This is where apparently ordinary Sanskrit particles begin carrying an absolutely ridiculous amount of metaphysical weight.",
+   "directed": "Next, we enter the sixteen interpretations of **Anuttara** in the order Abhinavagupta develops them, with the same detailed grammatical and philosophical breakdown. This is where apparently ordinary Sanskrit particles begin carrying an absolutely ridiculous amount of metaphysical weight."
+  },
+  {
+   "id": "b419",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "[Continue reading - Part II: The Sixteen Meanings of Anuttara]",
+   "directed": "[Continue reading - Part II: The Sixteen Meanings of Anuttara]"
+  },
+  {
+   "id": "b420",
+   "section": "The philosophical punchline of Part I",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Primary texts: · . Modern scholarly reference: Jaideva Singh's translation, edited by Bettina Bäumer.",
+   "directed": "Primary texts: · . Modern scholarly reference: Jaideva Singh's translation, edited by Bettina Bäumer."
+  }
+ ],
+ "totals": {
+  "blocks": 421,
+  "words_per_voice": {
+   "none": 22,
+   "granny": 3682,
+   "verse": 506,
+   "man": 4
+  },
+  "est_min": {
+   "none": 0.1,
+   "granny": 24.5,
+   "verse": 3.4,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": [
+   "section [श्रीदेव्युवाच]: no granny block",
+   "section [अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।]: no granny block"
+  ]
+ }
+}
