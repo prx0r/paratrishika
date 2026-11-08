@@ -27,6 +27,14 @@ Verse voice fires natively (500–3400 words/part). Glossaries mined
 review/vNN/manifest.json pin SHAs. Lane wired (projects/paratrishika,
 vNN scheme). Thumbnail: none yet (owner picks: mirror? trident? bee?).
 
+## Letter-seals (owner steer: Sanskrit-heavy lane gets Sanskrit visuals)
+Density measured: 21.5 Deva chars/100 words (2x Paramarthasara, vs zero
+Nibbana) — this lane is ABOUT the alphabet, so phonemes become seals.
+Mechanism: locally typeset (Tiro Devanagari Sanskrit), never AI-generated
+(zero garble risk, free, instant per phoneme). Pilots banked:
+letter-a, letter-sa, word-hridayam — deep blue on white, house style.
+Full alphabet set generatable on call.
+
 ## Unsure list (owner calls before render)
 1. Warning disposition (bless structural vs narration bridges).
 2. Gloss confirmations (scholar pass).
