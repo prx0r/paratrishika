@@ -1,0 +1,294 @@
+{
+ "version": 1,
+ "unit": "26",
+ "storyboard_sha256": "f6fbbc96c5b391beb4a2164630f93f1cc5bd2fdbf66c0bda5b8a6f150c6d06b3",
+ "issues": [
+  {
+   "id": "hold-scan-red-1",
+   "kind": "hold-scan-red",
+   "severity": "block",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v26.json: storyboard has 0 errors and 2 warnings",
+   "blocks": [],
+   "skill": "hold-scan-red",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "verse-gloss-missing-2",
+   "kind": "verse-gloss-missing",
+   "severity": "needs-owner",
+   "detail": "301/301 multi-line verses without verse_gloss (Devanagari-only cards): ['b18', 'b19', 'b20', 'b21', 'b22', 'b31'] \u2014 mine from T1/L3 then bulk-confirm",
+   "blocks": [
+    "b18",
+    "b19",
+    "b20",
+    "b21",
+    "b22",
+    "b31"
+   ],
+   "skill": "verse-gloss-missing",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "verse-deva-no-english-3",
+   "kind": "verse-deva-no-english",
+   "severity": "needs-owner",
+   "detail": "303 verse cards ship Devanagari with no English underneath: ['b18', 'b19', 'b20', 'b21', 'b22', 'b31'] \u2014 mine verse_gloss from T1/L3 (or confirm proposed) then bulk-confirm; split halves need reblocking first (see stale-verse-hold)",
+   "blocks": [
+    "b18",
+    "b19",
+    "b20",
+    "b21",
+    "b22",
+    "b31"
+   ],
+   "skill": "verse-deva-no-english",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "stale-verse-hold-4",
+   "kind": "stale-verse-hold",
+   "severity": "needs-owner",
+   "detail": "split verse span: b989[verse/verse] patterns=roman-only-verse continues/interrupts verse b990",
+   "blocks": [
+    "b989"
+   ],
+   "skill": "stale-verse-hold",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "stale-verse-hold-5",
+   "kind": "stale-verse-hold",
+   "severity": "needs-owner",
+   "detail": "split verse span: b1557[verse/verse] b1558[verse/verse] patterns=roman-only-verse,same-key-pair",
+   "blocks": [
+    "b1557",
+    "b1558"
+   ],
+   "skill": "stale-verse-hold",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "stale-verse-hold-6",
+   "kind": "stale-verse-hold",
+   "severity": "needs-owner",
+   "detail": "split verse span: b1791[verse/verse] b1792[verse/verse] patterns=roman-only-verse,same-key-pair",
+   "blocks": [
+    "b1791",
+    "b1792"
+   ],
+   "skill": "stale-verse-hold",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "stale-verse-hold-7",
+   "kind": "stale-verse-hold",
+   "severity": "needs-owner",
+   "detail": "split verse span: b2835[verse/verse] patterns=roman-only-verse",
+   "blocks": [
+    "b2835"
+   ],
+   "skill": "stale-verse-hold",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "stale-verse-hold-8",
+   "kind": "stale-verse-hold",
+   "severity": "needs-owner",
+   "detail": "split verse span: b3105[verse/verse] b3106[verse/verse] patterns=roman-only-verse,same-key-pair",
+   "blocks": [
+    "b3105",
+    "b3106"
+   ],
+   "skill": "stale-verse-hold",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-9",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 84s>60s [WHITE_GAP] at 816s (block b314): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b314"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-10",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 117s>60s [WHITE_GAP] at 1260s (block b481): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b481"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-11",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 88s>60s [WHITE_GAP] at 1478s (block b569): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b569"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-12",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 67s>60s [WHITE_GAP] at 1668s (block b640): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b640"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-13",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 61s>60s [WHITE_GAP] at 2562s (block b1003): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b1003"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-14",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 60s>60s [WHITE_GAP] at 2840s (block b1118): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b1118"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-15",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 65s>60s [WHITE_GAP] at 3029s (block b1191): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b1191"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-16",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 61s>60s [WHITE_GAP] at 3937s (block b1593): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b1593"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-17",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 73s>60s [WHITE_GAP] at 4770s (block b1933): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b1933"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-18",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 89s>60s [WHITE_GAP] at 7194s (block b2918): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b2918"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-19",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 70s>60s [WHITE_GAP] at 7484s (block b3054): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b3054"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-20",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 99s>60s [WHITE_GAP] at 7761s (block b3164): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b3164"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-21",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 165s>60s [WHITE_GAP] at 7865s (block b3168): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b3168"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-22",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 130s>60s [WHITE_GAP] at 8058s (block b3183): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b3183"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-23",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 98s>60s [WHITE_GAP] at 8190s (block b3224): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b3224"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  }
+ ]
+}

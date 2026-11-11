@@ -1,0 +1,44 @@
+{
+ "b10": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/goddess_2x15s.mp4",
+  "complete_bid": "b11",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 goddess motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b781": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/goddess_2x15s.mp4",
+  "complete_bid": "b782",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 goddess motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b3": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/alphabet_2x15s.mp4",
+  "complete_bid": "b4",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 alphabet motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b6": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/alphabet_2x15s.mp4",
+  "complete_bid": "b7",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 alphabet motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b108": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/bee_2x15s.mp4",
+  "complete_bid": "b109",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 bee motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b405": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/bee_2x15s.mp4",
+  "complete_bid": "b406",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v13 bee motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

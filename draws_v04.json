@@ -1,0 +1,121 @@
+{
+ "b4": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b43": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b44",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b89": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b90",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b101": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b102",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 opening -> SPLIT x2 (~95s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b185": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b186",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b245": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b246",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b291": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b292",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b344": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b345",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b502": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b503",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 Continue the audiobook \u2014 visual-plan gap"
+ },
+ "b1038": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1039",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 opening \u2014 visual-plan gap"
+ },
+ "b2": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-goddess-first.png",
+  "complete_bid": "b3",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for goddess clip at b3 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b945": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-knot-heart-first.png",
+  "complete_bid": "b946",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for knot-heart clip at b946 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b955": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-knot-heart-first.png",
+  "complete_bid": "b956",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for knot-heart clip at b956 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b60": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-alphabet-first.png",
+  "complete_bid": "b61",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for alphabet clip at b61 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b62": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-alphabet-first.png",
+  "complete_bid": "b63",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for alphabet clip at b63 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b499": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-bee-first.png",
+  "complete_bid": "b500",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for bee clip at b500 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b925": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-bee-first.png",
+  "complete_bid": "b926",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v04 etch lead-in for bee clip at b926 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

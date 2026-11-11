@@ -1,0 +1,317 @@
+{
+ "b6": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b7",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b108": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b109",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 J\u00f1\u012bpsati \u2014 visual-plan gap"
+ },
+ "b182": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b183",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Two distinct explanatory levels \u2014 visual-plan gap"
+ },
+ "b218": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b219",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b231": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b232",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering -> SPLIT x3 (~82s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b376": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b377",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b442": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b443",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b507": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b508",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b564": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b565",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b600": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b601",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b638": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b639",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b655": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b656",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b686": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b687",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b771": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b772",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b855": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b856",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b944": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b945",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b969": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b970",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering \u2014 visual-plan gap"
+ },
+ "b1005": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1006",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 opening \u2014 visual-plan gap"
+ },
+ "b1089": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b1090",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 J\u00f1\u012bpsati \u2014 visual-plan gap"
+ },
+ "b1135": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b1136",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Yathecch\u0101bhyarthito \u2014 visual-plan gap"
+ },
+ "b1168": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b1169",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Now the metre \u2014 visual-plan gap"
+ },
+ "b1198": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1199",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Kashmir Series pp. 246-247 - Gnoli pp. 270-271 \u2014 visual-plan gap"
+ },
+ "b1238": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b1239",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Sak\u1e5bdvibh\u0101tatvam \u2014 visual-plan gap"
+ },
+ "b1257": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b1258",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 The dream quotation \u2014 visual-plan gap"
+ },
+ "b1287": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b1288",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Kashmir Series p. 247 - Gnoli p. 271 -> SPLIT x3 (~81s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b1354": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1355",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 What is *s\u0101k\u1e63\u0101t*? \u2014 visual-plan gap"
+ },
+ "b1462": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b1463",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 The three powers are not three isolated minds \u2014 visual-plan gap"
+ },
+ "b1485": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b1486",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 M\u0101y\u0101 and Vidy\u0101 \u2014 visual-plan gap"
+ },
+ "b1536": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b1537",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 First: the M\u0101t\u1e5bs \u2014 visual-plan gap"
+ },
+ "b1553": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1554",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Yog\u012b\u015bvarya\u1e25 \u2014 visual-plan gap"
+ },
+ "b1606": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b1607",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 \u015a\u0101kin\u012bga\u1e47a - \u0936\u093e\u0915\u093f\u0928\u0940\u0917\u0923 \u2014 visual-plan gap"
+ },
+ "b1631": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b1632",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 The distinction between a power and its misapplication -> SPLIT x2 (~94s each, subdivide by sub-head \u2014 visual-plan gap"
+ },
+ "b1681": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b1682",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 The astonishing expansion of the claim \u2014 visual-plan gap"
+ },
+ "b1726": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1727",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Vidy\u0101 and M\u0101y\u0101 are not two competing ultimate substances \u2014 visual-plan gap"
+ },
+ "b1793": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-sa.png",
+  "complete_bid": "b1794",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Niyati - \u0928\u093f\u092f\u0924\u093f \u2014 visual-plan gap"
+ },
+ "b1822": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/word-hridayam.png",
+  "complete_bid": "b1823",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Two distinct explanatory levels \u2014 visual-plan gap"
+ },
+ "b1863": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-hand-mirror-first.png",
+  "complete_bid": "b1864",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 Kashmir Series p. 249 onward - Gnoli p. 273 \u2014 visual-plan gap"
+ },
+ "b1878": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/letter-a.png",
+  "complete_bid": "b1879",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 A textual warning about the numbering -> SPLIT x3 (~90s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b23": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-goddess-first.png",
+  "complete_bid": "b24",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for goddess clip at b24 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b147": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-goddess-first.png",
+  "complete_bid": "b148",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for goddess clip at b148 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b205": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-knot-heart-first.png",
+  "complete_bid": "b206",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for knot-heart clip at b206 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b236": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-knot-heart-first.png",
+  "complete_bid": "b237",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for knot-heart clip at b237 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b64": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-alphabet-first.png",
+  "complete_bid": "b65",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for alphabet clip at b65 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b40": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-bee-first.png",
+  "complete_bid": "b41",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for bee clip at b41 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b47": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/em-bee-first.png",
+  "complete_bid": "b48",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "v30 etch lead-in for bee clip at b48 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

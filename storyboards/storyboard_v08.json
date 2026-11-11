@@ -31,8 +31,8 @@
    "section": "Parātrīśikāvivaraṇa",
    "type": "narration",
    "voice": "granny",
-   "text": "*Abhinavagupta discovers that the Earth contains all thirty-six principles of reality, makes a tree testify in a metaphysical court case, argues that the future is already present in consciousness, and finally explains why the universe can look completely backwards in a mirror without Śiva losing his bloody mind.*",
-   "directed": "*Abhinavagupta discovers that the Earth contains all thirty-six principles of reality, makes a tree testify in a metaphysical court case, argues that the future is already present in consciousness, and finally explains why the universe can look completely backwards in a mirror without Śiva losing his bloody mind.*"
+   "text": "Abhinavagupta discovers that the Earth contains all thirty-six principles of reality, makes a tree testify in a metaphysical court case, argues that the future is already present in consciousness, and finally explains why the universe can look completely backwards in a mirror without Śiva losing his bloody mind.",
+   "directed": "Abhinavagupta discovers that the Earth contains all thirty-six principles of reality, makes a tree testify in a metaphysical court case, argues that the future is already present in consciousness, and finally explains why the universe can look completely backwards in a mirror without Śiva losing his bloody mind."
   },
   {
    "id": "b4",
@@ -71,8 +71,8 @@
    "section": "Previously, in the cosmic madhouse…",
    "type": "narration",
    "voice": "granny",
-   "text": "The *tattvas* are supposed to explain the order of manifestation.",
-   "directed": "The *tattvas* are supposed to explain the order of manifestation."
+   "text": "The tattvas are supposed to explain the order of manifestation.",
+   "directed": "The tattvas are supposed to explain the order of manifestation."
   },
   {
    "id": "b9",
@@ -87,24 +87,24 @@
    "section": "Previously, in the cosmic madhouse…",
    "type": "verse",
    "voice": "verse",
-   "text": "One scripture says Earth corresponds to **क - ka**.",
-   "directed": "[slowly] One scripture says Earth corresponds to **क - ka**."
+   "text": "One scripture says Earth corresponds to क - ka.",
+   "directed": "[slowly] One scripture says Earth corresponds to क - ka."
   },
   {
    "id": "b11",
    "section": "Previously, in the cosmic madhouse…",
    "type": "verse",
    "voice": "verse",
-   "text": "Another says **क्ष - kṣa**.",
-   "directed": "[slowly] Another says **क्ष - kṣa**."
+   "text": "Another says क्ष - kṣa.",
+   "directed": "[slowly] Another says क्ष - kṣa."
   },
   {
    "id": "b12",
    "section": "Previously, in the cosmic madhouse…",
    "type": "verse",
    "voice": "verse",
-   "text": "Mālinī turns up and says **फ - pha**.",
-   "directed": "[slowly] Mālinī turns up and says **फ - pha**."
+   "text": "Mālinī turns up and says फ - pha.",
+   "directed": "[slowly] Mālinī turns up and says फ - pha."
   },
   {
    "id": "b13",
@@ -159,8 +159,8 @@
    "section": "Previously, in the cosmic madhouse…",
    "type": "narration",
    "voice": "granny",
-   "text": "**Every principle of manifestation depends upon the entire reality of which it is an expression.**",
-   "directed": "**Every principle of manifestation depends upon the entire reality of which it is an expression.**"
+   "text": "Every principle of manifestation depends upon the entire reality of which it is an expression.",
+   "directed": "Every principle of manifestation depends upon the entire reality of which it is an expression."
   },
   {
    "id": "b20",
@@ -215,16 +215,16 @@
    "section": "Previously, in the cosmic madhouse…",
    "type": "narration",
    "voice": "granny",
-   "text": "We're at Kashmir Series p. 139, where Abhinavagupta invokes the *Spanda* scripture, proceeds through a remarkable example involving trees, and develops a causal argument that leads to a surprisingly radical account of time, reflection and sacred language.",
-   "directed": "We're at Kashmir Series p. 139, where Abhinavagupta invokes the *Spanda* scripture, proceeds through a remarkable example involving trees, and develops a causal argument that leads to a surprisingly radical account of time, reflection and sacred language."
+   "text": "We're at Kashmir Series p. 139, where Abhinavagupta invokes the Spanda scripture, proceeds through a remarkable example involving trees, and develops a causal argument that leads to a surprisingly radical account of time, reflection and sacred language.",
+   "directed": "We're at Kashmir Series p. 139, where Abhinavagupta invokes the Spanda scripture, proceeds through a remarkable example involving trees, and develops a causal argument that leads to a surprisingly radical account of time, reflection and sacred language."
   },
   {
    "id": "b27",
    "section": "Previously, in the cosmic madhouse…",
    "type": "narration",
    "voice": "granny",
-   "text": "I've checked the Devanāgarī transcription against the parallel *Spandakārikā* text. One important distinction: the online Kashmir Series transcription includes bracketed explanatory annotations, which are not always Abhinavagupta's own words. I'll keep the principal commentary separate from those notes, and quote only short, securely attested Sanskrit passages. ; \\]",
-   "directed": "I've checked the Devanāgarī transcription against the parallel *Spandakārikā* text. One important distinction: the online Kashmir Series transcription includes bracketed explanatory annotations, which are not always Abhinavagupta's own words. I'll keep the principal commentary separate from those notes, and quote only short, securely attested Sanskrit passages. ; \\]"
+   "text": "I've checked the Devanāgarī transcription against the parallel Spandakārikā text. One important distinction: the online Kashmir Series transcription includes bracketed explanatory annotations, which are not always Abhinavagupta's own words. I'll keep the principal commentary separate from those notes, and quote only short, securely attested Sanskrit passages. ; ]",
+   "directed": "I've checked the Devanāgarī transcription against the parallel Spandakārikā text. One important distinction: the online Kashmir Series transcription includes bracketed explanatory annotations, which are not always Abhinavagupta's own words. I'll keep the principal commentary separate from those notes, and quote only short, securely attested Sanskrit passages. ; ]"
   },
   {
    "id": "b28",
@@ -263,8 +263,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "Now he invokes the scriptural teaching that **each individual tattva possesses the nature of all thirty-six tattvas**.",
-   "directed": "Now he invokes the scriptural teaching that **each individual tattva possesses the nature of all thirty-six tattvas**."
+   "text": "Now he invokes the scriptural teaching that each individual tattva possesses the nature of all thirty-six tattvas.",
+   "directed": "Now he invokes the scriptural teaching that each individual tattva possesses the nature of all thirty-six tattvas."
   },
   {
    "id": "b33",
@@ -279,16 +279,16 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Sarvasarvātmakatva",
-   "directed": "### The Sanskrit: Sarvasarvātmakatva"
+   "text": "The Sanskrit: Sarvasarvātmakatva",
+   "directed": "The Sanskrit: Sarvasarvātmakatva"
   },
   {
    "id": "b35",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वसर्वात्मकत्व - sarvasarvātmakatva**",
-   "directed": "[slowly] **सर्वसर्वात्मकत्व - sarvasarvātmakatva**"
+   "text": "सर्वसर्वात्मकत्व - sarvasarvātmakatva",
+   "directed": "[slowly] सर्वसर्वात्मकत्व - sarvasarvātmakatva"
   },
   {
    "id": "b36",
@@ -311,16 +311,16 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "- **सर्व - sarva:** all, everything.\n- **सर्व - sarva:** repeated to express the comprehensive relation.\n- **आत्मक - ātmaka:** having the nature of, constituted by.\n- **त्व - tva:** the condition of being something.",
-   "directed": "[slowly] - **सर्व - sarva:** all, everything.\n- **सर्व - sarva:** repeated to express the comprehensive relation.\n- **आत्मक - ātmaka:** having the nature of, constituted by.\n- **त्व - tva:** the condition of being something."
+   "text": "सर्व - sarva: all, everything.\nसर्व - sarva: repeated to express the comprehensive relation.\nआत्मक - ātmaka: having the nature of, constituted by.\nत्व - tva: the condition of being something.",
+   "directed": "[slowly] - सर्व - sarva: all, everything.\nसर्व - sarva: repeated to express the comprehensive relation.\nआत्मक - ātmaka: having the nature of, constituted by.\nत्व - tva: the condition of being something."
   },
   {
    "id": "b39",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "Thus *sarvasarvātmakatva* expresses the doctrine of **everything having the nature of everything**, understood through the universal ground of manifestation.",
-   "directed": "Thus *sarvasarvātmakatva* expresses the doctrine of **everything having the nature of everything**, understood through the universal ground of manifestation."
+   "text": "Thus sarvasarvātmakatva expresses the doctrine of everything having the nature of everything, understood through the universal ground of manifestation.",
+   "directed": "Thus sarvasarvātmakatva expresses the doctrine of everything having the nature of everything, understood through the universal ground of manifestation."
   },
   {
    "id": "b40",
@@ -351,8 +351,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "He is making a claim about **ontological dependence and the inseparability of manifested principles**.",
-   "directed": "He is making a claim about **ontological dependence and the inseparability of manifested principles**."
+   "text": "He is making a claim about ontological dependence and the inseparability of manifested principles.",
+   "directed": "He is making a claim about ontological dependence and the inseparability of manifested principles."
   },
   {
    "id": "b44",
@@ -383,16 +383,16 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "### The grammar of ātmaka",
-   "directed": "### The grammar of ātmaka"
+   "text": "The grammar of ātmaka",
+   "directed": "The grammar of ātmaka"
   },
   {
    "id": "b48",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**आत्मक - ātmaka**",
-   "directed": "[slowly] **आत्मक - ātmaka**"
+   "text": "आत्मक - ātmaka",
+   "directed": "[slowly] आत्मक - ātmaka"
   },
   {
    "id": "b49",
@@ -415,8 +415,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिवात्मक - śivātmaka**",
-   "directed": "[slowly] **शिवात्मक - śivātmaka**"
+   "text": "शिवात्मक - śivātmaka",
+   "directed": "[slowly] शिवात्मक - śivātmaka"
   },
   {
    "id": "b52",
@@ -431,8 +431,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**चिदात्मक - cidātmaka**",
-   "directed": "[slowly] **चिदात्मक - cidātmaka**"
+   "text": "चिदात्मक - cidātmaka",
+   "directed": "[slowly] चिदात्मक - cidātmaka"
   },
   {
    "id": "b54",
@@ -447,8 +447,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वात्मक - sarvātmaka**",
-   "directed": "[slowly] **सर्वात्मक - sarvātmaka**"
+   "text": "सर्वात्मक - sarvātmaka",
+   "directed": "[slowly] सर्वात्मक - sarvātmaka"
   },
   {
    "id": "b56",
@@ -471,32 +471,32 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "**sarva + ātmaka → sarvātmaka**",
-   "directed": "**sarva + ātmaka → sarvātmaka**"
+   "text": "sarva + ātmaka → sarvātmaka",
+   "directed": "sarva + ātmaka → sarvātmaka"
   },
   {
    "id": "b59",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "Because **a + ā → ā**.",
-   "directed": "Because **a + ā → ā**."
+   "text": "Because a + ā → ā.",
+   "directed": "Because a + ā → ā."
   },
   {
    "id": "b60",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "And when the abstract suffix *-tva* is added:",
-   "directed": "[short pause] And when the abstract suffix *-tva* is added:"
+   "text": "And when the abstract suffix -tva is added:",
+   "directed": "[short pause] And when the abstract suffix -tva is added:"
   },
   {
    "id": "b61",
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वात्मकत्व - sarvātmakatva**",
-   "directed": "[slowly] **सर्वात्मकत्व - sarvātmakatva**"
+   "text": "सर्वात्मकत्व - sarvātmakatva",
+   "directed": "[slowly] सर्वात्मकत्व - sarvātmakatva"
   },
   {
    "id": "b62",
@@ -511,8 +511,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "This suffix *-tva* is becoming one of our great Sanskrit friends.",
-   "directed": "This suffix *-tva* is becoming one of our great Sanskrit friends."
+   "text": "This suffix -tva is becoming one of our great Sanskrit friends.",
+   "directed": "This suffix -tva is becoming one of our great Sanskrit friends."
   },
   {
    "id": "b64",
@@ -527,8 +527,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिवत्व - śivatva**",
-   "directed": "[slowly] **शिवत्व - śivatva**"
+   "text": "शिवत्व - śivatva",
+   "directed": "[slowly] शिवत्व - śivatva"
   },
   {
    "id": "b66",
@@ -543,8 +543,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**कर्तृत्व - kartṛtva**",
-   "directed": "[slowly] **कर्तृत्व - kartṛtva**"
+   "text": "कर्तृत्व - kartṛtva",
+   "directed": "[slowly] कर्तृत्व - kartṛtva"
   },
   {
    "id": "b68",
@@ -567,8 +567,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वसर्वात्मकत्व - sarvasarvātmakatva**",
-   "directed": "[slowly] **सर्वसर्वात्मकत्व - sarvasarvātmakatva**"
+   "text": "सर्वसर्वात्मकत्व - sarvasarvātmakatva",
+   "directed": "[slowly] सर्वसर्वात्मकत्व - sarvasarvātmakatva"
   },
   {
    "id": "b71",
@@ -583,8 +583,8 @@
    "section": "1. The entire cosmos is present in each tattva",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why this isn't just saying “everything is one”",
-   "directed": "### Why this isn't just saying “everything is one”"
+   "text": "Why this isn't just saying “everything is one”",
+   "directed": "Why this isn't just saying “everything is one”"
   },
   {
    "id": "b73",
@@ -719,16 +719,16 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "*Didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate.*",
-   "directed": "[slowly] *Didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate.*"
+   "text": "Didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate.",
+   "directed": "[slowly] Didṛkṣayeva sarvārthān yadā vyāpyāvatiṣṭhate."
   },
   {
    "id": "b90",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "*Tadā kiṃ bahunoktena svayam evāvabhotsyate.*",
-   "directed": "*Tadā kiṃ bahunoktena svayam evāvabhotsyate.*"
+   "text": "Tadā kiṃ bahunoktena svayam evāvabhotsyate.",
+   "directed": "Tadā kiṃ bahunoktena svayam evāvabhotsyate."
   },
   {
    "id": "b91",
@@ -751,8 +751,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "This is a verse of the *Spandakārikā*, cited here by Abhinavagupta. Its numbering is 3.11 in the sectioned arrangement and 11 in some continuous presentations of that chapter. ; \\]",
-   "directed": "This is a verse of the *Spandakārikā*, cited here by Abhinavagupta. Its numbering is 3.11 in the sectioned arrangement and 11 in some continuous presentations of that chapter. ; \\]"
+   "text": "This is a verse of the Spandakārikā, cited here by Abhinavagupta. Its numbering is 3.11 in the sectioned arrangement and 11 in some continuous presentations of that chapter. ; ]",
+   "directed": "This is a verse of the Spandakārikā, cited here by Abhinavagupta. Its numbering is 3.11 in the sectioned arrangement and 11 in some continuous presentations of that chapter. ; ]"
   },
   {
    "id": "b94",
@@ -791,7 +791,7 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "### Didṛkṣā - दिदृक्षा",
+   "text": "Didṛkṣā - दिदृक्षा",
    "directed": "[slowly] ### Didṛkṣā - दिदृक्षा"
   },
   {
@@ -807,8 +807,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**दिदृक्षा - didṛkṣā**",
-   "directed": "[slowly] **दिदृक्षा - didṛkṣā**"
+   "text": "दिदृक्षा - didṛkṣā",
+   "directed": "[slowly] दिदृक्षा - didṛkṣā"
   },
   {
    "id": "b101",
@@ -823,8 +823,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "From √**दृश् - dṛś**, to see, through a desiderative formation.",
-   "directed": "[slowly] From √**दृश् - dṛś**, to see, through a desiderative formation."
+   "text": "From √दृश् - dṛś, to see, through a desiderative formation.",
+   "directed": "[slowly] From √दृश् - dṛś, to see, through a desiderative formation."
   },
   {
    "id": "b103",
@@ -847,16 +847,16 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "*Dṛś* - to see.",
-   "directed": "*Dṛś* - to see."
+   "text": "Dṛś - to see.",
+   "directed": "Dṛś - to see."
   },
   {
    "id": "b106",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "*Didṛkṣā* - the wish to see.",
-   "directed": "*Didṛkṣā* - the wish to see."
+   "text": "Didṛkṣā - the wish to see.",
+   "directed": "Didṛkṣā - the wish to see."
   },
   {
    "id": "b107",
@@ -879,8 +879,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**दिदृक्षयेव - didṛkṣayeva**",
-   "directed": "[slowly] **दिदृक्षयेव - didṛkṣayeva**"
+   "text": "दिदृक्षयेव - didṛkṣayeva",
+   "directed": "[slowly] दिदृक्षयेव - didṛkṣayeva"
   },
   {
    "id": "b110",
@@ -895,24 +895,24 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "**didṛkṣayā + iva → didṛkṣayeva**",
-   "directed": "**didṛkṣayā + iva → didṛkṣayeva**"
+   "text": "didṛkṣayā + iva → didṛkṣayeva",
+   "directed": "didṛkṣayā + iva → didṛkṣayeva"
   },
   {
    "id": "b112",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "The final long *ā* combines with the following *i*:",
-   "directed": "[short pause] The final long *ā* combines with the following *i*:"
+   "text": "The final long ā combines with the following i:",
+   "directed": "[short pause] The final long ā combines with the following i:"
   },
   {
    "id": "b113",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "**ā + i → e**",
-   "directed": "**ā + i → e**"
+   "text": "ā + i → e",
+   "directed": "ā + i → e"
   },
   {
    "id": "b114",
@@ -927,8 +927,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "*didṛkṣayeva.*",
-   "directed": "[slowly] *didṛkṣayeva.*"
+   "text": "didṛkṣayeva.",
+   "directed": "[slowly] didṛkṣayeva."
   },
   {
    "id": "b116",
@@ -943,8 +943,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**क्ष = क् + ष**",
-   "directed": "[slowly] **क्ष = क् + ष**"
+   "text": "क्ष = क् + ष",
+   "directed": "[slowly] क्ष = क् + ष"
   },
   {
    "id": "b118",
@@ -975,7 +975,7 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "### Sarvārthān - सर्वार्थान्",
+   "text": "Sarvārthān - सर्वार्थान्",
    "directed": "[slowly] ### Sarvārthān - सर्वार्थान्"
   },
   {
@@ -983,8 +983,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्व - sarva**",
-   "directed": "[slowly] **सर्व - sarva**"
+   "text": "सर्व - sarva",
+   "directed": "[slowly] सर्व - sarva"
   },
   {
    "id": "b123",
@@ -999,8 +999,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**अर्थ - artha**",
-   "directed": "[slowly] **अर्थ - artha**"
+   "text": "अर्थ - artha",
+   "directed": "[slowly] अर्थ - artha"
   },
   {
    "id": "b125",
@@ -1023,8 +1023,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वार्थ - sarvārtha**",
-   "directed": "[slowly] **सर्वार्थ - sarvārtha**"
+   "text": "सर्वार्थ - sarvārtha",
+   "directed": "[slowly] सर्वार्थ - sarvārtha"
   },
   {
    "id": "b128",
@@ -1047,8 +1047,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**सर्वार्थान् - sarvārthān**",
-   "directed": "[slowly] **सर्वार्थान् - sarvārthān**"
+   "text": "सर्वार्थान् - sarvārthān",
+   "directed": "[slowly] सर्वार्थान् - sarvārthān"
   },
   {
    "id": "b131",
@@ -1063,16 +1063,16 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "Now why is the ending *-ān*?",
-   "directed": "Now why is the ending *-ān*?"
+   "text": "Now why is the ending -ān?",
+   "directed": "Now why is the ending -ān?"
   },
   {
    "id": "b133",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "Because we're dealing with a masculine *-a* stem in the accusative plural.",
-   "directed": "Because we're dealing with a masculine *-a* stem in the accusative plural."
+   "text": "Because we're dealing with a masculine -a stem in the accusative plural.",
+   "directed": "Because we're dealing with a masculine -a stem in the accusative plural."
   },
   {
    "id": "b134",
@@ -1087,8 +1087,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**अर्थः - arthaḥ**",
-   "directed": "[slowly] **अर्थः - arthaḥ**"
+   "text": "अर्थः - arthaḥ",
+   "directed": "[slowly] अर्थः - arthaḥ"
   },
   {
    "id": "b136",
@@ -1103,8 +1103,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**अर्थम् - artham**",
-   "directed": "[slowly] **अर्थम् - artham**"
+   "text": "अर्थम् - artham",
+   "directed": "[slowly] अर्थम् - artham"
   },
   {
    "id": "b138",
@@ -1119,8 +1119,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**अर्थान् - arthān**",
-   "directed": "[slowly] **अर्थान् - arthān**"
+   "text": "अर्थान् - arthān",
+   "directed": "[slowly] अर्थान् - arthān"
   },
   {
    "id": "b140",
@@ -1143,8 +1143,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "*sarvārthān.*",
-   "directed": "[slowly] *sarvārthān.*"
+   "text": "sarvārthān.",
+   "directed": "[slowly] sarvārthān."
   },
   {
    "id": "b143",
@@ -1159,7 +1159,7 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "### Vyāpya - व्याप्य",
+   "text": "Vyāpya - व्याप्य",
    "directed": "[slowly] ### Vyāpya - व्याप्य"
   },
   {
@@ -1167,8 +1167,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**व्याप्य - vyāpya**",
-   "directed": "[slowly] **व्याप्य - vyāpya**"
+   "text": "व्याप्य - vyāpya",
+   "directed": "[slowly] व्याप्य - vyāpya"
   },
   {
    "id": "b146",
@@ -1183,8 +1183,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "It is a verbal absolutive form related to *vi-* and √*āp*, to reach, obtain or pervade.",
-   "directed": "It is a verbal absolutive form related to *vi-* and √*āp*, to reach, obtain or pervade."
+   "text": "It is a verbal absolutive form related to vi- and √āp, to reach, obtain or pervade.",
+   "directed": "It is a verbal absolutive form related to vi- and √āp, to reach, obtain or pervade."
   },
   {
    "id": "b148",
@@ -1207,8 +1207,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**अवतिष्ठते - avatiṣṭhate**",
-   "directed": "[slowly] **अवतिष्ठते - avatiṣṭhate**"
+   "text": "अवतिष्ठते - avatiṣṭhate",
+   "directed": "[slowly] अवतिष्ठते - avatiṣṭhate"
   },
   {
    "id": "b151",
@@ -1223,8 +1223,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "From *ava-* and √*sthā*, to stand or remain.",
-   "directed": "From *ava-* and √*sthā*, to stand or remain."
+   "text": "From ava- and √sthā, to stand or remain.",
+   "directed": "From ava- and √sthā, to stand or remain."
   },
   {
    "id": "b153",
@@ -1247,8 +1247,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**व्याप्यावतिष्ठते - vyāpyāvatiṣṭhate**",
-   "directed": "[slowly] **व्याप्यावतिष्ठते - vyāpyāvatiṣṭhate**"
+   "text": "व्याप्यावतिष्ठते - vyāpyāvatiṣṭhate",
+   "directed": "[slowly] व्याप्यावतिष्ठते - vyāpyāvatiṣṭhate"
   },
   {
    "id": "b156",
@@ -1263,8 +1263,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "*vyāpya + avatiṣṭhate*.",
-   "directed": "[slowly] *vyāpya + avatiṣṭhate*."
+   "text": "vyāpya + avatiṣṭhate.",
+   "directed": "[slowly] vyāpya + avatiṣṭhate."
   },
   {
    "id": "b158",
@@ -1279,8 +1279,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "**a + a → ā**",
-   "directed": "**a + a → ā**"
+   "text": "a + a → ā",
+   "directed": "a + a → ā"
   },
   {
    "id": "b160",
@@ -1295,8 +1295,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "*vyāpyāvatiṣṭhate.*",
-   "directed": "[slowly] *vyāpyāvatiṣṭhate.*"
+   "text": "vyāpyāvatiṣṭhate.",
+   "directed": "[slowly] vyāpyāvatiṣṭhate."
   },
   {
    "id": "b162",
@@ -1335,8 +1335,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "### Kiṃ bahunoktena",
-   "directed": "### Kiṃ bahunoktena"
+   "text": "Kiṃ bahunoktena",
+   "directed": "Kiṃ bahunoktena"
   },
   {
    "id": "b167",
@@ -1351,8 +1351,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**किं बहुनोक्तेन - kiṃ bahunoktena**",
-   "directed": "[slowly] **किं बहुनोक्तेन - kiṃ bahunoktena**"
+   "text": "किं बहुनोक्तेन - kiṃ bahunoktena",
+   "directed": "[slowly] किं बहुनोक्तेन - kiṃ bahunoktena"
   },
   {
    "id": "b169",
@@ -1375,8 +1375,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**किम् - kim**",
-   "directed": "[slowly] **किम् - kim**"
+   "text": "किम् - kim",
+   "directed": "[slowly] किम् - kim"
   },
   {
    "id": "b172",
@@ -1391,8 +1391,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**बहु - bahu**",
-   "directed": "[slowly] **बहु - bahu**"
+   "text": "बहु - bahu",
+   "directed": "[slowly] बहु - bahu"
   },
   {
    "id": "b174",
@@ -1407,8 +1407,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**उक्त - ukta**",
-   "directed": "[slowly] **उक्त - ukta**"
+   "text": "उक्त - ukta",
+   "directed": "[slowly] उक्त - ukta"
   },
   {
    "id": "b176",
@@ -1423,8 +1423,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "From √*vac*, to speak, in a past participial form with the familiar change to *ukta*.",
-   "directed": "From √*vac*, to speak, in a past participial form with the familiar change to *ukta*."
+   "text": "From √vac, to speak, in a past participial form with the familiar change to ukta.",
+   "directed": "From √vac, to speak, in a past participial form with the familiar change to ukta."
   },
   {
    "id": "b178",
@@ -1439,8 +1439,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**उक्तेन - uktena**",
-   "directed": "[slowly] **उक्तेन - uktena**"
+   "text": "उक्तेन - uktena",
+   "directed": "[slowly] उक्तेन - uktena"
   },
   {
    "id": "b180",
@@ -1463,16 +1463,16 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**बहुना उक्तेन → बहुनोक्तेन**",
-   "directed": "[slowly] **बहुना उक्तेन → बहुनोक्तेन**"
+   "text": "बहुना उक्तेन → बहुनोक्तेन",
+   "directed": "[slowly] बहुना उक्तेन → बहुनोक्तेन"
   },
   {
    "id": "b183",
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "*bahunā uktena → bahunoktena*",
-   "directed": "*bahunā uktena → bahunoktena*"
+   "text": "bahunā uktena → bahunoktena",
+   "directed": "bahunā uktena → bahunoktena"
   },
   {
    "id": "b184",
@@ -1487,8 +1487,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "**ā + u → o**",
-   "directed": "**ā + u → o**"
+   "text": "ā + u → o",
+   "directed": "ā + u → o"
   },
   {
    "id": "b186",
@@ -1519,8 +1519,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
-   "text": "**स्वयमेवावभोत्स्यते - svayam evāvabhotsyate**",
-   "directed": "[slowly] **स्वयमेवावभोत्स्यते - svayam evāvabhotsyate**"
+   "text": "स्वयमेवावभोत्स्यते - svayam evāvabhotsyate",
+   "directed": "[slowly] स्वयमेवावभोत्स्यते - svayam evāvabhotsyate"
   },
   {
    "id": "b190",
@@ -1535,8 +1535,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "The verb *avabhotsyate* is a future middle form connected with *ava-* and √*budh*, to understand or awaken.",
-   "directed": "The verb *avabhotsyate* is a future middle form connected with *ava-* and √*budh*, to understand or awaken."
+   "text": "The verb avabhotsyate is a future middle form connected with ava- and √budh, to understand or awaken.",
+   "directed": "The verb avabhotsyate is a future middle form connected with ava- and √budh, to understand or awaken."
   },
   {
    "id": "b192",
@@ -1551,8 +1551,8 @@
    "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "narration",
    "voice": "granny",
-   "text": "**The teaching points toward direct recognition of the whole, rather than endlessly accumulating separate descriptions of its parts.**",
-   "directed": "**The teaching points toward direct recognition of the whole, rather than endlessly accumulating separate descriptions of its parts.**"
+   "text": "The teaching points toward direct recognition of the whole, rather than endlessly accumulating separate descriptions of its parts.",
+   "directed": "The teaching points toward direct recognition of the whole, rather than endlessly accumulating separate descriptions of its parts."
   },
   {
    "id": "b194",
@@ -1743,16 +1743,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिंशपा - śiṃśapā**",
-   "directed": "[slowly] **शिंशपा - śiṃśapā**"
+   "text": "शिंशपा - śiṃśapā",
+   "directed": "[slowly] शिंशपा - śiṃśapā"
   },
   {
    "id": "b218",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "A particular kind of tree, traditionally identified with the North Indian *śiśam* or Indian rosewood.",
-   "directed": "A particular kind of tree, traditionally identified with the North Indian *śiśam* or Indian rosewood."
+   "text": "A particular kind of tree, traditionally identified with the North Indian śiśam or Indian rosewood.",
+   "directed": "A particular kind of tree, traditionally identified with the North Indian śiśam or Indian rosewood."
   },
   {
    "id": "b219",
@@ -1767,8 +1767,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृक्ष - vṛkṣa**",
-   "directed": "[slowly] **वृक्ष - vṛkṣa**"
+   "text": "वृक्ष - vṛkṣa",
+   "directed": "[slowly] वृक्ष - vṛkṣa"
   },
   {
    "id": "b221",
@@ -1791,16 +1791,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "Every *śiṃśapā* is a tree.",
-   "directed": "Every *śiṃśapā* is a tree."
+   "text": "Every śiṃśapā is a tree.",
+   "directed": "Every śiṃśapā is a tree."
   },
   {
    "id": "b224",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "But not every tree is a *śiṃśapā*.",
-   "directed": "But not every tree is a *śiṃśapā*."
+   "text": "But not every tree is a śiṃśapā.",
+   "directed": "But not every tree is a śiṃśapā."
   },
   {
    "id": "b225",
@@ -1823,16 +1823,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "A *śiṃśapā* is a tree.",
-   "directed": "A *śiṃśapā* is a tree."
+   "text": "A śiṃśapā is a tree.",
+   "directed": "A śiṃśapā is a tree."
   },
   {
    "id": "b228",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "But the generic property of being a tree does not require possessing the particular identity of *śiṃśapā*.",
-   "directed": "But the generic property of being a tree does not require possessing the particular identity of *śiṃśapā*."
+   "text": "But the generic property of being a tree does not require possessing the particular identity of śiṃśapā.",
+   "directed": "But the generic property of being a tree does not require possessing the particular identity of śiṃśapā."
   },
   {
    "id": "b229",
@@ -1855,8 +1855,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "**Śiṃśapā → Tree**",
-   "directed": "**Śiṃśapā → Tree**"
+   "text": "Śiṃśapā → Tree",
+   "directed": "Śiṃśapā → Tree"
   },
   {
    "id": "b232",
@@ -1879,8 +1879,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "**Tree ↛ Śiṃśapā**",
-   "directed": "**Tree ↛ Śiṃśapā**"
+   "text": "Tree ↛ Śiṃśapā",
+   "directed": "Tree ↛ Śiṃśapā"
   },
   {
    "id": "b235",
@@ -1935,24 +1935,24 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Śiṃśapātva",
-   "directed": "### The Sanskrit: Śiṃśapātva"
+   "text": "The Sanskrit: Śiṃśapātva",
+   "directed": "The Sanskrit: Śiṃśapātva"
   },
   {
    "id": "b242",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिंशपात्व - śiṃśapātva**",
-   "directed": "[slowly] **शिंशपात्व - śiṃśapātva**"
+   "text": "शिंशपात्व - śiṃśapātva",
+   "directed": "[slowly] शिंशपात्व - śiṃśapātva"
   },
   {
    "id": "b243",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "The condition of being a *śiṃśapā*.",
-   "directed": "The condition of being a *śiṃśapā*."
+   "text": "The condition of being a śiṃśapā.",
+   "directed": "The condition of being a śiṃśapā."
   },
   {
    "id": "b244",
@@ -1967,16 +1967,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "*śiṃśapā + tva*.",
-   "directed": "*śiṃśapā + tva*."
+   "text": "śiṃśapā + tva.",
+   "directed": "śiṃśapā + tva."
   },
   {
    "id": "b246",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "The abstract suffix *-tva* expresses the quality or state.",
-   "directed": "The abstract suffix *-tva* expresses the quality or state."
+   "text": "The abstract suffix -tva expresses the quality or state.",
+   "directed": "The abstract suffix -tva expresses the quality or state."
   },
   {
    "id": "b247",
@@ -1991,8 +1991,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृक्षत्व - vṛkṣatva**",
-   "directed": "[slowly] **वृक्षत्व - vṛkṣatva**"
+   "text": "वृक्षत्व - vṛkṣatva",
+   "directed": "[slowly] वृक्षत्व - vṛkṣatva"
   },
   {
    "id": "b249",
@@ -2015,16 +2015,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "*Śiṃśapātva* implies *vṛkṣatva*.",
-   "directed": "*Śiṃśapātva* implies *vṛkṣatva*."
+   "text": "Śiṃśapātva implies vṛkṣatva.",
+   "directed": "Śiṃśapātva implies vṛkṣatva."
   },
   {
    "id": "b252",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "But *vṛkṣatva* does not imply *śiṃśapātva*.",
-   "directed": "But *vṛkṣatva* does not imply *śiṃśapātva*."
+   "text": "But vṛkṣatva does not imply śiṃśapātva.",
+   "directed": "But vṛkṣatva does not imply śiṃśapātva."
   },
   {
    "id": "b253",
@@ -2055,8 +2055,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "### The crucial distinction: “Without which it cannot exist”",
-   "directed": "### The crucial distinction: “Without which it cannot exist”"
+   "text": "The crucial distinction: “Without which it cannot exist”",
+   "directed": "The crucial distinction: “Without which it cannot exist”"
   },
   {
    "id": "b257",
@@ -2095,8 +2095,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "A *śiṃśapā* requires being a tree.",
-   "directed": "A *śiṃśapā* requires being a tree."
+   "text": "A śiṃśapā requires being a tree.",
+   "directed": "A śiṃśapā requires being a tree."
   },
   {
    "id": "b262",
@@ -2111,8 +2111,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "But being a tree does not require being a *śiṃśapā*.",
-   "directed": "But being a tree does not require being a *śiṃśapā*."
+   "text": "But being a tree does not require being a śiṃśapā.",
+   "directed": "But being a tree does not require being a śiṃśapā."
   },
   {
    "id": "b264",
@@ -2151,16 +2151,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "### The grammar of vṛkṣa",
-   "directed": "### The grammar of vṛkṣa"
+   "text": "The grammar of vṛkṣa",
+   "directed": "The grammar of vṛkṣa"
   },
   {
    "id": "b269",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृक्ष - vṛkṣa**",
-   "directed": "[slowly] **वृक्ष - vṛkṣa**"
+   "text": "वृक्ष - vṛkṣa",
+   "directed": "[slowly] वृक्ष - vṛkṣa"
   },
   {
    "id": "b270",
@@ -2183,8 +2183,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृ = व + ृ**",
-   "directed": "[slowly] **वृ = व + ृ**"
+   "text": "वृ = व + ृ",
+   "directed": "[slowly] वृ = व + ृ"
   },
   {
    "id": "b273",
@@ -2207,8 +2207,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**क्ष = क् + ष**",
-   "directed": "[slowly] **क्ष = क् + ष**"
+   "text": "क्ष = क् + ष",
+   "directed": "[slowly] क्ष = क् + ष"
   },
   {
    "id": "b276",
@@ -2223,16 +2223,16 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृ + क्ष**",
-   "directed": "[slowly] **वृ + क्ष**"
+   "text": "वृ + क्ष",
+   "directed": "[slowly] वृ + क्ष"
   },
   {
    "id": "b278",
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "*vṛkṣa.*",
-   "directed": "[slowly] *vṛkṣa.*"
+   "text": "vṛkṣa.",
+   "directed": "[slowly] vṛkṣa."
   },
   {
    "id": "b279",
@@ -2247,8 +2247,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृक्षत्वम् - vṛkṣatvam**",
-   "directed": "[slowly] **वृक्षत्वम् - vṛkṣatvam**"
+   "text": "वृक्षत्वम् - vṛkṣatvam",
+   "directed": "[slowly] वृक्षत्वम् - vṛkṣatvam"
   },
   {
    "id": "b281",
@@ -2271,8 +2271,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिंशपात्वम् - śiṃśapātvam**",
-   "directed": "[slowly] **शिंशपात्वम् - śiṃśapātvam**"
+   "text": "शिंशपात्वम् - śiṃśapātvam",
+   "directed": "[slowly] शिंशपात्वम् - śiṃśapātvam"
   },
   {
    "id": "b284",
@@ -2287,8 +2287,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "These are two abstract nouns with the same *-tva* formation.",
-   "directed": "These are two abstract nouns with the same *-tva* formation."
+   "text": "These are two abstract nouns with the same -tva formation.",
+   "directed": "These are two abstract nouns with the same -tva formation."
   },
   {
    "id": "b286",
@@ -2319,8 +2319,8 @@
    "section": "3. The tree takes the witness stand - Śiṃśapā versus Vṛkṣa",
    "type": "narration",
    "voice": "granny",
-   "text": "**If Earth requires the higher principles to be what it is, then Earth's reality cannot be understood independently of them.**",
-   "directed": "**If Earth requires the higher principles to be what it is, then Earth's reality cannot be understood independently of them.**"
+   "text": "If Earth requires the higher principles to be what it is, then Earth's reality cannot be understood independently of them.",
+   "directed": "If Earth requires the higher principles to be what it is, then Earth's reality cannot be understood independently of them."
   },
   {
    "id": "b290",
@@ -2383,8 +2383,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "He is **not** giving a modern physical account of why terrestrial solids exist.",
-   "directed": "He is **not** giving a modern physical account of why terrestrial solids exist."
+   "text": "He is not giving a modern physical account of why terrestrial solids exist.",
+   "directed": "He is not giving a modern physical account of why terrestrial solids exist."
   },
   {
    "id": "b298",
@@ -2407,8 +2407,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**पृथिवी - pṛthivī**",
-   "directed": "[slowly] **पृथिवी - pṛthivī**"
+   "text": "पृथिवी - pṛthivī",
+   "directed": "[slowly] पृथिवी - pṛthivī"
   },
   {
    "id": "b301",
@@ -2431,8 +2431,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**अप् - ap**",
-   "directed": "[slowly] **अप् - ap**"
+   "text": "अप् - ap",
+   "directed": "[slowly] अप् - ap"
   },
   {
    "id": "b304",
@@ -2447,8 +2447,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "The common inflected forms of the water noun include **आपः - āpaḥ**, waters.",
-   "directed": "[slowly] The common inflected forms of the water noun include **आपः - āpaḥ**, waters."
+   "text": "The common inflected forms of the water noun include आपः - āpaḥ, waters.",
+   "directed": "[slowly] The common inflected forms of the water noun include आपः - āpaḥ, waters."
   },
   {
    "id": "b306",
@@ -2471,8 +2471,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why does he mention hardness?",
-   "directed": "### Why does he mention hardness?"
+   "text": "Why does he mention hardness?",
+   "directed": "Why does he mention hardness?"
   },
   {
    "id": "b309",
@@ -2487,8 +2487,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**काठिन्य - kāṭhinya**",
-   "directed": "[slowly] **काठिन्य - kāṭhinya**"
+   "text": "काठिन्य - kāṭhinya",
+   "directed": "[slowly] काठिन्य - kāṭhinya"
   },
   {
    "id": "b311",
@@ -2511,8 +2511,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**कठिन - kaṭhina**",
-   "directed": "[slowly] **कठिन - kaṭhina**"
+   "text": "कठिन - kaṭhina",
+   "directed": "[slowly] कठिन - kaṭhina"
   },
   {
    "id": "b314",
@@ -2543,8 +2543,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**ठ - ṭha**",
-   "directed": "[slowly] **ठ - ṭha**"
+   "text": "ठ - ṭha",
+   "directed": "[slowly] ठ - ṭha"
   },
   {
    "id": "b318",
@@ -2559,8 +2559,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**थ - tha**",
-   "directed": "[slowly] **थ - tha**"
+   "text": "थ - tha",
+   "directed": "[slowly] थ - tha"
   },
   {
    "id": "b320",
@@ -2583,8 +2583,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "In *kāṭhinya*, the consonant is **ठ - ṭha**.",
-   "directed": "[slowly] In *kāṭhinya*, the consonant is **ठ - ṭha**."
+   "text": "In kāṭhinya, the consonant is ठ - ṭha.",
+   "directed": "[slowly] In kāṭhinya, the consonant is ठ - ṭha."
   },
   {
    "id": "b323",
@@ -2599,8 +2599,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**काठिन्य - kāṭhinya**",
-   "directed": "[slowly] **काठिन्य - kāṭhinya**"
+   "text": "काठिन्य - kāṭhinya",
+   "directed": "[slowly] काठिन्य - kāṭhinya"
   },
   {
    "id": "b325",
@@ -2695,16 +2695,16 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Upādāna-kāraṇa",
-   "directed": "### The Sanskrit: Upādāna-kāraṇa"
+   "text": "The Sanskrit: Upādāna-kāraṇa",
+   "directed": "The Sanskrit: Upādāna-kāraṇa"
   },
   {
    "id": "b337",
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**उपादानकारण - upādānakāraṇa**",
-   "directed": "[slowly] **उपादानकारण - upādānakāraṇa**"
+   "text": "उपादानकारण - upādānakāraṇa",
+   "directed": "[slowly] उपादानकारण - upādānakāraṇa"
   },
   {
    "id": "b338",
@@ -2727,8 +2727,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**उपादान - upādāna**",
-   "directed": "[slowly] **उपादान - upādāna**"
+   "text": "उपादान - upādāna",
+   "directed": "[slowly] उपादान - upādāna"
   },
   {
    "id": "b341",
@@ -2743,8 +2743,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**कारण - kāraṇa**",
-   "directed": "[slowly] **कारण - kāraṇa**"
+   "text": "कारण - kāraṇa",
+   "directed": "[slowly] कारण - kāraṇa"
   },
   {
    "id": "b343",
@@ -2767,8 +2767,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "*upādāna + kāraṇa → upādānakāraṇa*",
-   "directed": "[slowly] *upādāna + kāraṇa → upādānakāraṇa*"
+   "text": "upādāna + kāraṇa → upādānakāraṇa",
+   "directed": "[slowly] upādāna + kāraṇa → upādānakāraṇa"
   },
   {
    "id": "b346",
@@ -2831,8 +2831,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "verse",
    "voice": "verse",
-   "text": "**निमित्तकारण - nimittakāraṇa**",
-   "directed": "[slowly] **निमित्तकारण - nimittakāraṇa**"
+   "text": "निमित्तकारण - nimittakāraṇa",
+   "directed": "[slowly] निमित्तकारण - nimittakāraṇa"
   },
   {
    "id": "b354",
@@ -2847,8 +2847,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "*Nimitta* means cause, occasion, instrument or sign, depending on context.",
-   "directed": "*Nimitta* means cause, occasion, instrument or sign, depending on context."
+   "text": "Nimitta means cause, occasion, instrument or sign, depending on context.",
+   "directed": "Nimitta means cause, occasion, instrument or sign, depending on context."
   },
   {
    "id": "b356",
@@ -2887,8 +2887,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "### The philosopher's pot factory",
-   "directed": "### The philosopher's pot factory"
+   "text": "The philosopher's pot factory",
+   "directed": "The philosopher's pot factory"
   },
   {
    "id": "b361",
@@ -2983,8 +2983,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "Because the causal chain eventually reaches **consciousness itself**.",
-   "directed": "Because the causal chain eventually reaches **consciousness itself**."
+   "text": "Because the causal chain eventually reaches consciousness itself.",
+   "directed": "Because the causal chain eventually reaches consciousness itself."
   },
   {
    "id": "b373",
@@ -3007,8 +3007,8 @@
    "section": "4. Earth cannot exist without Water - The causal argument be",
    "type": "narration",
    "voice": "granny",
-   "text": "### A warning about what this proves",
-   "directed": "### A warning about what this proves"
+   "text": "A warning about what this proves",
+   "directed": "A warning about what this proves"
   },
   {
    "id": "b376",
@@ -3119,8 +3119,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**भूत - Bhūta**",
-   "directed": "[slowly] **भूत - Bhūta**"
+   "text": "भूत - Bhūta",
+   "directed": "[slowly] भूत - Bhūta"
   },
   {
    "id": "b390",
@@ -3135,8 +3135,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**तन्मात्र - Tanmātra**",
-   "directed": "[slowly] **तन्मात्र - Tanmātra**"
+   "text": "तन्मात्र - Tanmātra",
+   "directed": "[slowly] तन्मात्र - Tanmātra"
   },
   {
    "id": "b392",
@@ -3151,8 +3151,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**इन्द्रिय - Indriya**",
-   "directed": "[slowly] **इन्द्रिय - Indriya**"
+   "text": "इन्द्रिय - Indriya",
+   "directed": "[slowly] इन्द्रिय - Indriya"
   },
   {
    "id": "b394",
@@ -3167,8 +3167,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**बुद्धि / अहङ्कार / मनस्**",
-   "directed": "[slowly] **बुद्धि / अहङ्कार / मनस्**"
+   "text": "बुद्धि / अहङ्कार / मनस्",
+   "directed": "[slowly] बुद्धि / अहङ्कार / मनस्"
   },
   {
    "id": "b396",
@@ -3183,8 +3183,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**प्रकृति / पुरुष**",
-   "directed": "[slowly] **प्रकृति / पुरुष**"
+   "text": "प्रकृति / पुरुष",
+   "directed": "[slowly] प्रकृति / पुरुष"
   },
   {
    "id": "b398",
@@ -3199,8 +3199,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**माया / कञ्चुक**",
-   "directed": "[slowly] **माया / कञ्चुक**"
+   "text": "माया / कञ्चुक",
+   "directed": "[slowly] माया / कञ्चुक"
   },
   {
    "id": "b400",
@@ -3215,8 +3215,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**शिव / शक्ति**",
-   "directed": "[slowly] **शिव / शक्ति**"
+   "text": "शिव / शक्ति",
+   "directed": "[slowly] शिव / शक्ति"
   },
   {
    "id": "b402",
@@ -3255,7 +3255,7 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "### Tanmātra - तन्मात्र",
+   "text": "Tanmātra - तन्मात्र",
    "directed": "[slowly] ### Tanmātra - तन्मात्र"
   },
   {
@@ -3271,8 +3271,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**तत् - tat**",
-   "directed": "[slowly] **तत् - tat**"
+   "text": "तत् - tat",
+   "directed": "[slowly] तत् - tat"
   },
   {
    "id": "b409",
@@ -3287,8 +3287,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**मात्र - mātra**",
-   "directed": "[slowly] **मात्र - mātra**"
+   "text": "मात्र - mātra",
+   "directed": "[slowly] मात्र - mātra"
   },
   {
    "id": "b411",
@@ -3311,8 +3311,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**तन्मात्र - tanmātra**",
-   "directed": "[slowly] **तन्मात्र - tanmātra**"
+   "text": "तन्मात्र - tanmātra",
+   "directed": "[slowly] तन्मात्र - tanmātra"
   },
   {
    "id": "b414",
@@ -3335,8 +3335,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**तन् = त + न्**",
-   "directed": "[slowly] **तन् = त + न्**"
+   "text": "तन् = त + न्",
+   "directed": "[slowly] तन् = त + न्"
   },
   {
    "id": "b417",
@@ -3351,8 +3351,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**मात्र - mātra**",
-   "directed": "[slowly] **मात्र - mātra**"
+   "text": "मात्र - mātra",
+   "directed": "[slowly] मात्र - mātra"
   },
   {
    "id": "b419",
@@ -3367,8 +3367,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "This isn't the same as *tatmātra*, because the form reflects the traditional combination and the noun's established shape.",
-   "directed": "This isn't the same as *tatmātra*, because the form reflects the traditional combination and the noun's established shape."
+   "text": "This isn't the same as tatmātra, because the form reflects the traditional combination and the noun's established shape.",
+   "directed": "This isn't the same as tatmātra, because the form reflects the traditional combination and the noun's established shape."
   },
   {
    "id": "b421",
@@ -3383,40 +3383,40 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**शब्द - śabda**: sound.",
-   "directed": "[slowly] **शब्द - śabda**: sound."
+   "text": "शब्द - śabda: sound.",
+   "directed": "[slowly] शब्द - śabda: sound."
   },
   {
    "id": "b423",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**स्पर्श - sparśa**: touch.",
-   "directed": "[slowly] **स्पर्श - sparśa**: touch."
+   "text": "स्पर्श - sparśa: touch.",
+   "directed": "[slowly] स्पर्श - sparśa: touch."
   },
   {
    "id": "b424",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**रूप - rūpa**: form or colour.",
-   "directed": "[slowly] **रूप - rūpa**: form or colour."
+   "text": "रूप - rūpa: form or colour.",
+   "directed": "[slowly] रूप - rūpa: form or colour."
   },
   {
    "id": "b425",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**रस - rasa**: taste.",
-   "directed": "[slowly] **रस - rasa**: taste."
+   "text": "रस - rasa: taste.",
+   "directed": "[slowly] रस - rasa: taste."
   },
   {
    "id": "b426",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**गन्ध - gandha**: smell.",
-   "directed": "[slowly] **गन्ध - gandha**: smell."
+   "text": "गन्ध - gandha: smell.",
+   "directed": "[slowly] गन्ध - gandha: smell."
   },
   {
    "id": "b427",
@@ -3447,7 +3447,7 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "### Indriya - इन्द्रिय",
+   "text": "Indriya - इन्द्रिय",
    "directed": "[slowly] ### Indriya - इन्द्रिय"
   },
   {
@@ -3463,8 +3463,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "The word is traditionally related to *Indra* and the notion of power, though its established philosophical meaning is what matters here.",
-   "directed": "The word is traditionally related to *Indra* and the notion of power, though its established philosophical meaning is what matters here."
+   "text": "The word is traditionally related to Indra and the notion of power, though its established philosophical meaning is what matters here.",
+   "directed": "The word is traditionally related to Indra and the notion of power, though its established philosophical meaning is what matters here."
   },
   {
    "id": "b433",
@@ -3527,7 +3527,7 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "### Adhyavasāya - अध्यवसाय",
+   "text": "Adhyavasāya - अध्यवसाय",
    "directed": "[slowly] ### Adhyavasāya - अध्यवसाय"
   },
   {
@@ -3543,8 +3543,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**अध्यवसाय - adhyavasāya**",
-   "directed": "[slowly] **अध्यवसाय - adhyavasāya**"
+   "text": "अध्यवसाय - adhyavasāya",
+   "directed": "[slowly] अध्यवसाय - adhyavasāya"
   },
   {
    "id": "b443",
@@ -3567,8 +3567,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "In Sāṃkhya and related systems, *buddhi* is especially associated with determination.",
-   "directed": "In Sāṃkhya and related systems, *buddhi* is especially associated with determination."
+   "text": "In Sāṃkhya and related systems, buddhi is especially associated with determination.",
+   "directed": "In Sāṃkhya and related systems, buddhi is especially associated with determination."
   },
   {
    "id": "b446",
@@ -3655,7 +3655,7 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "### Prakṛti - प्रकृति",
+   "text": "Prakṛti - प्रकृति",
    "directed": "[slowly] ### Prakṛti - प्रकृति"
   },
   {
@@ -3671,8 +3671,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**प्रकृति - prakṛti**",
-   "directed": "[slowly] **प्रकृति - prakṛti**"
+   "text": "प्रकृति - prakṛti",
+   "directed": "[slowly] प्रकृति - prakṛti"
   },
   {
    "id": "b459",
@@ -3687,8 +3687,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "The word is formed from *pra-* and √*kṛ*, to make or do, with the relevant nominal formation.",
-   "directed": "The word is formed from *pra-* and √*kṛ*, to make or do, with the relevant nominal formation."
+   "text": "The word is formed from pra- and √kṛ, to make or do, with the relevant nominal formation.",
+   "directed": "The word is formed from pra- and √kṛ, to make or do, with the relevant nominal formation."
   },
   {
    "id": "b461",
@@ -3727,8 +3727,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोक्तृ - bhoktṛ**",
-   "directed": "[slowly] **भोक्तृ - bhoktṛ**"
+   "text": "भोक्तृ - bhoktṛ",
+   "directed": "[slowly] भोक्तृ - bhoktṛ"
   },
   {
    "id": "b466",
@@ -3751,8 +3751,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोग्य - bhogya**",
-   "directed": "[slowly] **भोग्य - bhogya**"
+   "text": "भोग्य - bhogya",
+   "directed": "[slowly] भोग्य - bhogya"
   },
   {
    "id": "b469",
@@ -3775,40 +3775,40 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "They come from √**bhuj**, to enjoy, partake, consume or experience.",
-   "directed": "They come from √**bhuj**, to enjoy, partake, consume or experience."
+   "text": "They come from √bhuj, to enjoy, partake, consume or experience.",
+   "directed": "They come from √bhuj, to enjoy, partake, consume or experience."
   },
   {
    "id": "b472",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "*Bhoktṛ* names the experiencer.",
-   "directed": "*Bhoktṛ* names the experiencer."
+   "text": "Bhoktṛ names the experiencer.",
+   "directed": "Bhoktṛ names the experiencer."
   },
   {
    "id": "b473",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "*Bhogya* names what is available to experience.",
-   "directed": "*Bhogya* names what is available to experience."
+   "text": "Bhogya names what is available to experience.",
+   "directed": "Bhogya names what is available to experience."
   },
   {
    "id": "b474",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "The ending **-tṛ** often forms agent nouns.",
-   "directed": "The ending **-tṛ** often forms agent nouns."
+   "text": "The ending -tṛ often forms agent nouns.",
+   "directed": "The ending -tṛ often forms agent nouns."
   },
   {
    "id": "b475",
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "The ending **-ya** can form a gerundive, something to be acted upon.",
-   "directed": "The ending **-ya** can form a gerundive, something to be acted upon."
+   "text": "The ending -ya can form a gerundive, something to be acted upon.",
+   "directed": "The ending -ya can form a gerundive, something to be acted upon."
   },
   {
    "id": "b476",
@@ -3823,8 +3823,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोक्तृ - bhoktṛ**",
-   "directed": "[slowly] **भोक्तृ - bhoktṛ**"
+   "text": "भोक्तृ - bhoktṛ",
+   "directed": "[slowly] भोक्तृ - bhoktṛ"
   },
   {
    "id": "b478",
@@ -3839,8 +3839,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोग्य - bhogya**",
-   "directed": "[slowly] **भोग्य - bhogya**"
+   "text": "भोग्य - bhogya",
+   "directed": "[slowly] भोग्य - bhogya"
   },
   {
    "id": "b480",
@@ -3871,8 +3871,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "And the finite experiencer is **Puruṣa**.",
-   "directed": "And the finite experiencer is **Puruṣa**."
+   "text": "And the finite experiencer is Puruṣa.",
+   "directed": "And the finite experiencer is Puruṣa."
   },
   {
    "id": "b484",
@@ -3895,8 +3895,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "### The malas and the bonds",
-   "directed": "### The malas and the bonds"
+   "text": "The malas and the bonds",
+   "directed": "The malas and the bonds"
   },
   {
    "id": "b487",
@@ -3911,8 +3911,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**सङ्कोच - saṃkoca**",
-   "directed": "[slowly] **सङ्कोच - saṃkoca**"
+   "text": "सङ्कोच - saṃkoca",
+   "directed": "[slowly] सङ्कोच - saṃkoca"
   },
   {
    "id": "b489",
@@ -3927,8 +3927,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "From *saṃ-* and √*kuc*, to contract or shrink.",
-   "directed": "From *saṃ-* and √*kuc*, to contract or shrink."
+   "text": "From saṃ- and √kuc, to contract or shrink.",
+   "directed": "From saṃ- and √kuc, to contract or shrink."
   },
   {
    "id": "b491",
@@ -3951,8 +3951,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**पाश - pāśa**",
-   "directed": "[slowly] **पाश - pāśa**"
+   "text": "पाश - pāśa",
+   "directed": "[slowly] पाश - pāśa"
   },
   {
    "id": "b494",
@@ -4007,8 +4007,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "The commentary specifically mentions the limiting powers associated with **Kāla** and **Kalā**, among others.",
-   "directed": "The commentary specifically mentions the limiting powers associated with **Kāla** and **Kalā**, among others."
+   "text": "The commentary specifically mentions the limiting powers associated with Kāla and Kalā, among others.",
+   "directed": "The commentary specifically mentions the limiting powers associated with Kāla and Kalā, among others."
   },
   {
    "id": "b501",
@@ -4023,8 +4023,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**काल - kāla**",
-   "directed": "[slowly] **काल - kāla**"
+   "text": "काल - kāla",
+   "directed": "[slowly] काल - kāla"
   },
   {
    "id": "b503",
@@ -4039,8 +4039,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**कला - kalā**",
-   "directed": "[slowly] **कला - kalā**"
+   "text": "कला - kalā",
+   "directed": "[slowly] कला - kalā"
   },
   {
    "id": "b505",
@@ -4095,8 +4095,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**माया - māyā**",
-   "directed": "[slowly] **माया - māyā**"
+   "text": "माया - māyā",
+   "directed": "[slowly] माया - māyā"
   },
   {
    "id": "b512",
@@ -4119,8 +4119,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "verse",
    "voice": "verse",
-   "text": "**स्वातन्त्र्य - svātantrya**",
-   "directed": "[slowly] **स्वातन्त्र्य - svātantrya**"
+   "text": "स्वातन्त्र्य - svātantrya",
+   "directed": "[slowly] स्वातन्त्र्य - svātantrya"
   },
   {
    "id": "b515",
@@ -4143,8 +4143,8 @@
    "section": "5. A lump of Earth drags the whole universe into court",
    "type": "narration",
    "voice": "granny",
-   "text": "**Earth depends upon the entire ladder, and the ladder ultimately depends upon the freedom of consciousness.**",
-   "directed": "**Earth depends upon the entire ladder, and the ladder ultimately depends upon the freedom of consciousness.**"
+   "text": "Earth depends upon the entire ladder, and the ladder ultimately depends upon the freedom of consciousness.",
+   "directed": "Earth depends upon the entire ladder, and the ladder ultimately depends upon the freedom of consciousness."
   },
   {
    "id": "b518",
@@ -4239,8 +4239,8 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "narration",
    "voice": "granny",
-   "text": "The *tattvas* remain distinguishable within the ordered account.",
-   "directed": "The *tattvas* remain distinguishable within the ordered account."
+   "text": "The tattvas remain distinguishable within the ordered account.",
+   "directed": "The tattvas remain distinguishable within the ordered account."
   },
   {
    "id": "b530",
@@ -4255,16 +4255,16 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "narration",
    "voice": "granny",
-   "text": "### Two levels of analysis",
-   "directed": "### Two levels of analysis"
+   "text": "Two levels of analysis",
+   "directed": "Two levels of analysis"
   },
   {
    "id": "b532",
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "narration",
    "voice": "granny",
-   "text": "At the level of a particular *prakriyā*, a systematic exposition, the order may proceed from gross to subtle.",
-   "directed": "At the level of a particular *prakriyā*, a systematic exposition, the order may proceed from gross to subtle."
+   "text": "At the level of a particular prakriyā, a systematic exposition, the order may proceed from gross to subtle.",
+   "directed": "At the level of a particular prakriyā, a systematic exposition, the order may proceed from gross to subtle."
   },
   {
    "id": "b533",
@@ -4383,16 +4383,16 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Pārāmeśvara-svātantrya",
-   "directed": "### The Sanskrit: Pārāmeśvara-svātantrya"
+   "text": "The Sanskrit: Pārāmeśvara-svātantrya",
+   "directed": "The Sanskrit: Pārāmeśvara-svātantrya"
   },
   {
    "id": "b548",
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "verse",
    "voice": "verse",
-   "text": "**पारमेश्वरस्वातन्त्र्य - pārameśvarasvātantrya**",
-   "directed": "[slowly] **पारमेश्वरस्वातन्त्र्य - pārameśvarasvātantrya**"
+   "text": "पारमेश्वरस्वातन्त्र्य - pārameśvarasvātantrya",
+   "directed": "[slowly] पारमेश्वरस्वातन्त्र्य - pārameśvarasvātantrya"
   },
   {
    "id": "b549",
@@ -4415,8 +4415,8 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "verse",
    "voice": "verse",
-   "text": "**पारमेश्वर - pārameśvara**",
-   "directed": "[slowly] **पारमेश्वर - pārameśvara**"
+   "text": "पारमेश्वर - pārameśvara",
+   "directed": "[slowly] पारमेश्वर - pārameśvara"
   },
   {
    "id": "b552",
@@ -4431,8 +4431,8 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "verse",
    "voice": "verse",
-   "text": "**स्वातन्त्र्य - svātantrya**",
-   "directed": "[slowly] **स्वातन्त्र्य - svātantrya**"
+   "text": "स्वातन्त्र्य - svātantrya",
+   "directed": "[slowly] स्वातन्त्र्य - svātantrya"
   },
   {
    "id": "b554",
@@ -4471,8 +4471,8 @@
    "section": "6. But couldn't the universe be arranged backwards?",
    "type": "narration",
    "voice": "granny",
-   "text": "**The hierarchy expresses freedom. Freedom is not manufactured by the hierarchy.**",
-   "directed": "**The hierarchy expresses freedom. Freedom is not manufactured by the hierarchy.**"
+   "text": "The hierarchy expresses freedom. Freedom is not manufactured by the hierarchy.",
+   "directed": "The hierarchy expresses freedom. Freedom is not manufactured by the hierarchy."
   },
   {
    "id": "b559",
@@ -4567,8 +4567,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "He uses an example involving **Kalkī**, the future avatāra described in Purāṇic literature.",
-   "directed": "He uses an example involving **Kalkī**, the future avatāra described in Purāṇic literature."
+   "text": "He uses an example involving Kalkī, the future avatāra described in Purāṇic literature.",
+   "directed": "He uses an example involving Kalkī, the future avatāra described in Purāṇic literature."
   },
   {
    "id": "b571",
@@ -4591,8 +4591,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "He's investigating the relationship between **temporal succession and the manifestation of knowledge**.",
-   "directed": "He's investigating the relationship between **temporal succession and the manifestation of knowledge**."
+   "text": "He's investigating the relationship between temporal succession and the manifestation of knowledge.",
+   "directed": "He's investigating the relationship between temporal succession and the manifestation of knowledge."
   },
   {
    "id": "b574",
@@ -4631,16 +4631,16 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Bhaviṣyat",
-   "directed": "### The Sanskrit: Bhaviṣyat"
+   "text": "The Sanskrit: Bhaviṣyat",
+   "directed": "The Sanskrit: Bhaviṣyat"
   },
   {
    "id": "b579",
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**भविष्यत् - bhaviṣyat**",
-   "directed": "[slowly] **भविष्यत् - bhaviṣyat**"
+   "text": "भविष्यत् - bhaviṣyat",
+   "directed": "[slowly] भविष्यत् - bhaviṣyat"
   },
   {
    "id": "b580",
@@ -4655,8 +4655,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "From √**भू - bhū**, to be or become.",
-   "directed": "[slowly] From √**भू - bhū**, to be or become."
+   "text": "From √भू - bhū, to be or become.",
+   "directed": "[slowly] From √भू - bhū, to be or become."
   },
   {
    "id": "b582",
@@ -4671,8 +4671,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**भूत - bhūta**",
-   "directed": "[slowly] **भूत - bhūta**"
+   "text": "भूत - bhūta",
+   "directed": "[slowly] भूत - bhūta"
   },
   {
    "id": "b584",
@@ -4687,8 +4687,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**भविष्यत् - bhaviṣyat**",
-   "directed": "[slowly] **भविष्यत् - bhaviṣyat**"
+   "text": "भविष्यत् - bhaviṣyat",
+   "directed": "[slowly] भविष्यत् - bhaviṣyat"
   },
   {
    "id": "b586",
@@ -4711,8 +4711,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**वर्तमान - vartamāna**",
-   "directed": "[slowly] **वर्तमान - vartamāna**"
+   "text": "वर्तमान - vartamāna",
+   "directed": "[slowly] वर्तमान - vartamāna"
   },
   {
    "id": "b589",
@@ -4783,8 +4783,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The future is manifest within consciousness",
-   "directed": "### The future is manifest within consciousness"
+   "text": "The future is manifest within consciousness",
+   "directed": "The future is manifest within consciousness"
   },
   {
    "id": "b598",
@@ -4847,8 +4847,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "### What if the event is already past?",
-   "directed": "### What if the event is already past?"
+   "text": "What if the event is already past?",
+   "directed": "What if the event is already past?"
   },
   {
    "id": "b606",
@@ -4919,16 +4919,16 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Akālakalita",
-   "directed": "### The Sanskrit: Akālakalita"
+   "text": "The Sanskrit: Akālakalita",
+   "directed": "The Sanskrit: Akālakalita"
   },
   {
    "id": "b615",
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**अकालकलित - akālakalita**",
-   "directed": "[slowly] **अकालकलित - akālakalita**"
+   "text": "अकालकलित - akālakalita",
+   "directed": "[slowly] अकालकलित - akālakalita"
   },
   {
    "id": "b616",
@@ -4951,8 +4951,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**अ - a-**",
-   "directed": "[slowly] **अ - a-**"
+   "text": "अ - a-",
+   "directed": "[slowly] अ - a-"
   },
   {
    "id": "b619",
@@ -4967,8 +4967,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**काल - kāla**",
-   "directed": "[slowly] **काल - kāla**"
+   "text": "काल - kāla",
+   "directed": "[slowly] काल - kāla"
   },
   {
    "id": "b621",
@@ -4983,8 +4983,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**कलित - kalita**",
-   "directed": "[slowly] **कलित - kalita**"
+   "text": "कलित - kalita",
+   "directed": "[slowly] कलित - kalita"
   },
   {
    "id": "b623",
@@ -5007,8 +5007,8 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "verse",
    "voice": "verse",
-   "text": "**akālakalita**",
-   "directed": "[slowly] **akālakalita**"
+   "text": "akālakalita",
+   "directed": "[slowly] akālakalita"
   },
   {
    "id": "b626",
@@ -5087,16 +5087,16 @@
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Temporal succession is manifest within consciousness; consciousness isn't exhausted by temporal succession.**",
-   "directed": "**Temporal succession is manifest within consciousness; consciousness isn't exhausted by temporal succession.**"
+   "text": "Temporal succession is manifest within consciousness; consciousness isn't exhausted by temporal succession.",
+   "directed": "Temporal succession is manifest within consciousness; consciousness isn't exhausted by temporal succession."
   },
   {
    "id": "b636",
    "section": "7. The future is already present - Abhinavagupta's argument ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Cosmic Calendar Department",
-   "directed": "### The Cosmic Calendar Department"
+   "text": "The Cosmic Calendar Department",
+   "directed": "The Cosmic Calendar Department"
   },
   {
    "id": "b637",
@@ -5239,8 +5239,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**सम्पुटीकरण - sampuṭīkaraṇa**",
-   "directed": "[slowly] **सम्पुटीकरण - sampuṭīkaraṇa**"
+   "text": "सम्पुटीकरण - sampuṭīkaraṇa",
+   "directed": "[slowly] सम्पुटीकरण - sampuṭīkaraṇa"
   },
   {
    "id": "b655",
@@ -5263,8 +5263,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**सम् - sam-**",
-   "directed": "[slowly] **सम् - sam-**"
+   "text": "सम् - sam-",
+   "directed": "[slowly] सम् - sam-"
   },
   {
    "id": "b658",
@@ -5279,8 +5279,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**पुट - puṭa**",
-   "directed": "[slowly] **पुट - puṭa**"
+   "text": "पुट - puṭa",
+   "directed": "[slowly] पुट - puṭa"
   },
   {
    "id": "b660",
@@ -5295,8 +5295,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**सम्पुट - sampuṭa**",
-   "directed": "[slowly] **सम्पुट - sampuṭa**"
+   "text": "सम्पुट - sampuṭa",
+   "directed": "[slowly] सम्पुट - sampuṭa"
   },
   {
    "id": "b662",
@@ -5311,8 +5311,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**करण - karaṇa**",
-   "directed": "[slowly] **करण - karaṇa**"
+   "text": "करण - karaṇa",
+   "directed": "[slowly] करण - karaṇa"
   },
   {
    "id": "b664",
@@ -5335,8 +5335,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**sampuṭīkaraṇa**",
-   "directed": "[slowly] **sampuṭīkaraṇa**"
+   "text": "sampuṭīkaraṇa",
+   "directed": "[slowly] sampuṭīkaraṇa"
   },
   {
    "id": "b667",
@@ -5383,16 +5383,16 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Tattvaugha",
-   "directed": "### The Sanskrit: Tattvaugha"
+   "text": "The Sanskrit: Tattvaugha",
+   "directed": "The Sanskrit: Tattvaugha"
   },
   {
    "id": "b673",
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**तत्त्वौघ - tattvaugha**",
-   "directed": "[slowly] **तत्त्वौघ - tattvaugha**"
+   "text": "तत्त्वौघ - tattvaugha",
+   "directed": "[slowly] तत्त्वौघ - tattvaugha"
   },
   {
    "id": "b674",
@@ -5415,8 +5415,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**तत्त्व - tattva**",
-   "directed": "[slowly] **तत्त्व - tattva**"
+   "text": "तत्त्व - tattva",
+   "directed": "[slowly] तत्त्व - tattva"
   },
   {
    "id": "b677",
@@ -5431,8 +5431,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**ओघ - ogha**",
-   "directed": "[slowly] **ओघ - ogha**"
+   "text": "ओघ - ogha",
+   "directed": "[slowly] ओघ - ogha"
   },
   {
    "id": "b679",
@@ -5455,16 +5455,16 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "**tattva + ogha → tattvaugha**",
-   "directed": "**tattva + ogha → tattvaugha**"
+   "text": "tattva + ogha → tattvaugha",
+   "directed": "tattva + ogha → tattvaugha"
   },
   {
    "id": "b682",
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "Here **a + o → au**.",
-   "directed": "Here **a + o → au**."
+   "text": "Here a + o → au.",
+   "directed": "Here a + o → au."
   },
   {
    "id": "b683",
@@ -5487,8 +5487,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "verse",
    "voice": "verse",
-   "text": "**तत्त्वौघ - tattvaugha**",
-   "directed": "[slowly] **तत्त्वौघ - tattvaugha**"
+   "text": "तत्त्वौघ - tattvaugha",
+   "directed": "[slowly] तत्त्वौघ - tattvaugha"
   },
   {
    "id": "b686",
@@ -5535,16 +5535,16 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The guru's method",
-   "directed": "### The guru's method"
+   "text": "The guru's method",
+   "directed": "The guru's method"
   },
   {
    "id": "b692",
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "The *sampuṭa* teaching involves enclosing the manifested order within pure supreme existence.",
-   "directed": "The *sampuṭa* teaching involves enclosing the manifested order within pure supreme existence."
+   "text": "The sampuṭa teaching involves enclosing the manifested order within pure supreme existence.",
+   "directed": "The sampuṭa teaching involves enclosing the manifested order within pure supreme existence."
   },
   {
    "id": "b693",
@@ -5647,8 +5647,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "The *sampuṭa* interpretation makes this relation explicit.",
-   "directed": "The *sampuṭa* interpretation makes this relation explicit."
+   "text": "The sampuṭa interpretation makes this relation explicit.",
+   "directed": "The sampuṭa interpretation makes this relation explicit."
   },
   {
    "id": "b706",
@@ -5719,8 +5719,8 @@
    "section": "8. सम्पुटीकरण - Sampuṭīkaraṇa: The entire universe enclosed ",
    "type": "narration",
    "voice": "granny",
-   "text": "And Abhinavagupta is about to develop this through **reflection**.",
-   "directed": "And Abhinavagupta is about to develop this through **reflection**."
+   "text": "And Abhinavagupta is about to develop this through reflection.",
+   "directed": "And Abhinavagupta is about to develop this through reflection."
   },
   {
    "id": "b715",
@@ -5767,8 +5767,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "Abhinavagupta returns to the relation between the supreme Goddess **Parā** and the more differentiated mode of manifestation associated with **Parāparā** and **Paśyantī**.",
-   "directed": "Abhinavagupta returns to the relation between the supreme Goddess **Parā** and the more differentiated mode of manifestation associated with **Parāparā** and **Paśyantī**."
+   "text": "Abhinavagupta returns to the relation between the supreme Goddess Parā and the more differentiated mode of manifestation associated with Parāparā and Paśyantī.",
+   "directed": "Abhinavagupta returns to the relation between the supreme Goddess Parā and the more differentiated mode of manifestation associated with Parāparā and Paśyantī."
   },
   {
    "id": "b721",
@@ -5791,8 +5791,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**परा - Parā**",
-   "directed": "[slowly] **परा - Parā**"
+   "text": "परा - Parā",
+   "directed": "[slowly] परा - Parā"
   },
   {
    "id": "b724",
@@ -5807,8 +5807,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**पश्यन्ती - Paśyantī**",
-   "directed": "[slowly] **पश्यन्ती - Paśyantī**"
+   "text": "पश्यन्ती - Paśyantī",
+   "directed": "[slowly] पश्यन्ती - Paśyantī"
   },
   {
    "id": "b726",
@@ -5823,8 +5823,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**मध्यमा - Madhyamā**",
-   "directed": "[slowly] **मध्यमा - Madhyamā**"
+   "text": "मध्यमा - Madhyamā",
+   "directed": "[slowly] मध्यमा - Madhyamā"
   },
   {
    "id": "b728",
@@ -5839,8 +5839,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**वैखरी - Vaikharī**",
-   "directed": "[slowly] **वैखरी - Vaikharī**"
+   "text": "वैखरी - Vaikharī",
+   "directed": "[slowly] वैखरी - Vaikharī"
   },
   {
    "id": "b730",
@@ -5879,8 +5879,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "### The mirror analogy",
-   "directed": "### The mirror analogy"
+   "text": "The mirror analogy",
+   "directed": "The mirror analogy"
   },
   {
    "id": "b735",
@@ -5967,8 +5967,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why reflection requires a distinction",
-   "directed": "### Why reflection requires a distinction"
+   "text": "Why reflection requires a distinction",
+   "directed": "Why reflection requires a distinction"
   },
   {
    "id": "b746",
@@ -6047,16 +6047,16 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Pratibimba",
-   "directed": "### The Sanskrit: Pratibimba"
+   "text": "The Sanskrit: Pratibimba",
+   "directed": "The Sanskrit: Pratibimba"
   },
   {
    "id": "b756",
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**प्रतिबिम्ब - pratibimba**",
-   "directed": "[slowly] **प्रतिबिम्ब - pratibimba**"
+   "text": "प्रतिबिम्ब - pratibimba",
+   "directed": "[slowly] प्रतिबिम्ब - pratibimba"
   },
   {
    "id": "b757",
@@ -6079,8 +6079,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**प्रति - prati**",
-   "directed": "[slowly] **प्रति - prati**"
+   "text": "प्रति - prati",
+   "directed": "[slowly] प्रति - prati"
   },
   {
    "id": "b760",
@@ -6095,8 +6095,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**बिम्ब - bimba**",
-   "directed": "[slowly] **बिम्ब - bimba**"
+   "text": "बिम्ब - bimba",
+   "directed": "[slowly] बिम्ब - bimba"
   },
   {
    "id": "b762",
@@ -6119,8 +6119,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "**pratibimba**",
-   "directed": "**pratibimba**"
+   "text": "pratibimba",
+   "directed": "pratibimba"
   },
   {
    "id": "b765",
@@ -6143,8 +6143,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**बिम्ब - bimba**",
-   "directed": "[slowly] **बिम्ब - bimba**"
+   "text": "बिम्ब - bimba",
+   "directed": "[slowly] बिम्ब - bimba"
   },
   {
    "id": "b768",
@@ -6159,8 +6159,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "verse",
    "voice": "verse",
-   "text": "**प्रतिबिम्ब - pratibimba**",
-   "directed": "[slowly] **प्रतिबिम्ब - pratibimba**"
+   "text": "प्रतिबिम्ब - pratibimba",
+   "directed": "[slowly] प्रतिबिम्ब - pratibimba"
   },
   {
    "id": "b770",
@@ -6199,8 +6199,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "### The original isn't destroyed",
-   "directed": "### The original isn't destroyed"
+   "text": "The original isn't destroyed",
+   "directed": "The original isn't destroyed"
   },
   {
    "id": "b775",
@@ -6271,8 +6271,8 @@
    "section": "9. Parā, Parāparā and Paśyantī - The universe enters the mir",
    "type": "narration",
    "voice": "granny",
-   "text": "**The reflected ordering is not an independent creation outside the reality it reflects.**",
-   "directed": "**The reflected ordering is not an independent creation outside the reality it reflects.**"
+   "text": "The reflected ordering is not an independent creation outside the reality it reflects.",
+   "directed": "The reflected ordering is not an independent creation outside the reality it reflects."
   },
   {
    "id": "b784",
@@ -6335,24 +6335,24 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**क - ka** corresponds to Earth.",
-   "directed": "[slowly] **क - ka** corresponds to Earth."
+   "text": "क - ka corresponds to Earth.",
+   "directed": "[slowly] क - ka corresponds to Earth."
   },
   {
    "id": "b792",
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "And **क्ष - kṣa** to Śakti.",
-   "directed": "[slowly] And **क्ष - kṣa** to Śakti."
+   "text": "And क्ष - kṣa to Śakti.",
+   "directed": "[slowly] And क्ष - kṣa to Śakti."
   },
   {
    "id": "b793",
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "But another system assigns Earth to **क्ष - kṣa**.",
-   "directed": "[slowly] But another system assigns Earth to **क्ष - kṣa**."
+   "text": "But another system assigns Earth to क्ष - kṣa.",
+   "directed": "[slowly] But another system assigns Earth to क्ष - kṣa."
   },
   {
    "id": "b794",
@@ -6375,8 +6375,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ūrdhva and Adhara",
-   "directed": "### Ūrdhva and Adhara"
+   "text": "Ūrdhva and Adhara",
+   "directed": "Ūrdhva and Adhara"
   },
   {
    "id": "b797",
@@ -6391,8 +6391,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**ऊर्ध्व - ūrdhva**",
-   "directed": "[slowly] **ऊर्ध्व - ūrdhva**"
+   "text": "ऊर्ध्व - ūrdhva",
+   "directed": "[slowly] ऊर्ध्व - ūrdhva"
   },
   {
    "id": "b799",
@@ -6407,8 +6407,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**अधर - adhara**",
-   "directed": "[slowly] **अधर - adhara**"
+   "text": "अधर - adhara",
+   "directed": "[slowly] अधर - adhara"
   },
   {
    "id": "b801",
@@ -6431,8 +6431,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**ऊर्ध्वाधर - ūrdhvādhara**",
-   "directed": "[slowly] **ऊर्ध्वाधर - ūrdhvādhara**"
+   "text": "ऊर्ध्वाधर - ūrdhvādhara",
+   "directed": "[slowly] ऊर्ध्वाधर - ūrdhvādhara"
   },
   {
    "id": "b804",
@@ -6455,8 +6455,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**विपर्यास - viparyāsa**",
-   "directed": "[slowly] **विपर्यास - viparyāsa**"
+   "text": "विपर्यास - viparyāsa",
+   "directed": "[slowly] विपर्यास - viparyāsa"
   },
   {
    "id": "b807",
@@ -6487,8 +6487,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "verse",
    "voice": "verse",
-   "text": "**ऊर्ध्वाधरविपर्यास - ūrdhvādharaviparyāsa**",
-   "directed": "[slowly] **ऊर्ध्वाधरविपर्यास - ūrdhvādharaviparyāsa**"
+   "text": "ऊर्ध्वाधरविपर्यास - ūrdhvādharaviparyāsa",
+   "directed": "[slowly] ऊर्ध्वाधरविपर्यास - ūrdhvādharaviparyāsa"
   },
   {
    "id": "b811",
@@ -6511,16 +6511,16 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "*ūrdhva + adhara → ūrdhvādhara*.",
-   "directed": "*ūrdhva + adhara → ūrdhvādhara*."
+   "text": "ūrdhva + adhara → ūrdhvādhara.",
+   "directed": "ūrdhva + adhara → ūrdhvādhara."
   },
   {
    "id": "b814",
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "Because **a + a → ā**.",
-   "directed": "Because **a + a → ā**."
+   "text": "Because a + a → ā.",
+   "directed": "Because a + a → ā."
   },
   {
    "id": "b815",
@@ -6575,16 +6575,16 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "### The cosmic mirror",
-   "directed": "### The cosmic mirror"
+   "text": "The cosmic mirror",
+   "directed": "The cosmic mirror"
   },
   {
    "id": "b822",
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "Imagine writing the word **ŚIVA** on a piece of paper and holding it in front of a mirror.",
-   "directed": "Imagine writing the word **ŚIVA** on a piece of paper and holding it in front of a mirror."
+   "text": "Imagine writing the word ŚIVA on a piece of paper and holding it in front of a mirror.",
+   "directed": "Imagine writing the word ŚIVA on a piece of paper and holding it in front of a mirror."
   },
   {
    "id": "b823",
@@ -6647,8 +6647,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "### An absolutely essential qualification",
-   "directed": "### An absolutely essential qualification"
+   "text": "An absolutely essential qualification",
+   "directed": "An absolutely essential qualification"
   },
   {
    "id": "b831",
@@ -6671,8 +6671,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "He is discussing **the assignment and relation of tattvas in different modes of sacred manifestation**.",
-   "directed": "He is discussing **the assignment and relation of tattvas in different modes of sacred manifestation**."
+   "text": "He is discussing the assignment and relation of tattvas in different modes of sacred manifestation.",
+   "directed": "He is discussing the assignment and relation of tattvas in different modes of sacred manifestation."
   },
   {
    "id": "b834",
@@ -6703,8 +6703,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "### Bhairava never gets inverted",
-   "directed": "### Bhairava never gets inverted"
+   "text": "Bhairava never gets inverted",
+   "directed": "Bhairava never gets inverted"
   },
   {
    "id": "b838",
@@ -6775,8 +6775,8 @@
    "section": "10. Why Earth becomes Śakti in the mirror",
    "type": "narration",
    "voice": "granny",
-   "text": "The *kṣa*-beginning arrangement isn't necessarily a contradiction of the *a*-beginning arrangement.",
-   "directed": "The *kṣa*-beginning arrangement isn't necessarily a contradiction of the *a*-beginning arrangement."
+   "text": "The kṣa-beginning arrangement isn't necessarily a contradiction of the a-beginning arrangement.",
+   "directed": "The kṣa-beginning arrangement isn't necessarily a contradiction of the a-beginning arrangement."
   },
   {
    "id": "b847",
@@ -6855,24 +6855,24 @@
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "verse",
    "voice": "verse",
-   "text": "**परा - Parā**",
-   "directed": "[slowly] **परा - Parā**"
+   "text": "परा - Parā",
+   "directed": "[slowly] परा - Parā"
   },
   {
    "id": "b857",
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "verse",
    "voice": "verse",
-   "text": "**परापरा - Parāparā**",
-   "directed": "[slowly] **परापरा - Parāparā**"
+   "text": "परापरा - Parāparā",
+   "directed": "[slowly] परापरा - Parāparā"
   },
   {
    "id": "b858",
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "verse",
    "voice": "verse",
-   "text": "**अपरा - Aparā**",
-   "directed": "[slowly] **अपरा - Aparā**"
+   "text": "अपरा - Aparā",
+   "directed": "[slowly] अपरा - Aparā"
   },
   {
    "id": "b859",
@@ -6919,8 +6919,8 @@
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "narration",
    "voice": "granny",
-   "text": "### Parā - Undivided manifestation",
-   "directed": "### Parā - Undivided manifestation"
+   "text": "Parā - Undivided manifestation",
+   "directed": "Parā - Undivided manifestation"
   },
   {
    "id": "b865",
@@ -6951,8 +6951,8 @@
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "narration",
    "voice": "granny",
-   "text": "### Parāparā - Difference within non-difference",
-   "directed": "### Parāparā - Difference within non-difference"
+   "text": "Parāparā - Difference within non-difference",
+   "directed": "Parāparā - Difference within non-difference"
   },
   {
    "id": "b869",
@@ -7007,8 +7007,8 @@
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "narration",
    "voice": "granny",
-   "text": "### Aparā - Fully differentiated manifestation",
-   "directed": "### Aparā - Fully differentiated manifestation"
+   "text": "Aparā - Fully differentiated manifestation",
+   "directed": "Aparā - Fully differentiated manifestation"
   },
   {
    "id": "b876",
@@ -7095,8 +7095,8 @@
    "section": "11. The three Goddesses aren't three independently competing",
    "type": "narration",
    "voice": "granny",
-   "text": "**How can the signifier and signified be different while remaining within one consciousness?**",
-   "directed": "**How can the signifier and signified be different while remaining within one consciousness?**"
+   "text": "How can the signifier and signified be different while remaining within one consciousness?",
+   "directed": "How can the signifier and signified be different while remaining within one consciousness?"
   },
   {
    "id": "b887",
@@ -7151,8 +7151,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "At Kashmir Series p. 148, Abhinavagupta turns to the internal level of speech, **Madhyamā**.",
-   "directed": "At Kashmir Series p. 148, Abhinavagupta turns to the internal level of speech, **Madhyamā**."
+   "text": "At Kashmir Series p. 148, Abhinavagupta turns to the internal level of speech, Madhyamā.",
+   "directed": "At Kashmir Series p. 148, Abhinavagupta turns to the internal level of speech, Madhyamā."
   },
   {
    "id": "b894",
@@ -7175,7 +7175,7 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "### Vācaka - वाचक",
+   "text": "Vācaka - वाचक",
    "directed": "[slowly] ### Vācaka - वाचक"
   },
   {
@@ -7183,8 +7183,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "**वाचक - vācaka**",
-   "directed": "[slowly] **वाचक - vācaka**"
+   "text": "वाचक - vācaka",
+   "directed": "[slowly] वाचक - vācaka"
   },
   {
    "id": "b898",
@@ -7199,8 +7199,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "Related to √**vac**, to speak.",
-   "directed": "Related to √**vac**, to speak."
+   "text": "Related to √vac, to speak.",
+   "directed": "Related to √vac, to speak."
   },
   {
    "id": "b900",
@@ -7223,8 +7223,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "**वृक्ष - vṛkṣa**",
-   "directed": "[slowly] **वृक्ष - vṛkṣa**"
+   "text": "वृक्ष - vṛkṣa",
+   "directed": "[slowly] वृक्ष - vṛkṣa"
   },
   {
    "id": "b903",
@@ -7247,7 +7247,7 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "### Vācya - वाच्य",
+   "text": "Vācya - वाच्य",
    "directed": "[slowly] ### Vācya - वाच्य"
   },
   {
@@ -7255,8 +7255,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "**वाच्य - vācya**",
-   "directed": "[slowly] **वाच्य - vācya**"
+   "text": "वाच्य - vācya",
+   "directed": "[slowly] वाच्य - vācya"
   },
   {
    "id": "b907",
@@ -7271,8 +7271,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "Also related to √*vac*, but through a different formation.",
-   "directed": "Also related to √*vac*, but through a different formation."
+   "text": "Also related to √vac, but through a different formation.",
+   "directed": "Also related to √vac, but through a different formation."
   },
   {
    "id": "b909",
@@ -7295,8 +7295,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "| Sanskrit | Function |\n|--------|--------|\n| **वाचक - vācaka** | The signifying word |\n| **वाच्य - vācya** | What is signified |",
-   "directed": "[slowly] | Sanskrit | Function |\n|--------|--------|\n| **वाचक - vācaka** | The signifying word |\n| **वाच्य - vācya** | What is signified |"
+   "text": "वाचक - vācaka: The signifying word वाच्य - vācya: What is signified",
+   "directed": "[slowly] वाचक - vācaka: The signifying word वाच्य - vācya: What is signified"
   },
   {
    "id": "b912",
@@ -7319,8 +7319,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "You cannot plant the phoneme *vṛkṣa* in the garden and expect it to grow branches.",
-   "directed": "You cannot plant the phoneme *vṛkṣa* in the garden and expect it to grow branches."
+   "text": "You cannot plant the phoneme vṛkṣa in the garden and expect it to grow branches.",
+   "directed": "You cannot plant the phoneme vṛkṣa in the garden and expect it to grow branches."
   },
   {
    "id": "b915",
@@ -7375,16 +7375,16 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Adhyāsa",
-   "directed": "### The Sanskrit: Adhyāsa"
+   "text": "The Sanskrit: Adhyāsa",
+   "directed": "The Sanskrit: Adhyāsa"
   },
   {
    "id": "b922",
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "verse",
    "voice": "verse",
-   "text": "**अध्यास - adhyāsa**",
-   "directed": "[slowly] **अध्यास - adhyāsa**"
+   "text": "अध्यास - adhyāsa",
+   "directed": "[slowly] अध्यास - adhyāsa"
   },
   {
    "id": "b923",
@@ -7455,8 +7455,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The wonderful cloth example",
-   "directed": "### The wonderful cloth example"
+   "text": "The wonderful cloth example",
+   "directed": "The wonderful cloth example"
   },
   {
    "id": "b932",
@@ -7511,8 +7511,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "Abhinavagupta's solution is that **both are manifestations of one consciousness**.",
-   "directed": "Abhinavagupta's solution is that **both are manifestations of one consciousness**."
+   "text": "Abhinavagupta's solution is that both are manifestations of one consciousness.",
+   "directed": "Abhinavagupta's solution is that both are manifestations of one consciousness."
   },
   {
    "id": "b939",
@@ -7543,8 +7543,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The universal signifier and the universal signified",
-   "directed": "### The universal signifier and the universal signified"
+   "text": "The universal signifier and the universal signified",
+   "directed": "The universal signifier and the universal signified"
   },
   {
    "id": "b943",
@@ -7623,8 +7623,8 @@
    "section": "12. वाचक and वाच्य - The difference between a word and what ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Vowels are the seed. Consonants are the womb.**",
-   "directed": "**Vowels are the seed. Consonants are the womb.**"
+   "text": "Vowels are the seed. Consonants are the womb.",
+   "directed": "Vowels are the seed. Consonants are the womb."
   },
   {
    "id": "b953",
@@ -7671,7 +7671,7 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "### Bīja - बीज",
+   "text": "Bīja - बीज",
    "directed": "[slowly] ### Bīja - बीज"
   },
   {
@@ -7679,8 +7679,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "**बीज - bīja**",
-   "directed": "[slowly] **बीज - bīja**"
+   "text": "बीज - bīja",
+   "directed": "[slowly] बीज - bīja"
   },
   {
    "id": "b960",
@@ -7703,8 +7703,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "In Tantric phonemic symbolism, the *bīja* can represent concentrated generative power.",
-   "directed": "In Tantric phonemic symbolism, the *bīja* can represent concentrated generative power."
+   "text": "In Tantric phonemic symbolism, the bīja can represent concentrated generative power.",
+   "directed": "In Tantric phonemic symbolism, the bīja can represent concentrated generative power."
   },
   {
    "id": "b963",
@@ -7759,7 +7759,7 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "### Yoni - योनि",
+   "text": "Yoni - योनि",
    "directed": "[slowly] ### Yoni - योनि"
   },
   {
@@ -7767,8 +7767,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "**योनि - yoni**",
-   "directed": "[slowly] **योनि - yoni**"
+   "text": "योनि - yoni",
+   "directed": "[slowly] योनि - yoni"
   },
   {
    "id": "b971",
@@ -7823,8 +7823,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tantric distinction between *bīja* and *yoni* is not simply a description of how to write syllables.",
-   "directed": "The Tantric distinction between *bīja* and *yoni* is not simply a description of how to write syllables."
+   "text": "The Tantric distinction between bīja and yoni is not simply a description of how to write syllables.",
+   "directed": "The Tantric distinction between bīja and yoni is not simply a description of how to write syllables."
   },
   {
    "id": "b978",
@@ -7839,8 +7839,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "### The seed and the womb",
-   "directed": "### The seed and the womb"
+   "text": "The seed and the womb",
+   "directed": "The seed and the womb"
   },
   {
    "id": "b980",
@@ -7855,16 +7855,16 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "**Śiva - the seed, bīja.**",
-   "directed": "**Śiva - the seed, bīja.**"
+   "text": "Śiva - the seed, bīja.",
+   "directed": "Śiva - the seed, bīja."
   },
   {
    "id": "b982",
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "**Śakti - the womb, yoni.**",
-   "directed": "**Śakti - the womb, yoni.**"
+   "text": "Śakti - the womb, yoni.",
+   "directed": "Śakti - the womb, yoni."
   },
   {
    "id": "b983",
@@ -7927,16 +7927,16 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Vyajana",
-   "directed": "### The Sanskrit: Vyajana"
+   "text": "The Sanskrit: Vyajana",
+   "directed": "The Sanskrit: Vyajana"
   },
   {
    "id": "b991",
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "**व्यञ्जन - vyañjana**",
-   "directed": "[slowly] **व्यञ्जन - vyañjana**"
+   "text": "व्यञ्जन - vyañjana",
+   "directed": "[slowly] व्यञ्जन - vyañjana"
   },
   {
    "id": "b992",
@@ -7951,8 +7951,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "Related to *vi-* and √*añj*, to manifest, mark or adorn.",
-   "directed": "Related to *vi-* and √*añj*, to manifest, mark or adorn."
+   "text": "Related to vi- and √añj, to manifest, mark or adorn.",
+   "directed": "Related to vi- and √añj, to manifest, mark or adorn."
   },
   {
    "id": "b994",
@@ -7967,8 +7967,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "**स्वर - svara**",
-   "directed": "[slowly] **स्वर - svara**"
+   "text": "स्वर - svara",
+   "directed": "[slowly] स्वर - svara"
   },
   {
    "id": "b996",
@@ -7983,8 +7983,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "verse",
    "voice": "verse",
-   "text": "**व्यञ्जन - vyañjana**",
-   "directed": "[slowly] **व्यञ्जन - vyañjana**"
+   "text": "व्यञ्जन - vyañjana",
+   "directed": "[slowly] व्यञ्जन - vyañjana"
   },
   {
    "id": "b998",
@@ -8023,8 +8023,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "**The vowels are not biologically male. The consonants are not literally anatomical wombs.**",
-   "directed": "**The vowels are not biologically male. The consonants are not literally anatomical wombs.**"
+   "text": "The vowels are not biologically male. The consonants are not literally anatomical wombs.",
+   "directed": "The vowels are not biologically male. The consonants are not literally anatomical wombs."
   },
   {
    "id": "b1003",
@@ -8047,8 +8047,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why Mālinī matters here",
-   "directed": "### Why Mālinī matters here"
+   "text": "Why Mālinī matters here",
+   "directed": "Why Mālinī matters here"
   },
   {
    "id": "b1006",
@@ -8119,8 +8119,8 @@
    "section": "13. बीज and योनि - The seed and womb of language",
    "type": "narration",
    "voice": "granny",
-   "text": "This is why the earlier alphabetic dispute has led to the doctrine of *bīja* and *yoni*.",
-   "directed": "This is why the earlier alphabetic dispute has led to the doctrine of *bīja* and *yoni*."
+   "text": "This is why the earlier alphabetic dispute has led to the doctrine of bīja and yoni.",
+   "directed": "This is why the earlier alphabetic dispute has led to the doctrine of bīja and yoni."
   },
   {
    "id": "b1015",
@@ -8231,16 +8231,16 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Avicchinna",
-   "directed": "### The Sanskrit: Avicchinna"
+   "text": "The Sanskrit: Avicchinna",
+   "directed": "The Sanskrit: Avicchinna"
   },
   {
    "id": "b1029",
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**अविच्छिन्न - avicchinna**",
-   "directed": "[slowly] **अविच्छिन्न - avicchinna**"
+   "text": "अविच्छिन्न - avicchinna",
+   "directed": "[slowly] अविच्छिन्न - avicchinna"
   },
   {
    "id": "b1030",
@@ -8263,24 +8263,24 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "**a-** - negative prefix.",
-   "directed": "**a-** - negative prefix."
+   "text": "a- - negative prefix.",
+   "directed": "a- - negative prefix."
   },
   {
    "id": "b1033",
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "**vicchinna** - cut off, separated, interrupted.",
-   "directed": "**vicchinna** - cut off, separated, interrupted."
+   "text": "vicchinna - cut off, separated, interrupted.",
+   "directed": "vicchinna - cut off, separated, interrupted."
   },
   {
    "id": "b1034",
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "The underlying verbal family involves √*chid*, to cut or divide.",
-   "directed": "The underlying verbal family involves √*chid*, to cut or divide."
+   "text": "The underlying verbal family involves √chid, to cut or divide.",
+   "directed": "The underlying verbal family involves √chid, to cut or divide."
   },
   {
    "id": "b1035",
@@ -8295,8 +8295,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**छिन्न - chinna**",
-   "directed": "[slowly] **छिन्न - chinna**"
+   "text": "छिन्न - chinna",
+   "directed": "[slowly] छिन्न - chinna"
   },
   {
    "id": "b1037",
@@ -8311,8 +8311,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**विच्छिन्न - vicchinna**",
-   "directed": "[slowly] **विच्छिन्न - vicchinna**"
+   "text": "विच्छिन्न - vicchinna",
+   "directed": "[slowly] विच्छिन्न - vicchinna"
   },
   {
    "id": "b1039",
@@ -8327,8 +8327,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**अविच्छिन्न - avicchinna**",
-   "directed": "[slowly] **अविच्छिन्न - avicchinna**"
+   "text": "अविच्छिन्न - avicchinna",
+   "directed": "[slowly] अविच्छिन्न - avicchinna"
   },
   {
    "id": "b1041",
@@ -8359,8 +8359,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "### The problem with insisting on an absolute division",
-   "directed": "### The problem with insisting on an absolute division"
+   "text": "The problem with insisting on an absolute division",
+   "directed": "The problem with insisting on an absolute division"
   },
   {
    "id": "b1045",
@@ -8463,8 +8463,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "narration",
    "voice": "granny",
-   "text": "### The connection with liberation and enjoyment",
-   "directed": "### The connection with liberation and enjoyment"
+   "text": "The connection with liberation and enjoyment",
+   "directed": "The connection with liberation and enjoyment"
   },
   {
    "id": "b1058",
@@ -8479,8 +8479,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोग - bhoga**",
-   "directed": "[slowly] **भोग - bhoga**"
+   "text": "भोग - bhoga",
+   "directed": "[slowly] भोग - bhoga"
   },
   {
    "id": "b1060",
@@ -8495,8 +8495,8 @@
    "section": "14. Even the distinction between seed and womb is not ultima",
    "type": "verse",
    "voice": "verse",
-   "text": "**अपवर्ग - apavarga**",
-   "directed": "[slowly] **अपवर्ग - apavarga**"
+   "text": "अपवर्ग - apavarga",
+   "directed": "[slowly] अपवर्ग - apavarga"
   },
   {
    "id": "b1062",
@@ -8607,8 +8607,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "**Mālinī isn't merely the ordinary alphabet with the letters shuffled for entertainment.**",
-   "directed": "**Mālinī isn't merely the ordinary alphabet with the letters shuffled for entertainment.**"
+   "text": "Mālinī isn't merely the ordinary alphabet with the letters shuffled for entertainment.",
+   "directed": "Mālinī isn't merely the ordinary alphabet with the letters shuffled for entertainment."
   },
   {
    "id": "b1076",
@@ -8631,16 +8631,16 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Sanskrit: Madhyamā",
-   "directed": "### The Sanskrit: Madhyamā"
+   "text": "The Sanskrit: Madhyamā",
+   "directed": "The Sanskrit: Madhyamā"
   },
   {
    "id": "b1079",
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**मध्यमा - madhyamā**",
-   "directed": "[slowly] **मध्यमा - madhyamā**"
+   "text": "मध्यमा - madhyamā",
+   "directed": "[slowly] मध्यमा - madhyamā"
   },
   {
    "id": "b1080",
@@ -8663,8 +8663,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**मध्य - madhya**",
-   "directed": "[slowly] **मध्य - madhya**"
+   "text": "मध्य - madhya",
+   "directed": "[slowly] मध्य - madhya"
   },
   {
    "id": "b1083",
@@ -8687,8 +8687,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**madhyamā**",
-   "directed": "[slowly] **madhyamā**"
+   "text": "madhyamā",
+   "directed": "[slowly] madhyamā"
   },
   {
    "id": "b1086",
@@ -8759,16 +8759,16 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "### The famous Mālinī verse",
-   "directed": "### The famous Mālinī verse"
+   "text": "The famous Mālinī verse",
+   "directed": "The famous Mālinī verse"
   },
   {
    "id": "b1095",
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "Abhinavagupta cites the *Śrīpūrva* scripture, identified with the Mālinīvijayottara tradition, instructing the use of Mālinī as a differentiated generative matrix for the manifestation of the Śākta body.",
-   "directed": "Abhinavagupta cites the *Śrīpūrva* scripture, identified with the Mālinīvijayottara tradition, instructing the use of Mālinī as a differentiated generative matrix for the manifestation of the Śākta body."
+   "text": "Abhinavagupta cites the Śrīpūrva scripture, identified with the Mālinīvijayottara tradition, instructing the use of Mālinī as a differentiated generative matrix for the manifestation of the Śākta body.",
+   "directed": "Abhinavagupta cites the Śrīpūrva scripture, identified with the Mālinīvijayottara tradition, instructing the use of Mālinī as a differentiated generative matrix for the manifestation of the Śākta body."
   },
   {
    "id": "b1096",
@@ -8783,16 +8783,16 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**भिन्नयोनिं तु मालिनीम्**",
-   "directed": "[slowly] **भिन्नयोनिं तु मालिनीम्**"
+   "text": "भिन्नयोनिं तु मालिनीम्",
+   "directed": "[slowly] भिन्नयोनिं तु मालिनीम्"
   },
   {
    "id": "b1098",
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "*Bhinnayoniṃ tu mālinīm.*",
-   "directed": "*Bhinnayoniṃ tu mālinīm.*"
+   "text": "Bhinnayoniṃ tu mālinīm.",
+   "directed": "Bhinnayoniṃ tu mālinīm."
   },
   {
    "id": "b1099",
@@ -8815,8 +8815,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**भिन्नयोनि - bhinnayoni**",
-   "directed": "[slowly] **भिन्नयोनि - bhinnayoni**"
+   "text": "भिन्नयोनि - bhinnayoni",
+   "directed": "[slowly] भिन्नयोनि - bhinnayoni"
   },
   {
    "id": "b1102",
@@ -8831,8 +8831,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**मालिनी - mālinī**",
-   "directed": "[slowly] **मालिनी - mālinī**"
+   "text": "मालिनी - mālinī",
+   "directed": "[slowly] मालिनी - mālinī"
   },
   {
    "id": "b1104",
@@ -8863,8 +8863,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "Because they are the object of the instruction involving *nyāsa*, ritual placement or installation.",
-   "directed": "Because they are the object of the instruction involving *nyāsa*, ritual placement or installation."
+   "text": "Because they are the object of the instruction involving nyāsa, ritual placement or installation.",
+   "directed": "Because they are the object of the instruction involving nyāsa, ritual placement or installation."
   },
   {
    "id": "b1108",
@@ -8879,7 +8879,7 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "### Nyāsa - न्यास",
+   "text": "Nyāsa - न्यास",
    "directed": "[slowly] ### Nyāsa - न्यास"
   },
   {
@@ -8887,8 +8887,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**न्यास - nyāsa**",
-   "directed": "[slowly] **न्यास - nyāsa**"
+   "text": "न्यास - nyāsa",
+   "directed": "[slowly] न्यास - nyāsa"
   },
   {
    "id": "b1111",
@@ -8903,16 +8903,16 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "Related to *ni-* and √*as*, to place or throw.",
-   "directed": "Related to *ni-* and √*as*, to place or throw."
+   "text": "Related to ni- and √as, to place or throw.",
+   "directed": "Related to ni- and √as, to place or throw."
   },
   {
    "id": "b1113",
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "In Tantric ritual, *nyāsa* can refer to the placement of mantra syllables upon or within the ritualized body.",
-   "directed": "In Tantric ritual, *nyāsa* can refer to the placement of mantra syllables upon or within the ritualized body."
+   "text": "In Tantric ritual, nyāsa can refer to the placement of mantra syllables upon or within the ritualized body.",
+   "directed": "In Tantric ritual, nyāsa can refer to the placement of mantra syllables upon or within the ritualized body."
   },
   {
    "id": "b1114",
@@ -8927,8 +8927,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "The important point is that **the phonemes constitute an ordered manifestation of divine power**.",
-   "directed": "The important point is that **the phonemes constitute an ordered manifestation of divine power**."
+   "text": "The important point is that the phonemes constitute an ordered manifestation of divine power.",
+   "directed": "The important point is that the phonemes constitute an ordered manifestation of divine power."
   },
   {
    "id": "b1116",
@@ -8951,8 +8951,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "### The contrast with Mātṛkā",
-   "directed": "### The contrast with Mātṛkā"
+   "text": "The contrast with Mātṛkā",
+   "directed": "The contrast with Mātṛkā"
   },
   {
    "id": "b1119",
@@ -8967,8 +8967,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**मातृका - Mātṛkā**",
-   "directed": "[slowly] **मातृका - Mātṛkā**"
+   "text": "मातृका - Mātṛkā",
+   "directed": "[slowly] मातृका - Mātṛkā"
   },
   {
    "id": "b1121",
@@ -8991,8 +8991,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "verse",
    "voice": "verse",
-   "text": "**मालिनी - Mālinī**",
-   "directed": "[slowly] **मालिनी - Mālinī**"
+   "text": "मालिनी - Mālinī",
+   "directed": "[slowly] मालिनी - Mālinī"
   },
   {
    "id": "b1124",
@@ -9039,8 +9039,8 @@
    "section": "15. Mālinī is established in Madhyamā - Not merely a scrambl",
    "type": "narration",
    "voice": "granny",
-   "text": "**Mātṛkā and Mālinī can be distinguished through their arrangement while remaining inseparable from the supreme conscious power.**",
-   "directed": "**Mātṛkā and Mālinī can be distinguished through their arrangement while remaining inseparable from the supreme conscious power.**"
+   "text": "Mātṛkā and Mālinī can be distinguished through their arrangement while remaining inseparable from the supreme conscious power.",
+   "directed": "Mātṛkā and Mālinī can be distinguished through their arrangement while remaining inseparable from the supreme conscious power."
   },
   {
    "id": "b1130",
@@ -9175,8 +9175,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "A mantra may be associated with the limited *puruṣa* principle.",
-   "directed": "A mantra may be associated with the limited *puruṣa* principle."
+   "text": "A mantra may be associated with the limited puruṣa principle.",
+   "directed": "A mantra may be associated with the limited puruṣa principle."
   },
   {
    "id": "b1147",
@@ -9199,8 +9199,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "But the ritual efficacy attributed to mantra is particularly connected with **Śakti as operative power**.",
-   "directed": "But the ritual efficacy attributed to mantra is particularly connected with **Śakti as operative power**."
+   "text": "But the ritual efficacy attributed to mantra is particularly connected with Śakti as operative power.",
+   "directed": "But the ritual efficacy attributed to mantra is particularly connected with Śakti as operative power."
   },
   {
    "id": "b1150",
@@ -9255,7 +9255,7 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "### Niṣkriya - निष्क्रिय",
+   "text": "Niṣkriya - निष्क्रिय",
    "directed": "[slowly] ### Niṣkriya - निष्क्रिय"
   },
   {
@@ -9263,8 +9263,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**निष्क्रिय - niṣkriya**",
-   "directed": "[slowly] **निष्क्रिय - niṣkriya**"
+   "text": "निष्क्रिय - niṣkriya",
+   "directed": "[slowly] निष्क्रिय - niṣkriya"
   },
   {
    "id": "b1158",
@@ -9279,16 +9279,16 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "The negative prefix *niṣ-* is joined to:",
-   "directed": "[short pause] The negative prefix *niṣ-* is joined to:"
+   "text": "The negative prefix niṣ- is joined to:",
+   "directed": "[short pause] The negative prefix niṣ- is joined to:"
   },
   {
    "id": "b1160",
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**क्रिया - kriyā**",
-   "directed": "[slowly] **क्रिया - kriyā**"
+   "text": "क्रिया - kriyā",
+   "directed": "[slowly] क्रिया - kriyā"
   },
   {
    "id": "b1161",
@@ -9327,8 +9327,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "Otherwise Abhinavagupta's entire doctrine of *svātantrya* would collapse.",
-   "directed": "Otherwise Abhinavagupta's entire doctrine of *svātantrya* would collapse."
+   "text": "Otherwise Abhinavagupta's entire doctrine of svātantrya would collapse.",
+   "directed": "Otherwise Abhinavagupta's entire doctrine of svātantrya would collapse."
   },
   {
    "id": "b1166",
@@ -9351,7 +9351,7 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "### Jaḍatva - जडत्व",
+   "text": "Jaḍatva - जडत्व",
    "directed": "[slowly] ### Jaḍatva - जडत्व"
   },
   {
@@ -9359,8 +9359,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**जडत्व - jaḍatva**",
-   "directed": "[slowly] **जडत्व - jaḍatva**"
+   "text": "जडत्व - jaḍatva",
+   "directed": "[slowly] जडत्व - jaḍatva"
   },
   {
    "id": "b1170",
@@ -9383,8 +9383,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**जड - jaḍa**",
-   "directed": "[slowly] **जड - jaḍa**"
+   "text": "जड - jaḍa",
+   "directed": "[slowly] जड - jaḍa"
   },
   {
    "id": "b1173",
@@ -9407,16 +9407,16 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**-त्व - -tva**",
-   "directed": "[slowly] **-त्व - -tva**"
+   "text": "-त्व - -tva",
+   "directed": "[slowly] -त्व - -tva"
   },
   {
    "id": "b1176",
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "Now the limited *puruṣa*, within certain ritual classifications, lacks the universal freedom of action.",
-   "directed": "Now the limited *puruṣa*, within certain ritual classifications, lacks the universal freedom of action."
+   "text": "Now the limited puruṣa, within certain ritual classifications, lacks the universal freedom of action.",
+   "directed": "Now the limited puruṣa, within certain ritual classifications, lacks the universal freedom of action."
   },
   {
    "id": "b1177",
@@ -9447,8 +9447,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "narration",
    "voice": "granny",
-   "text": "### Bhoga and Apavarga again",
-   "directed": "### Bhoga and Apavarga again"
+   "text": "Bhoga and Apavarga again",
+   "directed": "Bhoga and Apavarga again"
   },
   {
    "id": "b1181",
@@ -9463,8 +9463,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**भोग - bhoga**",
-   "directed": "[slowly] **भोग - bhoga**"
+   "text": "भोग - bhoga",
+   "directed": "[slowly] भोग - bhoga"
   },
   {
    "id": "b1183",
@@ -9479,8 +9479,8 @@
    "section": "16. Why mantra belongs particularly to Śakti",
    "type": "verse",
    "voice": "verse",
-   "text": "**अपवर्ग - apavarga**",
-   "directed": "[slowly] **अपवर्ग - apavarga**"
+   "text": "अपवर्ग - apavarga",
+   "directed": "[slowly] अपवर्ग - apavarga"
   },
   {
    "id": "b1185",
@@ -9639,24 +9639,24 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The first claim: Particulars depend upon their grounds",
-   "directed": "### The first claim: Particulars depend upon their grounds"
+   "text": "The first claim: Particulars depend upon their grounds",
+   "directed": "The first claim: Particulars depend upon their grounds"
   },
   {
    "id": "b1205",
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "A *śiṃśapā* is a tree.",
-   "directed": "A *śiṃśapā* is a tree."
+   "text": "A śiṃśapā is a tree.",
+   "directed": "A śiṃśapā is a tree."
   },
   {
    "id": "b1206",
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "But not every tree is a *śiṃśapā*.",
-   "directed": "But not every tree is a *śiṃśapā*."
+   "text": "But not every tree is a śiṃśapā.",
+   "directed": "But not every tree is a śiṃśapā."
   },
   {
    "id": "b1207",
@@ -9679,8 +9679,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The second claim: The gross manifestation depends upon subtler principles",
-   "directed": "### The second claim: The gross manifestation depends upon subtler principles"
+   "text": "The second claim: The gross manifestation depends upon subtler principles",
+   "directed": "The second claim: The gross manifestation depends upon subtler principles"
   },
   {
    "id": "b1210",
@@ -9727,8 +9727,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The third claim: The full order exists within consciousness",
-   "directed": "### The third claim: The full order exists within consciousness"
+   "text": "The third claim: The full order exists within consciousness",
+   "directed": "The third claim: The full order exists within consciousness"
   },
   {
    "id": "b1216",
@@ -9759,8 +9759,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fourth claim: Differentiated arrangements can be reflected or reversed",
-   "directed": "### The fourth claim: Differentiated arrangements can be reflected or reversed"
+   "text": "The fourth claim: Differentiated arrangements can be reflected or reversed",
+   "directed": "The fourth claim: Differentiated arrangements can be reflected or reversed"
   },
   {
    "id": "b1220",
@@ -9791,8 +9791,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fifth claim: Language expresses the same structure",
-   "directed": "### The fifth claim: Language expresses the same structure"
+   "text": "The fifth claim: Language expresses the same structure",
+   "directed": "The fifth claim: Language expresses the same structure"
   },
   {
    "id": "b1224",
@@ -9839,8 +9839,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "### The sixth claim: The alphabetic systems can differ without annihilating the doctrine",
-   "directed": "### The sixth claim: The alphabetic systems can differ without annihilating the doctrine"
+   "text": "The sixth claim: The alphabetic systems can differ without annihilating the doctrine",
+   "directed": "The sixth claim: The alphabetic systems can differ without annihilating the doctrine"
   },
   {
    "id": "b1230",
@@ -9935,8 +9935,8 @@
    "section": "17. The great synthesis - Why everything can be everything w",
    "type": "narration",
    "voice": "granny",
-   "text": "The difficult problem is explaining **how the one can genuinely manifest difference without becoming ultimately divided**.",
-   "directed": "The difficult problem is explaining **how the one can genuinely manifest difference without becoming ultimately divided**."
+   "text": "The difficult problem is explaining how the one can genuinely manifest difference without becoming ultimately divided.",
+   "directed": "The difficult problem is explaining how the one can genuinely manifest difference without becoming ultimately divided."
   },
   {
    "id": "b1242",
@@ -10087,8 +10087,8 @@
    "section": "18. The deeper implication for recognition",
    "type": "narration",
    "voice": "granny",
-   "text": "Now notice how the *sarvasarvātmakatva* doctrine changes the inquiry.",
-   "directed": "Now notice how the *sarvasarvātmakatva* doctrine changes the inquiry."
+   "text": "Now notice how the sarvasarvātmakatva doctrine changes the inquiry.",
+   "directed": "Now notice how the sarvasarvātmakatva doctrine changes the inquiry."
   },
   {
    "id": "b1261",
@@ -10191,8 +10191,8 @@
    "section": "18. The deeper implication for recognition",
    "type": "narration",
    "voice": "granny",
-   "text": "### The mistake of the metaphysical collector",
-   "directed": "### The mistake of the metaphysical collector"
+   "text": "The mistake of the metaphysical collector",
+   "directed": "The mistake of the metaphysical collector"
   },
   {
    "id": "b1274",
@@ -10319,8 +10319,8 @@
    "section": "18. The deeper implication for recognition",
    "type": "narration",
    "voice": "granny",
-   "text": "**The proper relationship is to use the differentiated teaching without mistaking the teaching's particular structure for an independent ultimate reality.**",
-   "directed": "**The proper relationship is to use the differentiated teaching without mistaking the teaching's particular structure for an independent ultimate reality.**"
+   "text": "The proper relationship is to use the differentiated teaching without mistaking the teaching's particular structure for an independent ultimate reality.",
+   "directed": "The proper relationship is to use the differentiated teaching without mistaking the teaching's particular structure for an independent ultimate reality."
   },
   {
    "id": "b1290",
@@ -10351,24 +10351,24 @@
    "section": "19. Sanskrit to retain from Part VIII",
    "type": "verse",
    "voice": "verse",
-   "text": "| Devanāgarī | IAST | Meaning |\n|--------|--------|--------|\n| **सर्वसर्वात्मकत्व** | *sarvasarvātmakatva* | Everything having the nature of everything |\n| **दिदृक्षा** | *didṛkṣā* | Desire to see |\n| **व्याप्य** | *vyāpya* | Having pervaded |\n| **शिंशपा** | *śiṃśapā* | A particular tree |\n| **वृक्षत्व** | *vṛkṣatva* | Treehood |\n| **उपादानकारण** | *upādānakāraṇa* | Material cause |\n| **अध्यवसाय** | *adhyavasāya* | Determinate cognition |\n| **भोक्तृ** | *bhoktṛ* | Experiencer |\n| **भोग्य** | *bhogya* | What is experienced |\n| **अकालकलित** | *akālakalita* | Not delimited by time |\n| **सम्पुटीकरण** | *sampuṭīkaraṇa* | Enclosing, encompassing |\n| **तत्त्वौघ** | *tattvaugha* | Totality of tattvas |\n| **प्रतिबिम्ब** | *pratibimba* | Reflection |\n| **विपर्यास** | *viparyāsa* | Inversion, reversal |\n| **वाचक** | *vācaka* | Signifier |\n| **वाच्य** | *vācya* | Signified |\n| **बीज** | *bīja* | Seed |\n| **योनि** | *yoni* | Womb, generative matrix |\n| **भिन्नयोनि** | *bhinnayoni* | Differentiated matrix |\n| **न्यास** | *nyāsa* | Ritual placement |\n| **अविच्छिन्न** | *avicchinna* | Unbroken, inseparable |",
-   "directed": "[slowly] | Devanāgarī | IAST | Meaning |\n|--------|--------|--------|\n| **सर्वसर्वात्मकत्व** | *sarvasarvātmakatva* | Everything having the nature of everything |\n| **दिदृक्षा** | *didṛkṣā* | Desire to see |\n| **व्याप्य** | *vyāpya* | Having pervaded |\n| **शिंशपा** | *śiṃśapā* | A particular tree |\n| **वृक्षत्व** | *vṛkṣatva* | Treehood |\n| **उपादानकारण** | *upādānakāraṇa* | Material cause |\n| **अध्यवसाय** | *adhyavasāya* | Determinate cognition |\n| **भोक्तृ** | *bhoktṛ* | Experiencer |\n| **भोग्य** | *bhogya* | What is experienced |\n| **अकालकलित** | *akālakalita* | Not delimited by time |\n| **सम्पुटीकरण** | *sampuṭīkaraṇa* | Enclosing, encompassing |\n| **तत्त्वौघ** | *tattvaugha* | Totality of tattvas |\n| **प्रतिबिम्ब** | *pratibimba* | Reflection |\n| **विपर्यास** | *viparyāsa* | Inversion, reversal |\n| **वाचक** | *vācaka* | Signifier |\n| **वाच्य** | *vācya* | Signified |\n| **बीज** | *bīja* | Seed |\n| **योनि** | *yoni* | Womb, generative matrix |\n| **भिन्नयोनि** | *bhinnayoni* | Differentiated matrix |\n| **न्यास** | *nyāsa* | Ritual placement |\n| **अविच्छिन्न** | *avicchinna* | Unbroken, inseparable |"
+   "text": "Devanāgarī: IAST सर्वसर्वात्मकत्व: sarvasarvātmakatva दिदृक्षा: didṛkṣā व्याप्य: vyāpya शिंशपा: śiṃśapā वृक्षत्व: vṛkṣatva उपादानकारण: upādānakāraṇa अध्यवसाय: adhyavasāya भोक्तृ: bhoktṛ भोग्य: bhogya अकालकलित: akālakalita सम्पुटीकरण: sampuṭīkaraṇa तत्त्वौघ: tattvaugha प्रतिबिम्ब: pratibimba विपर्यास: viparyāsa वाचक: vācaka वाच्य: vācya बीज: bīja योनि: yoni भिन्नयोनि: bhinnayoni न्यास: nyāsa अविच्छिन्न: avicchinna",
+   "directed": "[slowly] Devanāgarī: IAST सर्वसर्वात्मकत्व: sarvasarvātmakatva दिदृक्षा: didṛkṣā व्याप्य: vyāpya शिंशपा: śiṃśapā वृक्षत्व: vṛkṣatva उपादानकारण: upādānakāraṇa अध्यवसाय: adhyavasāya भोक्तृ: bhoktṛ भोग्य: bhogya अकालकलित: akālakalita सम्पुटीकरण: sampuṭīkaraṇa तत्त्वौघ: tattvaugha प्रतिबिम्ब: pratibimba विपर्यास: viparyāsa वाचक: vācaka वाच्य: vācya बीज: bīja योनि: yoni भिन्नयोनि: bhinnayoni न्यास: nyāsa अविच्छिन्न: avicchinna"
   },
   {
    "id": "b1294",
    "section": "19. Sanskrit to retain from Part VIII",
    "type": "narration",
    "voice": "granny",
-   "text": "### Four writing exercises",
-   "directed": "### Four writing exercises"
+   "text": "Four writing exercises",
+   "directed": "Four writing exercises"
   },
   {
    "id": "b1295",
    "section": "19. Sanskrit to retain from Part VIII",
    "type": "narration",
    "voice": "granny",
-   "text": "**1. The desiderative and sandhi**",
-   "directed": "**1. The desiderative and sandhi**"
+   "text": "1. The desiderative and sandhi",
+   "directed": "1. The desiderative and sandhi"
   },
   {
    "id": "b1296",
@@ -10391,16 +10391,16 @@
    "section": "दिदृक्षया + इव → दिदृक्षयेव",
    "type": "narration",
    "voice": "granny",
-   "text": "Remember the desiderative root √*dṛś* and the vowel combination **ā + i → e**.",
-   "directed": "Remember the desiderative root √*dṛś* and the vowel combination **ā + i → e**."
+   "text": "Remember the desiderative root √dṛś and the vowel combination ā + i → e.",
+   "directed": "Remember the desiderative root √dṛś and the vowel combination ā + i → e."
   },
   {
    "id": "b1299",
    "section": "दिदृक्षया + इव → दिदृक्षयेव",
    "type": "narration",
    "voice": "granny",
-   "text": "**2. The tree and its nature**",
-   "directed": "**2. The tree and its nature**"
+   "text": "2. The tree and its nature",
+   "directed": "2. The tree and its nature"
   },
   {
    "id": "b1300",
@@ -10423,16 +10423,16 @@
    "section": "वृक्ष → वृक्षत्व",
    "type": "narration",
    "voice": "granny",
-   "text": "Notice the vocalic *ṛ*, the *kṣ* conjunct, and the abstract suffix *-tva*.",
-   "directed": "Notice the vocalic *ṛ*, the *kṣ* conjunct, and the abstract suffix *-tva*."
+   "text": "Notice the vocalic ṛ, the kṣ conjunct, and the abstract suffix -tva.",
+   "directed": "Notice the vocalic ṛ, the kṣ conjunct, and the abstract suffix -tva."
   },
   {
    "id": "b1303",
    "section": "वृक्ष → वृक्षत्व",
    "type": "narration",
    "voice": "granny",
-   "text": "**3. The reflection**",
-   "directed": "**3. The reflection**"
+   "text": "3. The reflection",
+   "directed": "3. The reflection"
   },
   {
    "id": "b1304",
@@ -10455,16 +10455,16 @@
    "section": "बिम्ब → प्रतिबिम्ब",
    "type": "narration",
    "voice": "granny",
-   "text": "The prefix *prati-* adds the notion of correspondence or reflection.",
-   "directed": "The prefix *prati-* adds the notion of correspondence or reflection."
+   "text": "The prefix prati- adds the notion of correspondence or reflection.",
+   "directed": "The prefix prati- adds the notion of correspondence or reflection."
   },
   {
    "id": "b1307",
    "section": "बिम्ब → प्रतिबिम्ब",
    "type": "narration",
    "voice": "granny",
-   "text": "**4. The entire collection of principles**",
-   "directed": "**4. The entire collection of principles**"
+   "text": "4. The entire collection of principles",
+   "directed": "4. The entire collection of principles"
   },
   {
    "id": "b1308",
@@ -10487,8 +10487,8 @@
    "section": "तत्त्व + ओघ → तत्त्वौघ",
    "type": "narration",
    "voice": "granny",
-   "text": "Remember the sandhi **a + o → au**.",
-   "directed": "Remember the sandhi **a + o → au**."
+   "text": "Remember the sandhi a + o → au.",
+   "directed": "Remember the sandhi a + o → au."
   },
   {
    "id": "b1311",
@@ -10503,8 +10503,8 @@
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "We've followed the commentary from Kashmir Series p. 139 through the development of *sarvasarvātmakatva*, the Spanda citation, the tree analogy, the causal dependence of the tattvas, the temporal argument, the *sampuṭa* teaching, the mirror-like manifestation in Parāparā, the reversal of the tattva order, the relation of signifier and signified, and the seed-womb symbolism of Śiva and Śakti.",
-   "directed": "We've followed the commentary from Kashmir Series p. 139 through the development of *sarvasarvātmakatva*, the Spanda citation, the tree analogy, the causal dependence of the tattvas, the temporal argument, the *sampuṭa* teaching, the mirror-like manifestation in Parāparā, the reversal of the tattva order, the relation of signifier and signified, and the seed-womb symbolism of Śiva and Śakti."
+   "text": "We've followed the commentary from Kashmir Series p. 139 through the development of sarvasarvātmakatva, the Spanda citation, the tree analogy, the causal dependence of the tattvas, the temporal argument, the sampuṭa teaching, the mirror-like manifestation in Parāparā, the reversal of the tattva order, the relation of signifier and signified, and the seed-womb symbolism of Śiva and Śakti.",
+   "directed": "We've followed the commentary from Kashmir Series p. 139 through the development of sarvasarvātmakatva, the Spanda citation, the tree analogy, the causal dependence of the tattvas, the temporal argument, the sampuṭa teaching, the mirror-like manifestation in Parāparā, the reversal of the tattva order, the relation of signifier and signified, and the seed-womb symbolism of Śiva and Śakti."
   },
   {
    "id": "b1313",
@@ -10551,16 +10551,16 @@
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "The next installment will therefore continue **within the commentary on verses 5-8**, rather than jumping ahead to a new verse.",
-   "directed": "The next installment will therefore continue **within the commentary on verses 5-8**, rather than jumping ahead to a new verse."
+   "text": "The next installment will therefore continue within the commentary on verses 5-8, rather than jumping ahead to a new verse.",
+   "directed": "The next installment will therefore continue within the commentary on verses 5-8, rather than jumping ahead to a new verse."
   },
   {
    "id": "b1319",
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "### The philosophical conclusion",
-   "directed": "### The philosophical conclusion"
+   "text": "The philosophical conclusion",
+   "directed": "The philosophical conclusion"
   },
   {
    "id": "b1320",
@@ -10623,8 +10623,8 @@
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "But because **no manifested principle is ultimately independent of the consciousness and powers through which the entire universe is present**.",
-   "directed": "But because **no manifested principle is ultimately independent of the consciousness and powers through which the entire universe is present**."
+   "text": "But because no manifested principle is ultimately independent of the consciousness and powers through which the entire universe is present.",
+   "directed": "But because no manifested principle is ultimately independent of the consciousness and powers through which the entire universe is present."
   },
   {
    "id": "b1328",
@@ -10647,16 +10647,16 @@
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "### Continue the audiobook",
-   "directed": "### Continue the audiobook"
+   "text": "Continue the audiobook",
+   "directed": "Continue the audiobook"
   },
   {
    "id": "b1331",
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
    "voice": "granny",
-   "text": "Primary text: \\(pp. 139-151). Parallel references: and .",
-   "directed": "Primary text: \\(pp. 139-151). Parallel references: and ."
+   "text": "Primary text: (pp. 139-151). Parallel references: and .",
+   "directed": "Primary text: (pp. 139-151). Parallel references: and ."
   }
  ],
  "totals": {

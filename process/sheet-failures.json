@@ -1,0 +1,508 @@
+{
+ "v01": [
+  {
+   "from": "b417",
+   "to": "b417",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v02": [
+  {
+   "from": "b212",
+   "to": "b212",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b879",
+   "to": "b879",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b952",
+   "to": "b952",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1015",
+   "to": "b1015",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v03": [
+  {
+   "from": "b447",
+   "to": "b447",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b788",
+   "to": "b788",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1388",
+   "to": "b1388",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v04": [
+  {
+   "from": "b396",
+   "to": "b396",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b502",
+   "to": "b502",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1038",
+   "to": "b1038",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v05": [
+  {
+   "from": "b42",
+   "to": "b42",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b647",
+   "to": "b647",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1431",
+   "to": "b1431",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v06": [
+  {
+   "from": "b135",
+   "to": "b135",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1108",
+   "to": "b1108",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v07": [
+  {
+   "from": "b130",
+   "to": "b130",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1422",
+   "to": "b1422",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v08": [
+  {
+   "from": "b1293",
+   "to": "b1293",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v09": [
+  {
+   "from": "b34",
+   "to": "b34",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b785",
+   "to": "b785",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1721",
+   "to": "b1721",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v10": [
+  {
+   "from": "b1427",
+   "to": "b1427",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v11": [
+  {
+   "from": "b1525",
+   "to": "b1525",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v12": [
+  {
+   "from": "b401",
+   "to": "b401",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1746",
+   "to": "b1746",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1780",
+   "to": "b1780",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v13": [
+  {
+   "from": "b1796",
+   "to": "b1796",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1808",
+   "to": "b1808",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v14": [
+  {
+   "from": "b1377",
+   "to": "b1377",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v15": [
+  {
+   "from": "b1304",
+   "to": "b1304",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1723",
+   "to": "b1723",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v16": [
+  {
+   "from": "b339",
+   "to": "b339",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "verse overflow: *\u0938\u094b\u092e\u0938\u0942\u0930\u094d\u092f\u093e\u0917\u094d\u0928\u093f-\u0938\u0943\u0937\u094d\u091f\u093f-\u0938\u094d\u0925\u093f\u0924\u093f-\u0938\u0902\u0939\u0943\u0924\u093f-\u0907\u0921\u093e-"
+  },
+  {
+   "from": "b1842",
+   "to": "b1842",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v17": [
+  {
+   "from": "b1797",
+   "to": "b1797",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v18": [
+  {
+   "from": "b2094",
+   "to": "b2094",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v19": [
+  {
+   "from": "b1885",
+   "to": "b1885",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v20": [
+  {
+   "from": "b2037",
+   "to": "b2037",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b2126",
+   "to": "b2126",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v21": [
+  {
+   "from": "b1943",
+   "to": "b1943",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v22": [
+  {
+   "from": "b1814",
+   "to": "b1814",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v25": [
+  {
+   "from": "b327",
+   "to": "b327",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b1980",
+   "to": "b1980",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v26": [
+  {
+   "from": "b3168",
+   "to": "b3168",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v27": [
+  {
+   "from": "b659",
+   "to": "b659",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b3247",
+   "to": "b3247",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v28": [
+  {
+   "from": "b138",
+   "to": "b138",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  },
+  {
+   "from": "b2301",
+   "to": "b2301",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v29": [
+  {
+   "from": "b2108",
+   "to": "b2108",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ],
+ "v33": [
+  {
+   "from": "b635",
+   "to": "b635",
+   "n": 1,
+   "types": [
+    "verse"
+   ],
+   "err": "card collides with subtitle zone \u2014 split the stack"
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "b488": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/goddess_2x15s.mp4",
+  "complete_bid": "b489",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 goddess motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b491": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/goddess_2x15s.mp4",
+  "complete_bid": "b492",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 goddess motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b976": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/knot-heart_2x15s.mp4",
+  "complete_bid": "b977",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 knot-heart motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b18": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/alphabet_2x15s.mp4",
+  "complete_bid": "b19",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 alphabet motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b51": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/alphabet_2x15s.mp4",
+  "complete_bid": "b52",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 alphabet motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b50": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/bee_2x15s.mp4",
+  "complete_bid": "b51",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 bee motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b287": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/bee_2x15s.mp4",
+  "complete_bid": "b288",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 bee motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b179": {
+  "asset": "/home/ubuntu/paratrishika/process/image-bank/motion-2x/hand-mirror_2x15s.mp4",
+  "complete_bid": "b180",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "v32 hand-mirror motif \u2014 text-matched beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

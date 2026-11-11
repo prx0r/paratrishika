@@ -1,0 +1,155 @@
+{
+ "date": null,
+ "owner_signoff": null,
+ "reason": "para verse-section voicing accepted as designed; hold-scan-red waived per unit (visible, never silent)",
+ "waivers": [
+  {
+   "unit": "01",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v01.json: storyboard has 0 errors and 2 warnings",
+   "warnings": [
+    "section [\u0936\u094d\u0930\u0940\u0926\u0947\u0935\u094d\u092f\u0941\u0935\u093e\u091a]: no granny block",
+    "section [\u0905\u0928\u0941\u0924\u094d\u0924\u0930\u0902 \u0915\u0925\u0902 \u0926\u0947\u0935 \u0938\u0926\u094d\u092f\u0903 \u0915\u094c\u0932\u093f\u0915\u0938\u093f\u0926\u094d\u0927\u093f\u0926\u092e\u094d\u0964]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "04",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v04.json: storyboard has 0 errors and 2 warnings",
+   "warnings": [
+    "section [\u0905\u0939\u092e\u094d]: no granny block",
+    "section [\u0939\u0943\u0926\u092f\u0938\u094d\u0925\u093e \u0924\u0941 \u092f\u093e \u0936\u0915\u094d\u0924\u093f\u0903 \u0915\u094c\u0932\u093f\u0915\u0940 \u0915\u0941\u0932\u0928\u093e\u092f\u093f\u0915\u093e\u0964]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "05",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v05.json: storyboard has 0 errors and 2 warnings",
+   "warnings": [
+    "section [\u0915\u094c\u0932\u093f\u0915\u094b\u093d\u092f\u0902 \u0935\u093f\u0927\u093f\u0930\u094d\u0926\u0947\u0935\u093f \u092e\u092e \u0939\u0943\u0926\u094d\u0935\u094d\u092f\u094b\u092e\u094d\u0928\u094d\u092f\u0935\u0938\u094d]: no granny block",
+    "section [\u0909\u0924\u094d\u0924\u0930\u0938\u094d\u092f + \u0905\u092a\u093f]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "06",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v06.json: storyboard has 0 errors and 7 warnings",
+   "warnings": [
+    "section [\u0905\u0925\u093e\u0926\u094d\u092f\u093e\u0938\u094d\u0924\u093f\u0925\u092f\u0903 \u0938\u0930\u094d\u0935\u0947 \u0938\u094d\u0935\u0930\u093e \u092c\u093f\u0928\u094d\u0926\u094d\u0935\u0935\u0938\u093e\u0928\u0917\u093e]: no granny block",
+    "section [\u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u0926\u0940\u0928\u093f \u0924\u0924\u094d\u0924\u094d\u0935\u093e\u0928\u093f \u092a\u0941\u0930\u0941\u0937\u093e\u0928\u094d\u0924\u093e\u0928\u093f \u092a\u091e\u094d\u091a]: no granny block",
+    "section [\u0935\u093e\u092f\u094d\u0935\u0917\u094d\u0928\u093f\u0938\u0932\u093f\u0932\u0947\u0928\u094d\u0926\u094d\u0930\u093e\u0923\u093e\u0902 \u0927\u093e\u0930\u0923\u093e\u0928\u093e\u0902 \u091a\u0924\u0941\u0937\u094d\u091f\u092f]: no granny block",
+    "section [\u0924\u0926\u0942\u0930\u094d\u0927\u094d\u0935\u0902 \u0936\u093e\u0926\u093f \u0935\u093f\u0916\u094d\u092f\u093e\u0924\u0902 \u092a\u0941\u0930\u0938\u094d\u0924\u093e\u0926\u094d\u092c\u094d\u0930\u0939\u094d\u092e\u092a]: no granny block",
+    "section [\u0905\u092e\u0942\u0932\u093e \u0924\u0924\u094d\u0915\u094d\u0930\u092e\u093e\u091c\u094d\u091c\u094d\u091e\u0947\u092f\u093e \u0915\u094d\u0937\u093e\u0928\u094d\u0924\u093e \u0938\u0943\u0937\u094d\u091f\u093f\u0930\u0941]: no granny block",
+    "section [\u0905\u0902]: no granny block",
+    "section [\u092a\u0943\u0925\u093f\u0935\u0940 + \u0906\u0926\u093f \u2192 \u092a\u0943\u0925\u093f\u0935\u094d\u092f\u093e\u0926\u093f]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "08",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v08.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [\u0926\u093f\u0926\u0943\u0915\u094d\u0937\u092f\u0947\u0935 \u0938\u0930\u094d\u0935\u093e\u0930\u094d\u0925\u093e\u0928\u094d\u092f\u0926\u093e \u0935\u094d\u092f\u093e\u092a\u094d\u092f\u093e\u0935\u0924\u093f\u0937\u094d\u0920]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "09",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v09.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [\u092f\u0925\u0947\u0937\u094d\u091f\u092b\u0932\u0938\u0902\u0938\u093f\u0926\u094d\u0927\u094d\u092f\u0948 \u092e\u0928\u094d\u0924\u094d\u0930\u0924\u0928\u094d\u0924\u094d\u0930\u093e\u0928\u0941\u0935\u0930\u094d\u0924\u093f\u0928]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "12",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v12.json: storyboard has 0 errors and 7 warnings",
+   "warnings": [
+    "section [\u0905\u0925\u093e\u0926\u094d\u092f\u093e\u0938\u094d\u0924\u093f\u0925\u092f\u0903 \u0938\u0930\u094d\u0935\u0947 \u0938\u094d\u0935\u0930\u093e \u092c\u093f\u0928\u094d\u0926\u094d\u0935\u0935\u0938\u093e\u0928\u0917\u093e]: no granny block",
+    "section [\u0938\u094d\u0935\u0924\u0928\u094d\u0924\u094d\u0930\u0903 \u092a\u0930\u093f\u092a\u0942\u0930\u094d\u0923\u094b\u093d\u092f\u0902 \u092d\u0917\u0935\u093e\u0928\u094d\u092d\u0948\u0930\u0935\u094b \u0935\u093f\u092d\u0941]: no granny block",
+    "section [16. \u0906 - \u0100: The unsurpassable expands as ]: no granny block",
+    "section [17. \u0907 - I: The fullness of will]: no granny block",
+    "section [18. \u0908 - \u012a: The power of willing to know]: no granny block",
+    "section [19. \u0909 - U: Knowledge opens its eyes]: no granny block",
+    "section [20. \u090a - \u016a: The divine cow carries the un]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "14",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v14.json: storyboard has 0 errors and 6 warnings",
+   "warnings": [
+    "section [2. \u090f - E: The first compound vowel]: no granny block",
+    "section [7. \u0910 - Ai: When the combined power enter]: no granny block",
+    "section [8. \u0913 - O: Knowledge enters the first and]: no granny block",
+    "section [9. \u0914 - Au: The compound vowel that conta]: no granny block",
+    "section [10. \u0905\u0902 - A\u1e43: The entire universe gathers]: no granny block",
+    "section [12. \u0905\u0903 - A\u1e25: The universe is emitted aga]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "15",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v15.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [7. \u0914\u0928\u094d\u092e\u0941\u0916\u094d\u092f - The first tiny leaning of ]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "19",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v19.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [\u0905\u0939\u092e\u094d]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "26",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v26.json: storyboard has 0 errors and 2 warnings",
+   "warnings": [
+    "section [14]: no granny block",
+    "section [15]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "27",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v27.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [13]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "28",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v28.json: storyboard has 0 errors and 2 warnings",
+   "warnings": [
+    "section [\u0936]: no granny block",
+    "section [\u0937]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  },
+  {
+   "unit": "31",
+   "issue_id": "hold-scan-red-1",
+   "detail": "bundle: /home/ubuntu/paratrishika/storyboards/storyboard_v31.json: storyboard has 0 errors and 1 warnings",
+   "warnings": [
+    "section [\u0905\u0926\u0943\u0937\u094d\u091f\u092e\u0923\u094d\u0921\u0932\u094b\u093d\u092a\u094d\u092f\u0947\u0935\u0902 \u092f\u0903 \u0915\u0936\u094d\u091a\u093f\u0926\u094d\u0935\u0947\u0924\u094d\u0924\u093f \u0924\u0924\u094d]: no granny block"
+   ],
+   "rationale": "verse/letter-lab sections carry no granny voice by design (Sanskrit lab + verse holds render as verse cards); sheets prove the cards, video renders the same holds"
+  }
+ ]
+}
