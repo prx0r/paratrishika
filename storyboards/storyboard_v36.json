@@ -16,7 +16,7 @@
    "type": "title",
    "voice": "granny",
    "text": "Parātrīśikāvivaraṇa - Part XXXVI",
-   "directed": "[long pause] Parātrīśikāvivaraṇa - Part XXXVI"
+   "directed": "[long pause] Parātrīśikāvivaraṇa"
   },
   {
    "id": "b2",
@@ -152,7 +152,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "We resume at authorial epilogue verse 11, following the ten verses studied in Part XXXV. The complete epilogue has 21 numbered verses, preserved in both the 1918 Kashmir Series of Texts and Studies XVIII edition and Somadeva Vasudeva's GRETIL transcription, which carries Gnoli's 1985 pagination.",
-   "directed": "We resume at authorial epilogue verse 11, following the ten verses studied in Part XXXV. The complete epilogue has 21 numbered verses, preserved in both the 1918 Kashmir Series of Texts and Studies XVIII edition and Somadeva Vasudeva's GRETIL transcription, which carries Gnoli's 1985 pagination."
+   "directed": "We resume at authorial epilogue verse 11, following the ten verses studied in Part Thirty-Five. The complete epilogue has 21 numbered verses, preserved in both the 1918 Kashmir Series of Texts and Studies XVIII edition and Somadeva Vasudeva's GRETIL transcription, which carries Gnoli's 1985 pagination."
   },
   {
    "id": "b19",
@@ -184,7 +184,7 @@
    "type": "title",
    "voice": "granny",
    "text": "I. Verse 11 - Atrigupta Arrives in Kashmir, and the Family History Begins",
-   "directed": "[long pause] I. Verse 11 - Atrigupta Arrives in Kashmir, and the Family History Begins"
+   "directed": "[long pause] One. Verse 11 - Atrigupta Arrives in Kashmir, and the Family History Begins"
   },
   {
    "id": "b23",
@@ -232,7 +232,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Literal translation:",
-   "directed": "Literal translation:"
+   "directed": "[short pause] Literal translation:"
   },
   {
    "id": "b29",
@@ -328,7 +328,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Antarvedī - अन्तर्वेदी",
-   "directed": "[slowly] ### Antarvedī - अन्तर्वेदी"
+   "directed": "[slowly] Antarvedī - अन्तर्वेदी"
   },
   {
    "id": "b41",
@@ -400,7 +400,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Atriguptābhidhānaḥ",
-   "directed": "[slowly] ### Atriguptābhidhānaḥ"
+   "directed": "[slowly] Atriguptābhidhānaḥ"
   },
   {
    "id": "b50",
@@ -488,7 +488,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prāpyotpattim",
-   "directed": "[slowly] ### Prāpyotpattim"
+   "directed": "[slowly] Prāpyotpattim"
   },
   {
    "id": "b61",
@@ -576,7 +576,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prāviśat",
-   "directed": "[slowly] ### Prāviśat"
+   "directed": "[slowly] Prāviśat"
   },
   {
    "id": "b72",
@@ -616,7 +616,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prāgryajanmā",
-   "directed": "[slowly] ### Prāgryajanmā"
+   "directed": "[slowly] Prāgryajanmā"
   },
   {
    "id": "b77",
@@ -696,7 +696,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śrīkāśmīrān",
-   "directed": "[slowly] ### Śrīkāśmīrān"
+   "directed": "[slowly] Śrīkāśmīrān"
   },
   {
    "id": "b87",
@@ -752,7 +752,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Candracūḍāvatārair",
-   "directed": "[slowly] ### Candracūḍāvatārair"
+   "directed": "[slowly] Candracūḍāvatārair"
   },
   {
    "id": "b94",
@@ -840,7 +840,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Niḥsaṃkhyākaiḥ",
-   "directed": "[slowly] ### Niḥsaṃkhyākaiḥ"
+   "directed": "[slowly] Niḥsaṃkhyākaiḥ"
   },
   {
    "id": "b105",
@@ -896,7 +896,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pāvitopāntabhāgān",
-   "directed": "[slowly] ### Pāvitopāntabhāgān"
+   "directed": "[slowly] Pāvitopāntabhāgān"
   },
   {
    "id": "b112",
@@ -1022,7 +1022,7 @@
    "id": "b127",
    "section": "I. Verse 11 - Atrigupta Arrives in Kashmir, and the Family H",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "- ⏑ - - ⏑ - -",
    "directed": "- ⏑ - - ⏑ - -"
   },
@@ -1192,7 +1192,7 @@
    "type": "title",
    "voice": "granny",
    "text": "II. Verse 12 - Varāhagupta, Cukhala, and the Father Who Had Apparently Had Enough of Saṃsāra",
-   "directed": "[long pause] II. Verse 12 - Varāhagupta, Cukhala, and the Father Who Had Apparently Had Enough of Saṃsāra"
+   "directed": "[long pause] Two. Verse 12 - Varāhagupta, Cukhala, and the Father Who Had Apparently Had Enough of Saṃsāra"
   },
   {
    "id": "b149",
@@ -1240,7 +1240,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Literal translation:",
-   "directed": "Literal translation:"
+   "directed": "[short pause] Literal translation:"
   },
   {
    "id": "b155",
@@ -1464,7 +1464,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prasūtāt",
-   "directed": "[slowly] ### Prasūtāt"
+   "directed": "[slowly] Prasūtāt"
   },
   {
    "id": "b183",
@@ -1512,7 +1512,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Varāhaguptāt",
-   "directed": "[slowly] ### Varāhaguptāt"
+   "directed": "[slowly] Varāhaguptāt"
   },
   {
    "id": "b189",
@@ -1560,7 +1560,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pratilabdhajanmā",
-   "directed": "[slowly] ### Pratilabdhajanmā"
+   "directed": "[slowly] Pratilabdhajanmā"
   },
   {
    "id": "b195",
@@ -1648,7 +1648,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṃsāravṛttānta",
-   "directed": "[slowly] ### Saṃsāravṛttānta"
+   "directed": "[slowly] Saṃsāravṛttānta"
   },
   {
    "id": "b206",
@@ -1704,7 +1704,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parāṅmukhaḥ",
-   "directed": "[slowly] ### Parāṅmukhaḥ"
+   "directed": "[slowly] Parāṅmukhaḥ"
   },
   {
    "id": "b213",
@@ -1768,7 +1768,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śivaikacittaḥ",
-   "directed": "[slowly] ### Śivaikacittaḥ"
+   "directed": "[slowly] Śivaikacittaḥ"
   },
   {
    "id": "b221",
@@ -1880,7 +1880,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cukhala - चुखल",
-   "directed": "[slowly] ### Cukhala - चुखल"
+   "directed": "[slowly] Cukhala - चुखल"
   },
   {
    "id": "b235",
@@ -2184,7 +2184,7 @@
    "type": "title",
    "voice": "granny",
    "text": "III. Verse 13 - Abhinavagupta Finally Identifies Himself, and the Hidden Trika Is Brought into the Open",
-   "directed": "[long pause] III. Verse 13 - Abhinavagupta Finally Identifies Himself, and the Hidden Trika Is Brought into the Open"
+   "directed": "[long pause] Three. Verse 13 - Abhinavagupta Finally Identifies Himself, and the Hidden Trika Is Brought into the Open"
   },
   {
    "id": "b273",
@@ -2232,7 +2232,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b279",
@@ -2352,7 +2352,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tasmāt - तस्मात्",
-   "directed": "[slowly] ### Tasmāt - तस्मात्"
+   "directed": "[slowly] Tasmāt - तस्मात्"
   },
   {
    "id": "b294",
@@ -2408,7 +2408,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vivecitasamastapadārthajātāt",
-   "directed": "[slowly] ### Vivecitasamastapadārthajātāt"
+   "directed": "[slowly] Vivecitasamastapadārthajātāt"
   },
   {
    "id": "b301",
@@ -2608,7 +2608,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Dehapadavīm",
-   "directed": "[slowly] ### Dehapadavīm"
+   "directed": "[slowly] Dehapadavīm"
   },
   {
    "id": "b326",
@@ -2688,7 +2688,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parameśapūtām",
-   "directed": "[slowly] ### Parameśapūtām"
+   "directed": "[slowly] Parameśapūtām"
   },
   {
    "id": "b336",
@@ -2752,7 +2752,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prāptābhayaḥ",
-   "directed": "[slowly] ### Prāptābhayaḥ"
+   "directed": "[slowly] Prāptābhayaḥ"
   },
   {
    "id": "b344",
@@ -2864,7 +2864,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Abhinavaguptapadābhidhānaḥ",
-   "directed": "[slowly] ### Abhinavaguptapadābhidhānaḥ"
+   "directed": "[slowly] Abhinavaguptapadābhidhānaḥ"
   },
   {
    "id": "b358",
@@ -3040,7 +3040,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prāveśayat",
-   "directed": "[slowly] ### Prāveśayat"
+   "directed": "[slowly] Prāveśayat"
   },
   {
    "id": "b380",
@@ -3344,7 +3344,7 @@
    "type": "title",
    "voice": "granny",
    "text": "IV. Verse 14 - “Some People Cannot Think. Some People Think Badly. Perhaps One in a Hundred Thousand Will Make This Worthwhile.”",
-   "directed": "[long pause] IV. Verse 14 - “Some People Cannot Think. Some People Think Badly. Perhaps One in a Hundred Thousand Will Make This Worthwhile.”"
+   "directed": "[long pause] Four. Verse 14 - “Some People Cannot Think. Some People Think Badly. Perhaps One in a Hundred Thousand Will Make This Worthwhile.”"
   },
   {
    "id": "b418",
@@ -3392,7 +3392,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My literal translation:",
-   "directed": "My literal translation:"
+   "directed": "[short pause] My literal translation:"
   },
   {
    "id": "b424",
@@ -3536,7 +3536,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pravivekavandhyahṛdaya",
-   "directed": "[slowly] ### Pravivekavandhyahṛdaya"
+   "directed": "[slowly] Pravivekavandhyahṛdaya"
   },
   {
    "id": "b442",
@@ -3664,7 +3664,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Praṇāmo varaḥ",
-   "directed": "[slowly] ### Praṇāmo varaḥ"
+   "directed": "[slowly] Praṇāmo varaḥ"
   },
   {
    "id": "b458",
@@ -3760,7 +3760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Praviviñcate",
-   "directed": "[slowly] ### Praviviñcate"
+   "directed": "[slowly] Praviviñcate"
   },
   {
    "id": "b470",
@@ -3816,7 +3816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pāram",
-   "directed": "[slowly] ### Pāram"
+   "directed": "[slowly] Pāram"
   },
   {
    "id": "b477",
@@ -3992,7 +3992,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pravimarśasārapadavī",
-   "directed": "[slowly] ### Pravimarśasārapadavī"
+   "directed": "[slowly] Pravimarśasārapadavī"
   },
   {
    "id": "b499",
@@ -4096,7 +4096,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṃbhāvanāsusthitaḥ",
-   "directed": "[slowly] ### Saṃbhāvanāsusthitaḥ"
+   "directed": "[slowly] Saṃbhāvanāsusthitaḥ"
   },
   {
    "id": "b512",
@@ -4144,7 +4144,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Lakṣaikaḥ",
-   "directed": "[slowly] ### Lakṣaikaḥ"
+   "directed": "[slowly] Lakṣaikaḥ"
   },
   {
    "id": "b518",
@@ -4520,7 +4520,7 @@
    "type": "title",
    "voice": "granny",
    "text": "V. Verse 15 - “If You Can't Be Bothered to Examine Yourself, What Exactly Do You Expect Me to Do?”",
-   "directed": "[long pause] V. Verse 15 - “If You Can't Be Bothered to Examine Yourself, What Exactly Do You Expect Me to Do?”"
+   "directed": "[long pause] Five. Verse 15 - “If You Can't Be Bothered to Examine Yourself, What Exactly Do You Expect Me to Do?”"
   },
   {
    "id": "b565",
@@ -4568,7 +4568,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Contextual translation:",
-   "directed": "Contextual translation:"
+   "directed": "[short pause] Contextual translation:"
   },
   {
    "id": "b571",
@@ -4776,7 +4776,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Alasatām",
-   "directed": "[slowly] ### Alasatām"
+   "directed": "[slowly] Alasatām"
   },
   {
    "id": "b597",
@@ -5024,7 +5024,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sthiradhiyaḥ",
-   "directed": "[slowly] ### Sthiradhiyaḥ"
+   "directed": "[slowly] Sthiradhiyaḥ"
   },
   {
    "id": "b628",
@@ -5104,7 +5104,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṃrabhante",
-   "directed": "[slowly] ### Saṃrabhante"
+   "directed": "[slowly] Saṃrabhante"
   },
   {
    "id": "b638",
@@ -5160,7 +5160,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mūrdhnā praṇāmādaraḥ",
-   "directed": "[slowly] ### Mūrdhnā praṇāmādaraḥ"
+   "directed": "[slowly] Mūrdhnā praṇāmādaraḥ"
   },
   {
    "id": "b645",
@@ -5488,7 +5488,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VI. Verse 16 - The Gurus Are Binding Everyone, So Abhinavagupta Builds a Trident to Cut the Ropes",
-   "directed": "[long pause] VI. Verse 16 - The Gurus Are Binding Everyone, So Abhinavagupta Builds a Trident to Cut the Ropes"
+   "directed": "[long pause] Six. Verse 16 - The Gurus Are Binding Everyone, So Abhinavagupta Builds a Trident to Cut the Ropes"
   },
   {
    "id": "b686",
@@ -5536,7 +5536,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My literal translation:",
-   "directed": "My literal translation:"
+   "directed": "[short pause] My literal translation:"
   },
   {
    "id": "b692",
@@ -5864,7 +5864,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mandadhiṣaṇāḥ",
-   "directed": "[slowly] ### Mandadhiṣaṇāḥ"
+   "directed": "[slowly] Mandadhiṣaṇāḥ"
   },
   {
    "id": "b733",
@@ -6000,7 +6000,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Svātmīkṛtya",
-   "directed": "[slowly] ### Svātmīkṛtya"
+   "directed": "[slowly] Svātmīkṛtya"
   },
   {
    "id": "b750",
@@ -6096,7 +6096,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Guṇābhidhānavasataḥ",
-   "directed": "[slowly] ### Guṇābhidhānavasataḥ"
+   "directed": "[slowly] Guṇābhidhānavasataḥ"
   },
   {
    "id": "b762",
@@ -6192,7 +6192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Baddhvā dṛḍhaṃ bandhanaiḥ",
-   "directed": "[slowly] ### Baddhvā dṛḍhaṃ bandhanaiḥ"
+   "directed": "[slowly] Baddhvā dṛḍhaṃ bandhanaiḥ"
   },
   {
    "id": "b774",
@@ -6312,7 +6312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Gurubhāravāhavidhaye",
-   "directed": "[slowly] ### Gurubhāravāhavidhaye"
+   "directed": "[slowly] Gurubhāravāhavidhaye"
   },
   {
    "id": "b789",
@@ -6424,7 +6424,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Yātānuyātān paśūn",
-   "directed": "[slowly] ### Yātānuyātān paśūn"
+   "directed": "[slowly] Yātānuyātān paśūn"
   },
   {
    "id": "b803",
@@ -6544,7 +6544,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tatpāśapravikartanāya",
-   "directed": "[slowly] ### Tatpāśapravikartanāya"
+   "directed": "[slowly] Tatpāśapravikartanāya"
   },
   {
    "id": "b818",
@@ -6648,7 +6648,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jñānatriśūlam",
-   "directed": "[slowly] ### Jñānatriśūlam"
+   "directed": "[slowly] Jñānatriśūlam"
   },
   {
    "id": "b831",
@@ -6976,7 +6976,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VII. Verse 17 - “I've Been Bullshitted by Gurus Who Couldn't Even Pronounce the Word ‘Reality.’”",
-   "directed": "[long pause] VII. Verse 17 - “I've Been Bullshitted by Gurus Who Couldn't Even Pronounce the Word ‘Reality.’”"
+   "directed": "[long pause] Seven. Verse 17 - “I've Been Bullshitted by Gurus Who Couldn't Even Pronounce the Word ‘Reality.’”"
   },
   {
    "id": "b872",
@@ -7024,7 +7024,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Literal translation:",
-   "directed": "Literal translation:"
+   "directed": "[short pause] Literal translation:"
   },
   {
    "id": "b878",
@@ -7368,7 +7368,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bhramitaḥ",
-   "directed": "[slowly] ### Bhramitaḥ"
+   "directed": "[slowly] Bhramitaḥ"
   },
   {
    "id": "b921",
@@ -7488,7 +7488,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tattvopadeśakaṃmanya",
-   "directed": "[slowly] ### Tattvopadeśakaṃmanya"
+   "directed": "[slowly] Tattvopadeśakaṃmanya"
   },
   {
    "id": "b936",
@@ -7664,7 +7664,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Rasanā",
-   "directed": "[slowly] ### Rasanā"
+   "directed": "[slowly] Rasanā"
   },
   {
    "id": "b958",
@@ -7728,7 +7728,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pasparśa",
-   "directed": "[slowly] ### Pasparśa"
+   "directed": "[slowly] Pasparśa"
   },
   {
    "id": "b966",
@@ -7992,7 +7992,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VIII. Verse 18 - Śiva Has Entered the Heart of the Guru, and Apparently Assigned Abhinavagupta an Extremely Difficult Job",
-   "directed": "[long pause] VIII. Verse 18 - Śiva Has Entered the Heart of the Guru, and Apparently Assigned Abhinavagupta an Extremely Difficult Job"
+   "directed": "[long pause] Eight. Verse 18 - Śiva Has Entered the Heart of the Guru, and Apparently Assigned Abhinavagupta an Extremely Difficult Job"
   },
   {
    "id": "b999",
@@ -8040,7 +8040,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My literal translation:",
-   "directed": "My literal translation:"
+   "directed": "[short pause] My literal translation:"
   },
   {
    "id": "b1005",
@@ -8152,7 +8152,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parameśvara - परमेश्वर",
-   "directed": "[slowly] ### Parameśvara - परमेश्वर"
+   "directed": "[slowly] Parameśvara - परमेश्वर"
   },
   {
    "id": "b1019",
@@ -8232,7 +8232,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prapanna - प्रपन्न",
-   "directed": "[slowly] ### Prapanna - प्रपन्न"
+   "directed": "[slowly] Prapanna - प्रपन्न"
   },
   {
    "id": "b1029",
@@ -8296,7 +8296,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Proddharaṇa - प्रोद्धरण",
-   "directed": "[slowly] ### Proddharaṇa - प्रोद्धरण"
+   "directed": "[slowly] Proddharaṇa - प्रोद्धरण"
   },
   {
    "id": "b1037",
@@ -8336,7 +8336,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kṛpā - कृपा",
-   "directed": "[slowly] ### Kṛpā - कृपा"
+   "directed": "[slowly] Kṛpā - कृपा"
   },
   {
    "id": "b1042",
@@ -8416,7 +8416,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prayukta - प्रयुक्त",
-   "directed": "[slowly] ### Prayukta - प्रयुक्त"
+   "directed": "[slowly] Prayukta - प्रयुक्त"
   },
   {
    "id": "b1052",
@@ -8472,7 +8472,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Guruhṛdaya - गुरुहृदय",
-   "directed": "[slowly] ### Guruhṛdaya - गुरुहृदय"
+   "directed": "[slowly] Guruhṛdaya - गुरुहृदय"
   },
   {
    "id": "b1059",
@@ -8560,7 +8560,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Niyuktavān",
-   "directed": "[slowly] ### Niyuktavān"
+   "directed": "[slowly] Niyuktavān"
   },
   {
    "id": "b1070",
@@ -8880,7 +8880,7 @@
    "type": "title",
    "voice": "granny",
    "text": "IX. Verse 19 - Somānanda's Teaching Enters the Heart",
-   "directed": "[long pause] IX. Verse 19 - Somānanda's Teaching Enters the Heart"
+   "directed": "[long pause] Nine. Verse 19 - Somānanda's Teaching Enters the Heart"
   },
   {
    "id": "b1110",
@@ -8928,7 +8928,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b1116",
@@ -9096,7 +9096,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tattattva - तत्तत्त्व",
-   "directed": "[slowly] ### Tattattva - तत्तत्त्व"
+   "directed": "[slowly] Tattattva - तत्तत्त्व"
   },
   {
    "id": "b1137",
@@ -9152,7 +9152,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirmalasthiti - निर्मलस्थिति",
-   "directed": "[slowly] ### Nirmalasthiti - निर्मलस्थिति"
+   "directed": "[slowly] Nirmalasthiti - निर्मलस्थिति"
   },
   {
    "id": "b1144",
@@ -9216,7 +9216,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vibhāgi - विभागि",
-   "directed": "[slowly] ### Vibhāgi - विभागि"
+   "directed": "[slowly] Vibhāgi - विभागि"
   },
   {
    "id": "b1152",
@@ -9384,7 +9384,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śrīsomānandamatam",
-   "directed": "[slowly] ### Śrīsomānandamatam"
+   "directed": "[slowly] Śrīsomānandamatam"
   },
   {
    "id": "b1173",
@@ -9456,7 +9456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vimṛśya",
-   "directed": "[slowly] ### Vimṛśya"
+   "directed": "[slowly] Vimṛśya"
   },
   {
    "id": "b1182",
@@ -9872,7 +9872,7 @@
    "type": "title",
    "voice": "granny",
    "text": "X. Verse 20 - The Goddesses Return, Carrying a Trident That Cuts Through Millions of Bonds",
-   "directed": "[long pause] X. Verse 20 - The Goddesses Return, Carrying a Trident That Cuts Through Millions of Bonds"
+   "directed": "[long pause] Ten. Verse 20 - The Goddesses Return, Carrying a Trident That Cuts Through Millions of Bonds"
   },
   {
    "id": "b1234",
@@ -9920,7 +9920,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b1240",
@@ -10136,7 +10136,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Haṃho - हंहो",
-   "directed": "[slowly] ### Haṃho - हंहो"
+   "directed": "[slowly] Haṃho - हंहो"
   },
   {
    "id": "b1267",
@@ -10224,7 +10224,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Hṛccakra - हृच्चक्र",
-   "directed": "[slowly] ### Hṛccakra - हृच्चक्र"
+   "directed": "[slowly] Hṛccakra - हृच्चक्र"
   },
   {
    "id": "b1278",
@@ -10320,7 +10320,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cāra - चार",
-   "directed": "[slowly] ### Cāra - चार"
+   "directed": "[slowly] Cāra - चार"
   },
   {
    "id": "b1290",
@@ -10344,7 +10344,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pravicaraṇa - प्रविचरण",
-   "directed": "[slowly] ### Pravicaraṇa - प्रविचरण"
+   "directed": "[slowly] Pravicaraṇa - प्रविचरण"
   },
   {
    "id": "b1293",
@@ -10384,7 +10384,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Lasat - लसत्",
-   "directed": "[slowly] ### Lasat - लसत्"
+   "directed": "[slowly] Lasat - लसत्"
   },
   {
    "id": "b1298",
@@ -10432,7 +10432,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirbhara - निर्भर",
-   "directed": "[slowly] ### Nirbhara - निर्भर"
+   "directed": "[slowly] Nirbhara - निर्भर"
   },
   {
    "id": "b1304",
@@ -10456,7 +10456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ānanda - आनन्द",
-   "directed": "[slowly] ### Ānanda - आनन्द"
+   "directed": "[slowly] Ānanda - आनन्द"
   },
   {
    "id": "b1307",
@@ -10504,7 +10504,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pūrṇāḥ - पूर्णाः",
-   "directed": "[slowly] ### Pūrṇāḥ - पूर्णाः"
+   "directed": "[slowly] Pūrṇāḥ - पूर्णाः"
   },
   {
    "id": "b1313",
@@ -10576,7 +10576,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Devyaḥ - देव्यः",
-   "directed": "[slowly] ### Devyaḥ - देव्यः"
+   "directed": "[slowly] Devyaḥ - देव्यः"
   },
   {
    "id": "b1322",
@@ -10632,7 +10632,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Asmatpāśakoṭi",
-   "directed": "[slowly] ### Asmatpāśakoṭi"
+   "directed": "[slowly] Asmatpāśakoṭi"
   },
   {
    "id": "b1329",
@@ -10744,7 +10744,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pravighaṭana - प्रविघटन",
-   "directed": "[slowly] ### Pravighaṭana - प्रविघटन"
+   "directed": "[slowly] Pravighaṭana - प्रविघटन"
   },
   {
    "id": "b1343",
@@ -10776,7 +10776,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Paṭu - पटु",
-   "directed": "[slowly] ### Paṭu - पटु"
+   "directed": "[slowly] Paṭu - पटु"
   },
   {
    "id": "b1347",
@@ -10832,7 +10832,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jñānaśūla - ज्ञानशूल",
-   "directed": "[slowly] ### Jñānaśūla - ज्ञानशूल"
+   "directed": "[slowly] Jñānaśūla - ज्ञानशूल"
   },
   {
    "id": "b1354",
@@ -10960,7 +10960,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cetovākkāyam",
-   "directed": "[slowly] ### Cetovākkāyam"
+   "directed": "[slowly] Cetovākkāyam"
   },
   {
    "id": "b1370",
@@ -11064,7 +11064,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Protam - प्रोतम्",
-   "directed": "[slowly] ### Protam - प्रोतम्"
+   "directed": "[slowly] Protam - प्रोतम्"
   },
   {
    "id": "b1383",
@@ -11136,7 +11136,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Yuṣmāsu - युष्मासु",
-   "directed": "[slowly] ### Yuṣmāsu - युष्मासु"
+   "directed": "[slowly] Yuṣmāsu - युष्मासु"
   },
   {
    "id": "b1392",
@@ -11192,7 +11192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Drāk - द्राक्",
-   "directed": "[slowly] ### Drāk - द्राक्"
+   "directed": "[slowly] Drāk - द्राक्"
   },
   {
    "id": "b1399",
@@ -11240,7 +11240,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prasāda - प्रसाद",
-   "directed": "[slowly] ### Prasāda - प्रसाद"
+   "directed": "[slowly] Prasāda - प्रसाद"
   },
   {
    "id": "b1405",
@@ -11280,7 +11280,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prasahya - प्रसह्य",
-   "directed": "[slowly] ### Prasahya - प्रसह्य"
+   "directed": "[slowly] Prasahya - प्रसह्य"
   },
   {
    "id": "b1410",
@@ -11390,7 +11390,7 @@
    "id": "b1423",
    "section": "X. Verse 20 - The Goddesses Return, Carrying a Trident That ",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "&#124; - ⏑ - &#124; - ⏑ ⏑ &#124; ⏑ ⏑ ⏑ &#124; ⏑ - - &#124; ⏑ - - &#124; ⏑ - -",
    "directed": "&#124; - ⏑ - &#124; - ⏑ ⏑ &#124; ⏑ ⏑ ⏑ &#124; ⏑ - - &#124; ⏑ - - &#124; ⏑ - -"
   },
@@ -11480,7 +11480,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XI. Verse 21 - “Dear Goddesses, Please Forgive My Mouth. It Has Been Running for Several Hundred Pages.”",
-   "directed": "[long pause] XI. Verse 21 - “Dear Goddesses, Please Forgive My Mouth. It Has Been Running for Several Hundred Pages.”"
+   "directed": "[long pause] Eleven. Verse 21 - “Dear Goddesses, Please Forgive My Mouth. It Has Been Running for Several Hundred Pages.”"
   },
   {
    "id": "b1435",
@@ -11536,7 +11536,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b1442",
@@ -11680,7 +11680,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vyākhyādikarma",
-   "directed": "[slowly] ### Vyākhyādikarma"
+   "directed": "[slowly] Vyākhyādikarma"
   },
   {
    "id": "b1460",
@@ -11744,7 +11744,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Paripāṭipada",
-   "directed": "[slowly] ### Paripāṭipada"
+   "directed": "[slowly] Paripāṭipada"
   },
   {
    "id": "b1468",
@@ -11816,7 +11816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Niyuktaḥ",
-   "directed": "[slowly] ### Niyuktaḥ"
+   "directed": "[slowly] Niyuktaḥ"
   },
   {
    "id": "b1477",
@@ -11880,7 +11880,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Gurubhāvam anupraviśya",
-   "directed": "[slowly] ### Gurubhāvam anupraviśya"
+   "directed": "[slowly] Gurubhāvam anupraviśya"
   },
   {
    "id": "b1485",
@@ -11976,7 +11976,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vākcittacāpalam",
-   "directed": "[slowly] ### Vākcittacāpalam"
+   "directed": "[slowly] Vākcittacāpalam"
   },
   {
    "id": "b1497",
@@ -12088,7 +12088,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tena - तेन",
-   "directed": "[slowly] ### Tena - तेन"
+   "directed": "[slowly] Tena - तेन"
   },
   {
    "id": "b1511",
@@ -12128,7 +12128,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Taccakracāracaturasthitayaḥ",
-   "directed": "[slowly] ### Taccakracāracaturasthitayaḥ"
+   "directed": "[slowly] Taccakracāracaturasthitayaḥ"
   },
   {
    "id": "b1516",
@@ -12232,7 +12232,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kṣamadhvam - क्षमध्वम्",
-   "directed": "[slowly] ### Kṣamadhvam - क्षमध्वम्"
+   "directed": "[slowly] Kṣamadhvam - क्षमध्वम्"
   },
   {
    "id": "b1529",
@@ -12366,7 +12366,7 @@
    "id": "b1545",
    "section": "XI. Verse 21 - “Dear Goddesses, Please Forgive My Mouth. It ",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "⏑ - ⏑ ⏑ ⏑ - ⏑ ⏑ - ⏑ - -",
    "directed": "⏑ - ⏑ ⏑ ⏑ - ⏑ ⏑ - ⏑ - -"
   },
@@ -12488,7 +12488,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XII. What comes after verse 21? The colophon, the mysterious extra stanza, and the nineteenth-century editor's own verses",
-   "directed": "[long pause] XII. What comes after verse 21? The colophon, the mysterious extra stanza, and the nineteenth-century editor's own verses"
+   "directed": "[long pause] Twelve. What comes after verse 21? The colophon, the mysterious extra stanza, and the nineteenth-century editor's own verses"
   },
   {
    "id": "b1561",
@@ -12680,7 +12680,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b1585",
@@ -12984,7 +12984,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Granthi - ग्रन्थि",
-   "directed": "[slowly] ### Granthi - ग्रन्थि"
+   "directed": "[slowly] Granthi - ग्रन्थि"
   },
   {
    "id": "b1623",
@@ -13080,7 +13080,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirdalayiṣyati",
-   "directed": "[slowly] ### Nirdalayiṣyati"
+   "directed": "[slowly] Nirdalayiṣyati"
   },
   {
    "id": "b1635",
@@ -13408,7 +13408,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XIII. The Grand Finale: What the Fuck Is Consciousness, and Why Did Abhinavagupta Spend Hundreds of Pages Explaining It?",
-   "directed": "[long pause] XIII. The Grand Finale: What the Fuck Is Consciousness, and Why Did Abhinavagupta Spend Hundreds of Pages Explaining It?"
+   "directed": "[long pause] Thirteen. The Grand Finale: What the Fuck Is Consciousness, and Why Did Abhinavagupta Spend Hundreds of Pages Explaining It?"
   },
   {
    "id": "b1676",
@@ -14480,7 +14480,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "And so the culminating statement of Part XXXIII was:",
-   "directed": "[short pause] And so the culminating statement of Part XXXIII was:"
+   "directed": "[short pause] And so the culminating statement of Part Thirty-Three was:"
   },
   {
    "id": "b1810",
@@ -14928,7 +14928,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "And this was the great surprise of Part XXXIII.",
-   "directed": "And this was the great surprise of Part XXXIII."
+   "directed": "And this was the great surprise of Part Thirty-Three."
   },
   {
    "id": "b1866",
@@ -15464,7 +15464,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XIV. The final practical question: What does recognition actually change?",
-   "directed": "[long pause] XIV. The final practical question: What does recognition actually change?"
+   "directed": "[long pause] Fourteen. The final practical question: What does recognition actually change?"
   },
   {
    "id": "b1933",
@@ -16400,7 +16400,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XV. The final word: The bee, the trident, and the goddesses",
-   "directed": "[long pause] XV. The final word: The bee, the trident, and the goddesses"
+   "directed": "[long pause] Fifteen. The final word: The bee, the trident, and the goddesses"
   },
   {
    "id": "b2050",
@@ -17328,7 +17328,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "End of Part XXXVI - the twenty-one authorial epilogue verses, the transmitted colophon, and the conclusion of our Parātrīśikāvivaraṇa audiobook.",
-   "directed": "End of Part XXXVI - the twenty-one authorial epilogue verses, the transmitted colophon, and the conclusion of our Parātrīśikāvivaraṇa audiobook."
+   "directed": "End of Part Thirty-Six - the twenty-one authorial epilogue verses, the transmitted colophon, and the conclusion of our Parātrīśikāvivaraṇa audiobook."
   },
   {
    "id": "b2166",
@@ -17336,7 +17336,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Final source-critical note: Sanskrit text follows comparison of Somadeva Vasudeva's GRETIL transcription and the digitised 1918 KSTS XVIII Devanāgarī edition. The concluding manuscript evidence is supplemented by the published catalogue discussion in Mrinal Kaul's 2022 study. The original 1918 facsimile and the relevant manuscript folios were not directly collated. Metrical difficulties, likely electronic errors, and uncertain authorial attributions have therefore been identified rather than presented as settled.",
-   "directed": "Final source-critical note: Sanskrit text follows comparison of Somadeva Vasudeva's GRETIL transcription and the digitised 1918 KSTS XVIII Devanāgarī edition. The concluding manuscript evidence is supplemented by the published catalogue discussion in Mrinal Kaul's 2022 study. The original 1918 facsimile and the relevant manuscript folios were not directly collated. Metrical difficulties, likely electronic errors, and uncertain authorial attributions have therefore been identified rather than presented as settled."
+   "directed": "Final source-critical note: Sanskrit text follows comparison of Somadeva Vasudeva's GRETIL transcription and the digitised 1918 KSTS Eighteen Devanāgarī edition. The concluding manuscript evidence is supplemented by the published catalogue discussion in Mrinal Kaul's 2022 study. The original 1918 facsimile and the relevant manuscript folios were not directly collated. Metrical difficulties, likely electronic errors, and uncertain authorial attributions have therefore been identified rather than presented as settled."
   },
   {
    "id": "b2167",

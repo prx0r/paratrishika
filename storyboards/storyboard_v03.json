@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART III - The Heart of Bhairava, the Secret of Kaulika Siddhi, and the Goddess Who Rules Your Mind",
-   "directed": "PART III - The Heart of Bhairava, the Secret of Kaulika Siddhi, and the Goddess Who Rules Your Mind"
+   "directed": "The Heart of Bhairava, the Secret of Kaulika Siddhi, and the Goddess Who Rules Your Mind"
   },
   {
    "id": "b3",
@@ -320,7 +320,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "शुक्ल - śukla: white.\nशुक्लतर - śuklatara: whiter.\nशुक्लतम - śuklatama: whitest.",
-   "directed": "[slowly] - शुक्ल - śukla: white.\nशुक्लतर - śuklatara: whiter.\nशुक्लतम - śuklatama: whitest."
+   "directed": "[slowly] शुक्ल - śukla: white.\nशुक्लतर - śuklatara: whiter.\nशुक्लतम - śuklatama: whitest."
   },
   {
    "id": "b40",
@@ -656,7 +656,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "So we arrive at the conclusion of Part II:",
-   "directed": "[short pause] So we arrive at the conclusion of Part II:"
+   "directed": "[short pause] So we arrive at the conclusion of Part Two:"
   },
   {
    "id": "b82",
@@ -704,7 +704,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "ATTESTED SANSKRIT - TRIKASĀRAŚĀSTRA, QUOTED BY ABHINAVAGUPTA",
-   "directed": "ATTESTED SANSKRIT - TRIKASĀRAŚĀSTRA, QUOTED BY ABHINAVAGUPTA"
+   "directed": "Attested Sanskrit - Trikasāraśāstra, Quoted By Abhinavagupta"
   },
   {
    "id": "b88",
@@ -816,7 +816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Hṛdaya - हृदय",
-   "directed": "[slowly] ### Hṛdaya - हृदय"
+   "directed": "[slowly] Hṛdaya - हृदय"
   },
   {
    "id": "b102",
@@ -880,7 +880,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "hṛ = हृ\nhri = ह्रि",
-   "directed": "[slowly] - hṛ = हृ\nhri = ह्रि"
+   "directed": "[slowly] hṛ = हृ\nhri = ह्रि"
   },
   {
    "id": "b110",
@@ -976,7 +976,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Granthi - ग्रन्थि",
-   "directed": "[slowly] ### Granthi - ग्रन्थि"
+   "directed": "[slowly] Granthi - ग्रन्थि"
   },
   {
    "id": "b122",
@@ -1104,7 +1104,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jñātvā - ज्ञात्वा",
-   "directed": "[slowly] ### Jñātvā - ज्ञात्वा"
+   "directed": "[slowly] Jñātvā - ज्ञात्वा"
   },
   {
    "id": "b138",
@@ -1224,7 +1224,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kuryāt - कुर्यात्",
-   "directed": "[slowly] ### Kuryāt - कुर्यात्"
+   "directed": "[slowly] Kuryāt - कुर्यात्"
   },
   {
    "id": "b153",
@@ -1472,7 +1472,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "MY BROTHER.",
-   "directed": "MY BROTHER."
+   "directed": "My Brother."
   },
   {
    "id": "b184",
@@ -1480,7 +1480,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "LOOK THROUGH THEM.",
-   "directed": "LOOK THROUGH THEM."
+   "directed": "Look Through Them."
   },
   {
    "id": "b185",
@@ -3248,7 +3248,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: बोधस्वातन्त्र्य",
-   "directed": "[slowly] ### The Sanskrit: बोधस्वातन्त्र्य"
+   "directed": "[slowly] The Sanskrit: बोधस्वातन्त्र्य"
   },
   {
    "id": "b406",
@@ -6198,7 +6198,7 @@
    "id": "b774",
    "section": "10. The fourth Kaulika Siddhi - Manifestation itself is an a",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -8720,7 +8720,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vaiṣamya - विषम्य / वैषम्य",
-   "directed": "[slowly] ### Vaiṣamya - विषम्य / वैषम्य"
+   "directed": "[slowly] Vaiṣamya - विषम्य / वैषम्य"
   },
   {
    "id": "b1090",
@@ -10214,7 +10214,7 @@
    "id": "b1276",
    "section": "16. The terrifying and liberating Goddesses of thought",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -11096,7 +11096,7 @@
    "type": "title",
    "voice": "granny",
    "text": "Your Sanskrit practice for Part III",
-   "directed": "[long pause] Your Sanskrit practice for Part III"
+   "directed": "[long pause] Your Sanskrit practice for Part Three"
   },
   {
    "id": "b1387",
@@ -11302,7 +11302,7 @@
    "id": "b1412",
    "section": "Where we are in the actual text",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "[Continue reading - Part IV: Kaulinī, Mistress of the Heart]",
    "directed": "[Continue reading - Part IV: Kaulinī, Mistress of the Heart]"
   },

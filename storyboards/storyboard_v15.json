@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART XV - The One Power That Knows, Wills, and Acts",
-   "directed": "PART XV - The One Power That Knows, Wills, and Acts"
+   "directed": "The One Power That Knows, Wills, and Acts"
   },
   {
    "id": "b3",
@@ -448,7 +448,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṃkhyātaḥ - सङ्ख्यातः",
-   "directed": "[slowly] ### Saṃkhyātaḥ - सङ्ख्यातः"
+   "directed": "[slowly] Saṃkhyātaḥ - सङ्ख्यातः"
   },
   {
    "id": "b56",
@@ -696,7 +696,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "SOMĀNANDA'S ŚIVADṚṢṬI, FIRST ĀHNIKA · QUOTED BY ABHINAVAGUPTA",
-   "directed": "SOMĀNANDA'S ŚIVADṚṢṬI, FIRST ĀHNIKA · QUOTED BY ABHINAVAGUPTA"
+   "directed": "Somānanda's Śivadṛṣṭi, First Āhnika, Quoted By Abhinavagupta"
   },
   {
    "id": "b87",
@@ -816,7 +816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saḥ - सः",
-   "directed": "[slowly] ### Saḥ - सः"
+   "directed": "[slowly] Saḥ - सः"
   },
   {
    "id": "b102",
@@ -848,7 +848,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Yadā - यदा",
-   "directed": "[slowly] ### Yadā - यदा"
+   "directed": "[slowly] Yadā - यदा"
   },
   {
    "id": "b106",
@@ -912,7 +912,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Āste - आस्ते",
-   "directed": "[slowly] ### Āste - आस्ते"
+   "directed": "[slowly] Āste - आस्ते"
   },
   {
    "id": "b114",
@@ -1008,7 +1008,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cidāhlāda - चिदाह्लाद",
-   "directed": "[slowly] ### Cidāhlāda - चिदाह्लाद"
+   "directed": "[slowly] Cidāhlāda - चिदाह्लाद"
   },
   {
    "id": "b126",
@@ -1096,7 +1096,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mātra - मात्र",
-   "directed": "[slowly] ### Mātra - मात्र"
+   "directed": "[slowly] Mātra - मात्र"
   },
   {
    "id": "b137",
@@ -1136,7 +1136,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Anubhava - अनुभव",
-   "directed": "[slowly] ### Anubhava - अनुभव"
+   "directed": "[slowly] Anubhava - अनुभव"
   },
   {
    "id": "b142",
@@ -1456,7 +1456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śaktitritaya - शक्तित्रितय",
-   "directed": "[slowly] ### Śaktitritaya - शक्तित्रितय"
+   "directed": "[slowly] Śaktitritaya - शक्तित्रितय"
   },
   {
    "id": "b182",
@@ -1520,7 +1520,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sāmarasya - सामरस्य",
-   "directed": "[slowly] ### Sāmarasya - सामरस्य"
+   "directed": "[slowly] Sāmarasya - सामरस्य"
   },
   {
    "id": "b190",
@@ -2016,7 +2016,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ghaṭādigrahakāle",
-   "directed": "[slowly] ### Ghaṭādigrahakāle"
+   "directed": "[slowly] Ghaṭādigrahakāle"
   },
   {
    "id": "b252",
@@ -2200,7 +2200,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jānāti - जानाति",
-   "directed": "[slowly] ### Jānāti - जानाति"
+   "directed": "[slowly] Jānāti - जानाति"
   },
   {
    "id": "b275",
@@ -2296,7 +2296,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sā kriyā - सा क्रिया",
-   "directed": "[slowly] ### Sā kriyā - सा क्रिया"
+   "directed": "[slowly] Sā kriyā - सा क्रिया"
   },
   {
    "id": "b287",
@@ -2576,7 +2576,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Niriccha - निरिच्छ",
-   "directed": "[slowly] ### Niriccha - निरिच्छ"
+   "directed": "[slowly] Niriccha - निरिच्छ"
   },
   {
    "id": "b322",
@@ -2688,7 +2688,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vedana - वेदन",
-   "directed": "[slowly] ### Vedana - वेदन"
+   "directed": "[slowly] Vedana - वेदन"
   },
   {
    "id": "b336",
@@ -2744,7 +2744,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kṣati - क्षति",
-   "directed": "[slowly] ### Kṣati - क्षति"
+   "directed": "[slowly] Kṣati - क्षति"
   },
   {
    "id": "b343",
@@ -3364,7 +3364,7 @@
   },
   {
    "id": "b420",
-   "section": "7. औन्मुख्य - The first tiny leaning of consciousness",
+   "section": "औन्मुख्य",
    "type": "verse",
    "voice": "verse",
    "text": "7. औन्मुख्य - The first tiny leaning of consciousness",
@@ -3992,7 +3992,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pūrvāparau - पूर्वापरौ",
-   "directed": "[slowly] ### Pūrvāparau - पूर्वापरौ"
+   "directed": "[slowly] Pūrvāparau - पूर्वापरौ"
   },
   {
    "id": "b499",
@@ -4096,7 +4096,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bhāgau - भागौ",
-   "directed": "[slowly] ### Bhāgau - भागौ"
+   "directed": "[slowly] Bhāgau - भागौ"
   },
   {
    "id": "b512",
@@ -4184,7 +4184,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kalpanīyau - कल्पनीयौ",
-   "directed": "[slowly] ### Kalpanīyau - कल्पनीयौ"
+   "directed": "[slowly] Kalpanīyau - कल्पनीयौ"
   },
   {
    "id": "b523",
@@ -4712,7 +4712,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nistaraṅga - निस्तरङ्ग",
-   "directed": "[slowly] ### Nistaraṅga - निस्तरङ्ग"
+   "directed": "[slowly] Nistaraṅga - निस्तरङ्ग"
   },
   {
    "id": "b589",
@@ -4824,7 +4824,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jalasya - जलस्य",
-   "directed": "[slowly] ### Jalasya - जलस्य"
+   "directed": "[slowly] Jalasya - जलस्य"
   },
   {
    "id": "b603",
@@ -4904,7 +4904,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Taraṅgita - तरङ्गित",
-   "directed": "[slowly] ### Taraṅgita - तरङ्गित"
+   "directed": "[slowly] Taraṅgita - तरङ्गित"
   },
   {
    "id": "b613",
@@ -4968,7 +4968,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ārambha - आरम्भ",
-   "directed": "[slowly] ### Ārambha - आरम्भ"
+   "directed": "[slowly] Ārambha - आरम्भ"
   },
   {
    "id": "b621",
@@ -5312,7 +5312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pāṇi - पाणि",
-   "directed": "[slowly] ### Pāṇi - पाणि"
+   "directed": "[slowly] Pāṇi - पाणि"
   },
   {
    "id": "b664",
@@ -5368,7 +5368,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Muṣṭi - मुष्टि",
-   "directed": "[slowly] ### Muṣṭi - मुष्टि"
+   "directed": "[slowly] Muṣṭi - मुष्टि"
   },
   {
    "id": "b671",
@@ -5440,7 +5440,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vrajataḥ - व्रजतः",
-   "directed": "[slowly] ### Vrajataḥ - व्रजतः"
+   "directed": "[slowly] Vrajataḥ - व्रजतः"
   },
   {
    "id": "b680",
@@ -5472,7 +5472,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kampa - कम्प",
-   "directed": "[slowly] ### Kampa - कम्प"
+   "directed": "[slowly] Kampa - कम्प"
   },
   {
    "id": "b684",
@@ -5792,7 +5792,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kiñcit - किञ्चित्",
-   "directed": "[slowly] ### Kiñcit - किञ्चित्"
+   "directed": "[slowly] Kiñcit - किञ्चित्"
   },
   {
    "id": "b724",
@@ -5816,7 +5816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ucchūna - उच्छून",
-   "directed": "[slowly] ### Ucchūna - उच्छून"
+   "directed": "[slowly] Ucchūna - उच्छून"
   },
   {
    "id": "b727",
@@ -6160,7 +6160,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sthūla - स्थूल",
-   "directed": "[slowly] ### Sthūla - स्थूल"
+   "directed": "[slowly] Sthūla - स्थूल"
   },
   {
    "id": "b770",
@@ -6184,7 +6184,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sthūlatva - स्थूलत्व",
-   "directed": "[slowly] ### Sthūlatva - स्थूलत्व"
+   "directed": "[slowly] Sthūlatva - स्थूलत्व"
   },
   {
    "id": "b773",
@@ -6216,7 +6216,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bhāj - भाज् / Bhāk - भाक्",
-   "directed": "[slowly] ### Bhāj - भाज् / Bhāk - भाक्"
+   "directed": "[slowly] Bhāj - भाज् / Bhāk - भाक्"
   },
   {
    "id": "b777",
@@ -6264,7 +6264,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kvacit - क्वचित्",
-   "directed": "[slowly] ### Kvacit - क्वचित्"
+   "directed": "[slowly] Kvacit - क्वचित्"
   },
   {
    "id": "b783",
@@ -6656,7 +6656,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sa eṣa - स एष",
-   "directed": "[slowly] ### Sa eṣa - स एष"
+   "directed": "[slowly] Sa eṣa - स एष"
   },
   {
    "id": "b832",
@@ -6736,7 +6736,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parameśvaraḥ - परमेश्वरः",
-   "directed": "[slowly] ### Parameśvaraḥ - परमेश्वरः"
+   "directed": "[slowly] Parameśvaraḥ - परमेश्वरः"
   },
   {
    "id": "b842",
@@ -6832,7 +6832,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Visṛjati - विसृजति",
-   "directed": "[slowly] ### Visṛjati - विसृजति"
+   "directed": "[slowly] Visṛjati - विसृजति"
   },
   {
    "id": "b854",
@@ -6920,7 +6920,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Viśvam - विश्वम्",
-   "directed": "[slowly] ### Viśvam - विश्वम्"
+   "directed": "[slowly] Viśvam - विश्वम्"
   },
   {
    "id": "b865",
@@ -7192,7 +7192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Dharā - धरा",
-   "directed": "[slowly] ### Dharā - धरा"
+   "directed": "[slowly] Dharā - धरा"
   },
   {
    "id": "b899",
@@ -7296,7 +7296,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śakti - शक्ति",
-   "directed": "[slowly] ### Śakti - शक्ति"
+   "directed": "[slowly] Śakti - शक्ति"
   },
   {
    "id": "b912",
@@ -7416,7 +7416,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kādi - कादि",
-   "directed": "[slowly] ### Kādi - कादि"
+   "directed": "[slowly] Kādi - कादि"
   },
   {
    "id": "b927",
@@ -7480,7 +7480,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kṣānta - क्षान्त",
-   "directed": "[slowly] ### Kṣānta - क्षान्त"
+   "directed": "[slowly] Kṣānta - क्षान्त"
   },
   {
    "id": "b935",
@@ -7584,7 +7584,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kādi-kṣānta - कादिक्षान्त",
-   "directed": "[slowly] ### Kādi-kṣānta - कादिक्षान्त"
+   "directed": "[slowly] Kādi-kṣānta - कादिक्षान्त"
   },
   {
    "id": "b948",
@@ -7976,7 +7976,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṣoḍaśa - षोडश",
-   "directed": "[slowly] ### Ṣoḍaśa - षोडश"
+   "directed": "[slowly] Ṣoḍaśa - षोडश"
   },
   {
    "id": "b997",
@@ -8128,7 +8128,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kalā - कला",
-   "directed": "[slowly] ### Kalā - कला"
+   "directed": "[slowly] Kalā - कला"
   },
   {
    "id": "b1016",
@@ -8192,7 +8192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Visargaśakti - विसर्गशक्ति",
-   "directed": "[slowly] ### Visargaśakti - विसर्गशक्ति"
+   "directed": "[slowly] Visargaśakti - विसर्गशक्ति"
   },
   {
    "id": "b1024",
@@ -8864,7 +8864,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Paramānanda - परमानन्द",
-   "directed": "[slowly] ### Paramānanda - परमानन्द"
+   "directed": "[slowly] Paramānanda - परमानन्द"
   },
   {
    "id": "b1108",
@@ -9152,7 +9152,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ghana - घन",
-   "directed": "[slowly] ### Ghana - घन"
+   "directed": "[slowly] Ghana - घन"
   },
   {
    "id": "b1144",
@@ -9192,7 +9192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ghanatā - घनता",
-   "directed": "[slowly] ### Ghanatā - घनता"
+   "directed": "[slowly] Ghanatā - घनता"
   },
   {
    "id": "b1149",
@@ -9240,7 +9240,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Āpatti - आपत्ति",
-   "directed": "[slowly] ### Āpatti - आपत्ति"
+   "directed": "[slowly] Āpatti - आपत्ति"
   },
   {
    "id": "b1155",
@@ -9328,7 +9328,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Yonirūpatā - योनिरूपता",
-   "directed": "[slowly] ### Yonirūpatā - योनिरूपता"
+   "directed": "[slowly] Yonirūpatā - योनिरूपता"
   },
   {
    "id": "b1166",
@@ -9784,7 +9784,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Visarga - विसर्ग",
-   "directed": "[slowly] ### Visarga - विसर्ग"
+   "directed": "[slowly] Visarga - विसर्ग"
   },
   {
    "id": "b1223",
@@ -9840,7 +9840,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mahādevi - महादेवि",
-   "directed": "[slowly] ### Mahādevi - महादेवि"
+   "directed": "[slowly] Mahādevi - महादेवि"
   },
   {
    "id": "b1230",
@@ -9928,7 +9928,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Viśrānti - विश्रान्ति",
-   "directed": "[slowly] ### Viśrānti - विश्रान्ति"
+   "directed": "[slowly] Viśrānti - विश्रान्ति"
   },
   {
    "id": "b1241",
@@ -9984,7 +9984,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṛcchati - ऋच्छति",
-   "directed": "[slowly] ### Ṛcchati - ऋच्छति"
+   "directed": "[slowly] Ṛcchati - ऋच्छति"
   },
   {
    "id": "b1248",
@@ -10072,7 +10072,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Guruvaktra - गुरुवक्त्र",
-   "directed": "[slowly] ### Guruvaktra - गुरुवक्त्र"
+   "directed": "[slowly] Guruvaktra - गुरुवक्त्र"
   },
   {
    "id": "b1259",
@@ -10152,7 +10152,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śakticakra - शक्तिचक्र",
-   "directed": "[slowly] ### Śakticakra - शक्तिचक्र"
+   "directed": "[slowly] Śakticakra - शक्तिचक्र"
   },
   {
    "id": "b1269",
@@ -11472,7 +11472,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ya - य",
-   "directed": "[slowly] ### Ya - य"
+   "directed": "[slowly] Ya - य"
   },
   {
    "id": "b1434",
@@ -11584,7 +11584,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śa - श",
-   "directed": "[slowly] ### Śa - श"
+   "directed": "[slowly] Śa - श"
   },
   {
    "id": "b1448",
@@ -11672,7 +11672,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ra - र",
-   "directed": "[slowly] ### Ra - र"
+   "directed": "[slowly] Ra - र"
   },
   {
    "id": "b1459",
@@ -11760,7 +11760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṣa - ष",
-   "directed": "[slowly] ### Ṣa - ष"
+   "directed": "[slowly] Ṣa - ष"
   },
   {
    "id": "b1470",
@@ -11856,7 +11856,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "La - ल",
-   "directed": "[slowly] ### La - ल"
+   "directed": "[slowly] La - ल"
   },
   {
    "id": "b1482",
@@ -11912,7 +11912,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sa - स",
-   "directed": "[slowly] ### Sa - स"
+   "directed": "[slowly] Sa - स"
   },
   {
    "id": "b1489",
@@ -11960,7 +11960,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Va - व",
-   "directed": "[slowly] ### Va - व"
+   "directed": "[slowly] Va - व"
   },
   {
    "id": "b1495",
@@ -12216,7 +12216,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Amūrta - अमूर्त",
-   "directed": "[slowly] ### Amūrta - अमूर्त"
+   "directed": "[slowly] Amūrta - अमूर्त"
   },
   {
    "id": "b1527",
@@ -12328,7 +12328,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cinmātra - चिन्मात्र",
-   "directed": "[slowly] ### Cinmātra - चिन्मात्र"
+   "directed": "[slowly] Cinmātra - चिन्मात्र"
   },
   {
    "id": "b1541",
@@ -12424,7 +12424,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kriyāśaktirūpatā - क्रियाशक्तिरूपता",
-   "directed": "[slowly] ### Kriyāśaktirūpatā - क्रियाशक्तिरूपता"
+   "directed": "[slowly] Kriyāśaktirūpatā - क्रियाशक्तिरूपता"
   },
   {
    "id": "b1553",
@@ -12752,7 +12752,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pañca - पञ्च",
-   "directed": "[slowly] ### Pañca - पञ्च"
+   "directed": "[slowly] Pañca - पञ्च"
   },
   {
    "id": "b1594",
@@ -12768,7 +12768,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṣaṭ - षट्",
-   "directed": "[slowly] ### Ṣaṭ - षट्"
+   "directed": "[slowly] Ṣaṭ - षट्"
   },
   {
    "id": "b1596",
@@ -12808,7 +12808,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Guṇita - गुणित",
-   "directed": "[slowly] ### Guṇita - गुणित"
+   "directed": "[slowly] Guṇita - गुणित"
   },
   {
    "id": "b1601",
@@ -12952,7 +12952,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Triṃśat - त्रिंशत्",
-   "directed": "[slowly] ### Triṃśat - त्रिंशत्"
+   "directed": "[slowly] Triṃśat - त्रिंशत्"
   },
   {
    "id": "b1619",
@@ -12968,7 +12968,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṣaḍbhiḥ - षड्भिः",
-   "directed": "[slowly] ### Ṣaḍbhiḥ - षड्भिः"
+   "directed": "[slowly] Ṣaḍbhiḥ - षड्भिः"
   },
   {
    "id": "b1621",
@@ -13016,7 +13016,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ṣaṭtriṃśat - षट्त्रिंशत्",
-   "directed": "[slowly] ### Ṣaṭtriṃśat - षट्त्रिंशत्"
+   "directed": "[slowly] Ṣaṭtriṃśat - षट्त्रिंशत्"
   },
   {
    "id": "b1627",
@@ -13464,7 +13464,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "And that's where Part XVI begins.",
-   "directed": "And that's where Part XVI begins."
+   "directed": "And that's where Part Sixteen begins."
   },
   {
    "id": "b1683",
@@ -13528,7 +13528,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Icchati - इच्छति",
-   "directed": "[slowly] ### Icchati - इच्छति"
+   "directed": "[slowly] Icchati - इच्छति"
   },
   {
    "id": "b1691",
@@ -13552,7 +13552,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jñātum - ज्ञातुम्",
-   "directed": "[slowly] ### Jñātum - ज्ञातुम्"
+   "directed": "[slowly] Jñātum - ज्ञातुम्"
   },
   {
    "id": "b1694",
@@ -13592,7 +13592,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kartum - कर्तुम्",
-   "directed": "[slowly] ### Kartum - कर्तुम्"
+   "directed": "[slowly] Kartum - कर्तुम्"
   },
   {
    "id": "b1699",
@@ -13784,7 +13784,7 @@
    "type": "title",
    "voice": "granny",
    "text": "25. The Sanskrit laboratory - Part XV",
-   "directed": "[long pause] 25. The Sanskrit laboratory - Part XV"
+   "directed": "[long pause] 25. The Sanskrit laboratory - Part Fifteen"
   },
   {
    "id": "b1723",
@@ -14184,7 +14184,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "That is Part XVI.",
-   "directed": "That is Part XVI."
+   "directed": "That is Part Sixteen."
   },
   {
    "id": "b1773",
@@ -14452,8 +14452,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [7. औन्मुख्य - The first tiny leaning of ]: no granny block"
-  ]
+  "warnings": []
  }
 }

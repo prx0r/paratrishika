@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART VI - The Alphabet of the Universe",
-   "directed": "PART VI - The Alphabet of the Universe"
+   "directed": "The Alphabet of the Universe"
   },
   {
    "id": "b3",
@@ -212,7 +212,7 @@
   },
   {
    "id": "b26",
-   "section": "अथाद्यास्तिथयः सर्वे स्वरा बिन्द्ववसानगाः।",
+   "section": "तदन्तः कालयोगेन सोमसूर्यौ प्रकीर्तितौ॥५॥",
    "type": "verse",
    "voice": "verse",
    "text": "अथाद्यास्तिथयः सर्वे स्वरा बिन्द्ववसानगाः।",
@@ -252,7 +252,7 @@
   },
   {
    "id": "b31",
-   "section": "पृथिव्यादीनि तत्त्वानि पुरुषान्तानि पञ्चसु।",
+   "section": "क्रमात्कादिषु वर्गेषु मकारान्तेषु सुव्रते॥६॥",
    "type": "verse",
    "voice": "verse",
    "text": "पृथिव्यादीनि तत्त्वानि पुरुषान्तानि पञ्चसु।",
@@ -292,7 +292,7 @@
   },
   {
    "id": "b36",
-   "section": "वाय्वग्निसलिलेन्द्राणां धारणानां चतुष्टयम्।",
+   "section": "क्रमात्कादिषु वर्गेषु मकारान्तेषु सुव्रते॥६॥",
    "type": "verse",
    "voice": "verse",
    "text": "वाय्वग्निसलिलेन्द्राणां धारणानां चतुष्टयम्।",
@@ -300,7 +300,7 @@
   },
   {
    "id": "b37",
-   "section": "तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मपञ्चकम्॥७॥",
+   "section": "सर्वेषामेव मन्त्राणां विद्यानां च यशस्विनि॥८॥",
    "type": "verse",
    "voice": "verse",
    "text": "तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मपञ्चकम्॥७॥",
@@ -308,7 +308,7 @@
   },
   {
    "id": "b38",
-   "section": "तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मपञ्चकम्॥७॥",
+   "section": "सर्वेषामेव मन्त्राणां विद्यानां च यशस्विनि॥८॥",
    "type": "verse",
    "voice": "verse",
    "text": "Vāyvagnisalilendrāṇāṃ dhāraṇānāṃ catuṣṭayam.",
@@ -316,7 +316,7 @@
   },
   {
    "id": "b39",
-   "section": "तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मपञ्चकम्॥७॥",
+   "section": "सर्वेषामेव मन्त्राणां विद्यानां च यशस्विनि॥८॥",
    "type": "verse",
    "voice": "verse",
    "text": "Tadūrdhvaṃ śādi vikhyātaṃ purastād brahmapañcakam.",
@@ -324,7 +324,7 @@
   },
   {
    "id": "b40",
-   "section": "तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मपञ्चकम्॥७॥",
+   "section": "सर्वेषामेव मन्त्राणां विद्यानां च यशस्विनि॥८॥",
    "type": "figure",
    "voice": "none",
    "text": "VERSE 8",
@@ -332,7 +332,7 @@
   },
   {
    "id": "b41",
-   "section": "अमूला तत्क्रमाज्ज्ञेया क्षान्ता सृष्टिरुदाहृता।",
+   "section": "सर्वेषामेव मन्त्राणां विद्यानां च यशस्विनि॥८॥",
    "type": "verse",
    "voice": "verse",
    "text": "अमूला तत्क्रमाज्ज्ञेया क्षान्ता सृष्टिरुदाहृता।",
@@ -1484,7 +1484,7 @@
   },
   {
    "id": "b185",
-   "section": "अं",
+   "section": "ं",
    "type": "verse",
    "voice": "verse",
    "text": "अं",
@@ -1492,7 +1492,7 @@
   },
   {
    "id": "b186",
-   "section": "अं",
+   "section": "ं",
    "type": "verse",
    "voice": "verse",
    "text": "aṃ",
@@ -1744,7 +1744,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sūrya",
-   "directed": "[slowly] ### Sūrya"
+   "directed": "[slowly] Sūrya"
   },
   {
    "id": "b218",
@@ -1920,7 +1920,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kālayogena",
-   "directed": "[slowly] ### Kālayogena"
+   "directed": "[slowly] Kālayogena"
   },
   {
    "id": "b240",
@@ -2080,7 +2080,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prakīrtitau",
-   "directed": "[slowly] ### Prakīrtitau"
+   "directed": "[slowly] Prakīrtitau"
   },
   {
    "id": "b260",
@@ -2344,7 +2344,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pṛthivī",
-   "directed": "[slowly] ### Pṛthivī"
+   "directed": "[slowly] Pṛthivī"
   },
   {
    "id": "b293",
@@ -2448,7 +2448,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tattvāni",
-   "directed": "[slowly] ### Tattvāni"
+   "directed": "[slowly] Tattvāni"
   },
   {
    "id": "b306",
@@ -2584,7 +2584,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Puruṣāntāni",
-   "directed": "[slowly] ### Puruṣāntāni"
+   "directed": "[slowly] Puruṣāntāni"
   },
   {
    "id": "b323",
@@ -3624,7 +3624,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Catuṣṭayam",
-   "directed": "[slowly] ### Catuṣṭayam"
+   "directed": "[slowly] Catuṣṭayam"
   },
   {
    "id": "b453",
@@ -3728,7 +3728,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Dhāraṇā",
-   "directed": "[slowly] ### Dhāraṇā"
+   "directed": "[slowly] Dhāraṇā"
   },
   {
    "id": "b466",
@@ -4262,7 +4262,7 @@
    "id": "b532",
    "section": "8. Verse seven - Four dhāraṇās, four semivowels, and the mec",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -4376,7 +4376,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Brahmapañcakam",
-   "directed": "[slowly] ### Brahmapañcakam"
+   "directed": "[slowly] Brahmapañcakam"
   },
   {
    "id": "b547",
@@ -4536,7 +4536,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vijñānākala",
-   "directed": "[slowly] ### Vijñānākala"
+   "directed": "[slowly] Vijñānākala"
   },
   {
    "id": "b567",
@@ -5120,7 +5120,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Kṣāntā",
-   "directed": "[slowly] ### Kṣāntā"
+   "directed": "[slowly] Kṣāntā"
   },
   {
    "id": "b640",
@@ -5312,7 +5312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sṛṣṭi",
-   "directed": "[slowly] ### Sṛṣṭi"
+   "directed": "[slowly] Sṛṣṭi"
   },
   {
    "id": "b664",
@@ -5790,7 +5790,7 @@
    "id": "b723",
    "section": "10. अमूला - Amūlā: Creation begins with A, yet has no ultima",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -6296,7 +6296,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parā Vāk - परा वाक्",
-   "directed": "[slowly] ### Parā Vāk - परा वाक्"
+   "directed": "[slowly] Parā Vāk - परा वाक्"
   },
   {
    "id": "b787",
@@ -7366,7 +7366,7 @@
    "id": "b920",
    "section": "13. प्रतिभा - Pratibhā: The first flash before the mind star",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ; ]",
    "directed": "; ; ]"
   },
@@ -8350,7 +8350,7 @@
    "id": "b1043",
    "section": "15. The three Malas return - Why the infinite looks finite",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -8864,7 +8864,7 @@
    "type": "title",
    "voice": "granny",
    "text": "Sanskrit to remember from Part VI",
-   "directed": "[long pause] Sanskrit to remember from Part VI"
+   "directed": "[long pause] Sanskrit to remember from Part Six"
   },
   {
    "id": "b1108",
@@ -8964,7 +8964,7 @@
   },
   {
    "id": "b1120",
-   "section": "पृथिवी + आदि → पृथिव्यादि",
+   "section": "The final insight - The universe is a sentence the Absolute ",
    "type": "verse",
    "voice": "verse",
    "text": "पृथिवी + आदि → पृथिव्यादि",
@@ -8972,7 +8972,7 @@
   },
   {
    "id": "b1121",
-   "section": "पृथिवी + आदि → पृथिव्यादि",
+   "section": "The final insight - The universe is a sentence the Absolute ",
    "type": "verse",
    "voice": "verse",
    "text": "pṛthivī + ādi → pṛthivyādi",
@@ -9304,13 +9304,13 @@
    "type": "narration",
    "voice": "granny",
    "text": "Part VII will resume at the next movement of Abhinavagupta's commentary, where he questions the order of the tattvas in this phonemic scheme and compares it against the arrangements used in the Mālinīvijayottara, Svacchanda and other Śaiva scriptures.",
-   "directed": "Part VII will resume at the next movement of Abhinavagupta's commentary, where he questions the order of the tattvas in this phonemic scheme and compares it against the arrangements used in the Mālinīvijayottara, Svacchanda and other Śaiva scriptures."
+   "directed": "Part Seven will resume at the next movement of Abhinavagupta's commentary, where he questions the order of the tattvas in this phonemic scheme and compares it against the arrangements used in the Mālinīvijayottara, Svacchanda and other Śaiva scriptures."
   },
   {
    "id": "b1163",
    "section": "The final insight - The universe is a sentence the Absolute ",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "Textual references: (pp. 97-123 and later passages); ; .",
    "directed": "Textual references: (pp. 97-123 and later passages); ; ."
   }
@@ -9332,14 +9332,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [अथाद्यास्तिथयः सर्वे स्वरा बिन्द्ववसानगा]: no granny block",
-   "section [पृथिव्यादीनि तत्त्वानि पुरुषान्तानि पञ्च]: no granny block",
-   "section [वाय्वग्निसलिलेन्द्राणां धारणानां चतुष्टय]: no granny block",
-   "section [तदूर्ध्वं शादि विख्यातं पुरस्ताद्ब्रह्मप]: no granny block",
-   "section [अमूला तत्क्रमाज्ज्ञेया क्षान्ता सृष्टिरु]: no granny block",
-   "section [अं]: no granny block",
-   "section [पृथिवी + आदि → पृथिव्यादि]: no granny block"
-  ]
+  "warnings": []
  }
 }

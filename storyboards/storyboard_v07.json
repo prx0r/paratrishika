@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART VII - Mālinī and the Great Alphabet Dispute",
-   "directed": "PART VII - Mālinī and the Great Alphabet Dispute"
+   "directed": "Mālinī and the Great Alphabet Dispute"
   },
   {
    "id": "b3",
@@ -440,7 +440,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Catuśtriṃśat - चतुस्त्रिंशत्",
-   "directed": "[slowly] ### Catuśtriṃśat - चतुस्त्रिंशत्"
+   "directed": "[slowly] Catuśtriṃśat - चतुस्त्रिंशत्"
   },
   {
    "id": "b55",
@@ -600,7 +600,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prakriyātmanā - प्रक्रियात्मना",
-   "directed": "[slowly] ### Prakriyātmanā - प्रक्रियात्मना"
+   "directed": "[slowly] Prakriyātmanā - प्रक्रियात्मना"
   },
   {
    "id": "b75",
@@ -752,7 +752,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ādirūpatayā - आदिरूपतया",
-   "directed": "[slowly] ### Ādirūpatayā - आदिरूपतया"
+   "directed": "[slowly] Ādirūpatayā - आदिरूपतया"
   },
   {
    "id": "b94",
@@ -1398,7 +1398,7 @@
    "id": "b174",
    "section": "…",
    "type": "title",
-   "voice": "granny",
+   "voice": "none",
    "text": "…",
    "directed": "[long pause] …"
   },
@@ -1776,7 +1776,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Adhvaśuddhi - अध्वशुद्धि",
-   "directed": "[slowly] ### Adhvaśuddhi - अध्वशुद्धि"
+   "directed": "[slowly] Adhvaśuddhi - अध्वशुद्धि"
   },
   {
    "id": "b222",
@@ -2024,7 +2024,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mālā - माला",
-   "directed": "[slowly] ### Mālā - माला"
+   "directed": "[slowly] Mālā - माला"
   },
   {
    "id": "b253",
@@ -2048,7 +2048,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mālinī - मालिनी",
-   "directed": "[slowly] ### Mālinī - मालिनी"
+   "directed": "[slowly] Mālinī - मालिनी"
   },
   {
    "id": "b256",
@@ -2168,7 +2168,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bhinnayoni - भिन्नयोनि",
-   "directed": "[slowly] ### Bhinnayoni - भिन्नयोनि"
+   "directed": "[slowly] Bhinnayoni - भिन्नयोनि"
   },
   {
    "id": "b271",
@@ -3064,7 +3064,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Phe - फे",
-   "directed": "[slowly] ### Phe - फे"
+   "directed": "[slowly] Phe - फे"
   },
   {
    "id": "b383",
@@ -3160,7 +3160,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Dharātattva - धरातत्त्व",
-   "directed": "[slowly] ### Dharātattva - धरातत्त्व"
+   "directed": "[slowly] Dharātattva - धरातत्त्व"
   },
   {
    "id": "b395",
@@ -4184,7 +4184,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Aṇḍa - अण्ड",
-   "directed": "[slowly] ### Aṇḍa - अण्ड"
+   "directed": "[slowly] Aṇḍa - अण्ड"
   },
   {
    "id": "b523",
@@ -5080,7 +5080,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṅketa - सङ्केत",
-   "directed": "[slowly] ### Saṅketa - सङ्केत"
+   "directed": "[slowly] Saṅketa - सङ्केत"
   },
   {
    "id": "b635",
@@ -5160,7 +5160,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sāṅketika - साङ्केतिक",
-   "directed": "[slowly] ### Sāṅketika - साङ्केतिक"
+   "directed": "[slowly] Sāṅketika - साङ्केतिक"
   },
   {
    "id": "b645",
@@ -7118,7 +7118,7 @@
    "id": "b889",
    "section": "13. Grace doesn't mean lying down and refusing to think",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -7192,7 +7192,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Krama - क्रम",
-   "directed": "[slowly] ### Krama - क्रम"
+   "directed": "[slowly] Krama - क्रम"
   },
   {
    "id": "b899",
@@ -7216,7 +7216,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Akrama - अक्रम",
-   "directed": "[slowly] ### Akrama - अक्रम"
+   "directed": "[slowly] Akrama - अक्रम"
   },
   {
    "id": "b902",
@@ -8312,7 +8312,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Now compare this with what we learned in Part III.",
-   "directed": "Now compare this with what we learned in Part III."
+   "directed": "Now compare this with what we learned in Part Three."
   },
   {
    "id": "b1039",
@@ -8520,7 +8520,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Paśyantī - पश्यन्ती",
-   "directed": "[slowly] ### Paśyantī - पश्यन्ती"
+   "directed": "[slowly] Paśyantī - पश्यन्ती"
   },
   {
    "id": "b1065",
@@ -8560,7 +8560,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parā - परा",
-   "directed": "[slowly] ### Parā - परा"
+   "directed": "[slowly] Parā - परा"
   },
   {
    "id": "b1070",
@@ -8864,7 +8864,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Aham-idam - अहमिदम्",
-   "directed": "[slowly] ### Aham-idam - अहमिदम्"
+   "directed": "[slowly] Aham-idam - अहमिदम्"
   },
   {
    "id": "b1108",
@@ -8936,7 +8936,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Idam-aham - इदमहम्",
-   "directed": "[slowly] ### Idam-aham - इदमहम्"
+   "directed": "[slowly] Idam-aham - इदमहम्"
   },
   {
    "id": "b1117",
@@ -8992,7 +8992,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sāmānādhikaraṇya - सामानाधिकरण्य",
-   "directed": "[slowly] ### Sāmānādhikaraṇya - सामानाधिकरण्य"
+   "directed": "[slowly] Sāmānādhikaraṇya - सामानाधिकरण्य"
   },
   {
    "id": "b1124",
@@ -9326,7 +9326,7 @@
    "id": "b1165",
    "section": "18. अहम् इदम् - “I am this”: The great reunion of subject an",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -10256,7 +10256,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Avikalpa-saṃvid",
-   "directed": "[slowly] ### Avikalpa-saṃvid"
+   "directed": "[slowly] Avikalpa-saṃvid"
   },
   {
    "id": "b1282",
@@ -10710,7 +10710,7 @@
    "id": "b1338",
    "section": "21. The landscape - A surprisingly direct example of nonconc",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -11624,7 +11624,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "That is the philosophical heart of Part VII.",
-   "directed": "That is the philosophical heart of Part VII."
+   "directed": "That is the philosophical heart of Part Seven."
   },
   {
    "id": "b1453",
@@ -11696,7 +11696,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Part VIII will continue the same passage through the sarvasarvātmakatva doctrine, the causal dependence of Earth upon the subtler principles, the Spanda teaching on all-at-once apprehension, and the further consequences for Mālinī, Mātṛkā and the structure of mantra.",
-   "directed": "Part VIII will continue the same passage through the sarvasarvātmakatva doctrine, the causal dependence of Earth upon the subtler principles, the Spanda teaching on all-at-once apprehension, and the further consequences for Mālinī, Mātṛkā and the structure of mantra."
+   "directed": "Part Eight will continue the same passage through the sarvasarvātmakatva doctrine, the causal dependence of Earth upon the subtler principles, the Spanda teaching on all-at-once apprehension, and the further consequences for Mālinī, Mātṛkā and the structure of mantra."
   },
   {
    "id": "b1462",

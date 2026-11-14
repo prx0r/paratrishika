@@ -16,7 +16,7 @@
    "type": "title",
    "voice": "granny",
    "text": "Parātrīśikāvivaraṇa - Part XXXII",
-   "directed": "[long pause] Parātrīśikāvivaraṇa - Part XXXII"
+   "directed": "[long pause] Parātrīśikāvivaraṇa"
   },
   {
    "id": "b2",
@@ -336,7 +336,7 @@
    "type": "title",
    "voice": "granny",
    "text": "I. “Having Explained This at Great Length…” - The Most Understated Sentence in Sanskrit Literature",
-   "directed": "[long pause] I. “Having Explained This at Great Length…” - The Most Understated Sentence in Sanskrit Literature"
+   "directed": "[long pause] One. “Having Explained This at Great Length…” - The Most Understated Sentence in Sanskrit Literature"
   },
   {
    "id": "b42",
@@ -376,7 +376,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My translation:",
-   "directed": "My translation:"
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b47",
@@ -648,7 +648,7 @@
    "type": "title",
    "voice": "granny",
    "text": "II. The Banyan Seed: An Entire Tree Where There Apparently Isn't Room for a Leaf",
-   "directed": "[long pause] II. The Banyan Seed: An Entire Tree Where There Apparently Isn't Room for a Leaf"
+   "directed": "[long pause] Two. The Banyan Seed: An Entire Tree Where There Apparently Isn't Room for a Leaf"
   },
   {
    "id": "b81",
@@ -696,7 +696,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My literal translation:",
-   "directed": "My literal translation:"
+   "directed": "[short pause] My literal translation:"
   },
   {
    "id": "b87",
@@ -840,7 +840,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nyagrodha - न्यग्रोध",
-   "directed": "[slowly] ### Nyagrodha - न्यग्रोध"
+   "directed": "[slowly] Nyagrodha - न्यग्रोध"
   },
   {
    "id": "b105",
@@ -960,7 +960,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bīja - बीज",
-   "directed": "[slowly] ### Bīja - बीज"
+   "directed": "[slowly] Bīja - बीज"
   },
   {
    "id": "b120",
@@ -1032,7 +1032,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bījasthaḥ - बीजस्थः",
-   "directed": "[slowly] ### Bījasthaḥ - बीजस्थः"
+   "directed": "[slowly] Bījasthaḥ - बीजस्थः"
   },
   {
    "id": "b129",
@@ -1120,7 +1120,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śaktirūpaḥ - शक्तिरूपः",
-   "directed": "[slowly] ### Śaktirūpaḥ - शक्तिरूपः"
+   "directed": "[slowly] Śaktirūpaḥ - शक्तिरूपः"
   },
   {
    "id": "b140",
@@ -1240,7 +1240,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Mahādrumaḥ - महाद्रुमः",
-   "directed": "[slowly] ### Mahādrumaḥ - महाद्रुमः"
+   "directed": "[slowly] Mahādrumaḥ - महाद्रुमः"
   },
   {
    "id": "b155",
@@ -1328,7 +1328,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Hṛdayabījastham - हृदयबीजस्थम्",
-   "directed": "[slowly] ### Hṛdayabījastham - हृदयबीजस्थम्"
+   "directed": "[slowly] Hṛdayabījastham - हृदयबीजस्थम्"
   },
   {
    "id": "b166",
@@ -1632,7 +1632,7 @@
    "type": "title",
    "voice": "granny",
    "text": "III. The Second Verse: No Sesame, No Ghee, No Fucking Fire Ceremony Required",
-   "directed": "[long pause] III. The Second Verse: No Sesame, No Ghee, No Fucking Fire Ceremony Required"
+   "directed": "[long pause] Three. The Second Verse: No Sesame, No Ghee, No Fucking Fire Ceremony Required"
   },
   {
    "id": "b204",
@@ -1680,7 +1680,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "My literal translation:",
-   "directed": "My literal translation:"
+   "directed": "[short pause] My literal translation:"
   },
   {
    "id": "b210",
@@ -1920,7 +1920,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Asaṃdigdhā - असंदिग्धा",
-   "directed": "[slowly] ### Asaṃdigdhā - असंदिग्धा"
+   "directed": "[slowly] Asaṃdigdhā - असंदिग्धा"
   },
   {
    "id": "b240",
@@ -2016,7 +2016,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tilājyāhutivarjitā",
-   "directed": "[slowly] ### Tilājyāhutivarjitā"
+   "directed": "[slowly] Tilājyāhutivarjitā"
   },
   {
    "id": "b252",
@@ -2256,7 +2256,7 @@
    "type": "title",
    "voice": "granny",
    "text": "IV. Nothing Is Outside Reality: Abhinavagupta's Own Explanation of the Seed",
-   "directed": "[long pause] IV. Nothing Is Outside Reality: Abhinavagupta's Own Explanation of the Seed"
+   "directed": "[long pause] Four. Nothing Is Outside Reality: Abhinavagupta's Own Explanation of the Seed"
   },
   {
    "id": "b282",
@@ -2424,7 +2424,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Asat - असत्",
-   "directed": "[slowly] ### Asat - असत्"
+   "directed": "[slowly] Asat - असत्"
   },
   {
    "id": "b303",
@@ -2576,7 +2576,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Viśvaṃ viśvātmakam",
-   "directed": "[slowly] ### Viśvaṃ viśvātmakam"
+   "directed": "[slowly] Viśvaṃ viśvātmakam"
   },
   {
    "id": "b322",
@@ -3264,7 +3264,7 @@
    "type": "title",
    "voice": "granny",
    "text": "V. The Heart Is Not a Little Container: The Universe Is Not Packed into Your Chest Like a Suitcase",
-   "directed": "[long pause] V. The Heart Is Not a Little Container: The Universe Is Not Packed into Your Chest Like a Suitcase"
+   "directed": "[long pause] Five. The Heart Is Not a Little Container: The Universe Is Not Packed into Your Chest Like a Suitcase"
   },
   {
    "id": "b408",
@@ -3536,7 +3536,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Remember our discussion of time in Part XXX.",
-   "directed": "Remember our discussion of time in Part XXX."
+   "directed": "Remember our discussion of time in Part Thirty."
   },
   {
    "id": "b442",
@@ -3816,7 +3816,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VI. The Spandakārikā: “This Is the Attainment of Immortality. This Is the Grasping of the Self.”",
-   "directed": "[long pause] VI. The Spandakārikā: “This Is the Attainment of Immortality. This Is the Grasping of the Self.”"
+   "directed": "[long pause] Six. The Spandakārikā: “This Is the Attainment of Immortality. This Is the Grasping of the Self.”"
   },
   {
    "id": "b477",
@@ -4064,7 +4064,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Amṛtaprāpti - अमृतप्राप्ति",
-   "directed": "[slowly] ### Amṛtaprāpti - अमृतप्राप्ति"
+   "directed": "[slowly] Amṛtaprāpti - अमृतप्राप्ति"
   },
   {
    "id": "b508",
@@ -4264,7 +4264,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirvāṇadīkṣā",
-   "directed": "[slowly] ### Nirvāṇadīkṣā"
+   "directed": "[slowly] Nirvāṇadīkṣā"
   },
   {
    "id": "b533",
@@ -4336,7 +4336,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śivasadbhāva",
-   "directed": "[slowly] ### Śivasadbhāva"
+   "directed": "[slowly] Śivasadbhāva"
   },
   {
    "id": "b542",
@@ -4528,7 +4528,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VII. Other Initiations Can Give Enjoyment. This One Is Liberation.",
-   "directed": "[long pause] VII. Other Initiations Can Give Enjoyment. This One Is Liberation."
+   "directed": "[long pause] Seven. Other Initiations Can Give Enjoyment. This One Is Liberation."
   },
   {
    "id": "b566",
@@ -4672,7 +4672,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bhoga - भोग",
-   "directed": "[slowly] ### Bhoga - भोग"
+   "directed": "[slowly] Bhoga - भोग"
   },
   {
    "id": "b584",
@@ -4768,7 +4768,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parijñāna - परिज्ञान",
-   "directed": "[slowly] ### Parijñāna - परिज्ञान"
+   "directed": "[slowly] Parijñāna - परिज्ञान"
   },
   {
    "id": "b596",
@@ -5024,7 +5024,7 @@
    "type": "title",
    "voice": "granny",
    "text": "VIII. The Cosmic Balance: How a Tiny Difference in Height Reveals an Enormous Difference in Reality",
-   "directed": "[long pause] VIII. The Cosmic Balance: How a Tiny Difference in Height Reveals an Enormous Difference in Reality"
+   "directed": "[long pause] Eight. The Cosmic Balance: How a Tiny Difference in Height Reveals an Enormous Difference in Reality"
   },
   {
    "id": "b628",
@@ -5536,7 +5536,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Now the commentator delivers the sentence we've been approaching since Part XXXI.",
-   "directed": "Now the commentator delivers the sentence we've been approaching since Part XXXI."
+   "directed": "Now the commentator delivers the sentence we've been approaching since Part Thirty-One."
   },
   {
    "id": "b692",
@@ -5544,7 +5544,7 @@
    "type": "title",
    "voice": "granny",
    "text": "IX. Conscious Awareness Itself Is Initiation",
-   "directed": "[long pause] IX. Conscious Awareness Itself Is Initiation"
+   "directed": "[long pause] Nine. Conscious Awareness Itself Is Initiation"
   },
   {
    "id": "b693",
@@ -6024,7 +6024,7 @@
    "type": "title",
    "voice": "granny",
    "text": "X. Anuttara Does Not Need to Destroy the Universe to Be Absolute",
-   "directed": "[long pause] X. Anuttara Does Not Need to Destroy the Universe to Be Absolute"
+   "directed": "[long pause] Ten. Anuttara Does Not Need to Destroy the Universe to Be Absolute"
   },
   {
    "id": "b753",
@@ -6088,7 +6088,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Anuttara - अनुत्तर",
-   "directed": "[slowly] ### Anuttara - अनुत्तर"
+   "directed": "[slowly] Anuttara - अनुत्तर"
   },
   {
    "id": "b761",
@@ -6184,7 +6184,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Aparityāga - अपरित्याग",
-   "directed": "[slowly] ### Aparityāga - अपरित्याग"
+   "directed": "[slowly] Aparityāga - अपरित्याग"
   },
   {
    "id": "b773",
@@ -6592,7 +6592,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XI. Hidden Gods in Human Bodies: The Mysterious Verse That Introduces the Ritual Problem",
-   "directed": "[long pause] XI. Hidden Gods in Human Bodies: The Mysterious Verse That Introduces the Ritual Problem"
+   "directed": "[long pause] Eleven. Hidden Gods in Human Bodies: The Mysterious Verse That Introduces the Ritual Problem"
   },
   {
    "id": "b824",
@@ -6752,7 +6752,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirvīrya - निर्वीर्य",
-   "directed": "[slowly] ### Nirvīrya - निर्वीर्य"
+   "directed": "[slowly] Nirvīrya - निर्वीर्य"
   },
   {
    "id": "b844",
@@ -7176,7 +7176,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "That is Part XXXIII.",
-   "directed": "That is Part XXXIII."
+   "directed": "That is Part Thirty-Three."
   },
   {
    "id": "b897",
@@ -7184,7 +7184,7 @@
    "type": "title",
    "voice": "granny",
    "text": "XII. The Final Philosophical Synthesis: The Universe Was Never Outside the Heart",
-   "directed": "[long pause] XII. The Final Philosophical Synthesis: The Universe Was Never Outside the Heart"
+   "directed": "[long pause] Twelve. The Final Philosophical Synthesis: The Universe Was Never Outside the Heart"
   },
   {
    "id": "b898",
@@ -8328,7 +8328,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "End of Part XXXII - KSTS pp. 258-260 approximately; Gnoli pp. 275-276. The next instalment begins the complete ritual block, Parātriṃśikā 26-32, and Abhinavagupta's explanation from Gnoli p. 276 onward.",
-   "directed": "End of Part XXXII - KSTS pp. 258-260 approximately; Gnoli pp. 275-276. The next instalment begins the complete ritual block, Parātriṃśikā 26-32, and Abhinavagupta's explanation from Gnoli p. 276 onward."
+   "directed": "End of Part Thirty-Two - KSTS pp. 258-260 approximately; Gnoli pp. 275-276. The next instalment begins the complete ritual block, Parātriṃśikā 26-32, and Abhinavagupta's explanation from Gnoli p. 276 onward."
   },
   {
    "id": "b1041",

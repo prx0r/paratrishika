@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART IV - The Great Secret of the Heart: Kaulinī, the Mistress of Kula",
-   "directed": "PART IV - The Great Secret of the Heart: Kaulinī, the Mistress of Kula"
+   "directed": "The Great Secret of the Heart: Kaulinī, the Mistress of Kula"
   },
   {
    "id": "b3",
@@ -152,7 +152,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "We ended Part III with the recognition that the various powers of cognition are manifestations of the one Khecarī Śakti.",
-   "directed": "We ended Part III with the recognition that the various powers of cognition are manifestations of the one Khecarī Śakti."
+   "directed": "We ended Part Three with the recognition that the various powers of cognition are manifestations of the one Khecarī Śakti."
   },
   {
    "id": "b19",
@@ -312,7 +312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "ओजस् - Ojas",
-   "directed": "[slowly] ### ओजस् - Ojas"
+   "directed": "[slowly] ओजस् - Ojas"
   },
   {
    "id": "b39",
@@ -464,7 +464,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: क्षोभ",
-   "directed": "[slowly] ### The Sanskrit: क्षोभ"
+   "directed": "[slowly] The Sanskrit: क्षोभ"
   },
   {
    "id": "b58",
@@ -640,7 +640,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: सङ्घट्ट",
-   "directed": "[slowly] ### The Sanskrit: सङ्घट्ट"
+   "directed": "[slowly] The Sanskrit: सङ्घट्ट"
   },
   {
    "id": "b80",
@@ -720,7 +720,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "त्त - tta: dental.\nट्ट - ṭṭa: retroflex.",
-   "directed": "[slowly] - त्त - tta: dental.\nट्ट - ṭṭa: retroflex."
+   "directed": "[slowly] त्त - tta: dental.\nट्ट - ṭṭa: retroflex."
   },
   {
    "id": "b90",
@@ -800,7 +800,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "चमत्कार - Camatkāra",
-   "directed": "[slowly] ### चमत्कार - Camatkāra"
+   "directed": "[slowly] चमत्कार - Camatkāra"
   },
   {
    "id": "b100",
@@ -1920,7 +1920,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "त्रिकोण - Trikoṇa",
-   "directed": "[slowly] ### त्रिकोण - Trikoṇa"
+   "directed": "[slowly] त्रिकोण - Trikoṇa"
   },
   {
    "id": "b240",
@@ -2164,7 +2164,7 @@
   },
   {
    "id": "b270",
-   "section": "अहम्",
+   "section": "aham",
    "type": "verse",
    "voice": "verse",
    "text": "अहम्",
@@ -2296,7 +2296,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bindu - बिन्दु",
-   "directed": "[slowly] ### Bindu - बिन्दु"
+   "directed": "[slowly] Bindu - बिन्दु"
   },
   {
    "id": "b287",
@@ -2456,7 +2456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: प्रत्युपसंहार",
-   "directed": "[slowly] ### The Sanskrit: प्रत्युपसंहार"
+   "directed": "[slowly] The Sanskrit: प्रत्युपसंहार"
   },
   {
    "id": "b307",
@@ -3880,11 +3880,11 @@
    "type": "narration",
    "voice": "granny",
    "text": "PARĀTRĪŚIKĀ - VERSE 2, AS ARRANGED IN ABHINAVAGUPTA'S COMMENTARY",
-   "directed": "PARĀTRĪŚIKĀ - VERSE 2, AS ARRANGED IN ABHINAVAGUPTA'S COMMENTARY"
+   "directed": "Parātrīśikā - Verse 2, As Arranged In Abhinavagupta's Commentary"
   },
   {
    "id": "b485",
-   "section": "हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।",
+   "section": "तां मे कथय देवेश येन तृप्तिं लभाम्यहम्॥२॥",
    "type": "verse",
    "voice": "verse",
    "text": "हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।",
@@ -3920,7 +3920,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Literal translation:",
-   "directed": "Literal translation:"
+   "directed": "[short pause] Literal translation:"
   },
   {
    "id": "b490",
@@ -4624,7 +4624,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sphuraṇa - स्फुरण",
-   "directed": "[slowly] ### Sphuraṇa - स्फुरण"
+   "directed": "[slowly] Sphuraṇa - स्फुरण"
   },
   {
    "id": "b578",
@@ -4846,7 +4846,7 @@
    "id": "b605",
    "section": "हृदयस्था",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -6366,7 +6366,7 @@
    "id": "b795",
    "section": "11. The Spanda connection - Even mantras depend upon the Sel",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -6768,7 +6768,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tṛpti",
-   "directed": "[slowly] ### Tṛpti"
+   "directed": "[slowly] Tṛpti"
   },
   {
    "id": "b846",
@@ -7312,7 +7312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Paripūrṇa - परिपूर्ण",
-   "directed": "[slowly] ### Paripūrṇa - परिपूर्ण"
+   "directed": "[slowly] Paripūrṇa - परिपूर्ण"
   },
   {
    "id": "b914",
@@ -7502,7 +7502,7 @@
    "id": "b937",
    "section": "13. तृप्ति - Tṛpti: What does the Goddess actually want?",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ; ]",
    "directed": "; ; ]"
   },
@@ -7824,7 +7824,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vidārayitum",
-   "directed": "[slowly] ### Vidārayitum"
+   "directed": "[slowly] Vidārayitum"
   },
   {
    "id": "b978",
@@ -8288,7 +8288,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "But that is where Part V begins.",
-   "directed": "But that is where Part V begins."
+   "directed": "But that is where Part Five begins."
   },
   {
    "id": "b1036",
@@ -8304,7 +8304,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Here's the entire movement of Part IV:",
-   "directed": "[short pause] Here's the entire movement of Part IV:"
+   "directed": "[short pause] Here's the entire movement of Part Four:"
   },
   {
    "id": "b1038",
@@ -8592,7 +8592,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Next is Part V: Bhairava's reply, beginning with verses 3-4. We enter the meaning of mahābhāgā, the nature of the question-answer relationship, the Heart-space of Bhairava, and the method that leads into the phonemic cosmology of the Tantra.",
-   "directed": "Next is Part V: Bhairava's reply, beginning with verses 3-4. We enter the meaning of mahābhāgā, the nature of the question-answer relationship, the Heart-space of Bhairava, and the method that leads into the phonemic cosmology of the Tantra."
+   "directed": "Next is Part Five: Bhairava's reply, beginning with verses 3-4. We enter the meaning of mahābhāgā, the nature of the question-answer relationship, the Heart-space of Bhairava, and the method that leads into the phonemic cosmology of the Tantra."
   },
   {
    "id": "b1074",
@@ -8620,9 +8620,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [अहम्]: no granny block",
-   "section [हृदयस्था तु या शक्तिः कौलिकी कुलनायिका।]: no granny block"
-  ]
+  "warnings": []
  }
 }

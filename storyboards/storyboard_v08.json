@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART VIII - Every Tattva Contains the Universe",
-   "directed": "PART VIII - Every Tattva Contains the Universe"
+   "directed": "Every Tattva Contains the Universe"
   },
   {
    "id": "b3",
@@ -312,7 +312,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "सर्व - sarva: all, everything.\nसर्व - sarva: repeated to express the comprehensive relation.\nआत्मक - ātmaka: having the nature of, constituted by.\nत्व - tva: the condition of being something.",
-   "directed": "[slowly] - सर्व - sarva: all, everything.\nसर्व - sarva: repeated to express the comprehensive relation.\nआत्मक - ātmaka: having the nature of, constituted by.\nत्व - tva: the condition of being something."
+   "directed": "[slowly] सर्व - sarva: all, everything.\nसर्व - sarva: repeated to express the comprehensive relation.\nआत्मक - ātmaka: having the nature of, constituted by.\nत्व - tva: the condition of being something."
   },
   {
    "id": "b39",
@@ -700,7 +700,7 @@
   },
   {
    "id": "b87",
-   "section": "दिदृक्षयेव सर्वार्थान्यदा व्याप्यावतिष्ठते।",
+   "section": "तदा किं बहुनोक्तेन स्वयमेवावभोत्स्यते॥",
    "type": "verse",
    "voice": "verse",
    "text": "दिदृक्षयेव सर्वार्थान्यदा व्याप्यावतिष्ठते।",
@@ -792,7 +792,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Didṛkṣā - दिदृक्षा",
-   "directed": "[slowly] ### Didṛkṣā - दिदृक्षा"
+   "directed": "[slowly] Didṛkṣā - दिदृक्षा"
   },
   {
    "id": "b99",
@@ -976,7 +976,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sarvārthān - सर्वार्थान्",
-   "directed": "[slowly] ### Sarvārthān - सर्वार्थान्"
+   "directed": "[slowly] Sarvārthān - सर्वार्थान्"
   },
   {
    "id": "b122",
@@ -1160,7 +1160,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vyāpya - व्याप्य",
-   "directed": "[slowly] ### Vyāpya - व्याप्य"
+   "directed": "[slowly] Vyāpya - व्याप्य"
   },
   {
    "id": "b145",
@@ -3256,7 +3256,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tanmātra - तन्मात्र",
-   "directed": "[slowly] ### Tanmātra - तन्मात्र"
+   "directed": "[slowly] Tanmātra - तन्मात्र"
   },
   {
    "id": "b407",
@@ -3448,7 +3448,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Indriya - इन्द्रिय",
-   "directed": "[slowly] ### Indriya - इन्द्रिय"
+   "directed": "[slowly] Indriya - इन्द्रिय"
   },
   {
    "id": "b431",
@@ -3528,7 +3528,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Adhyavasāya - अध्यवसाय",
-   "directed": "[slowly] ### Adhyavasāya - अध्यवसाय"
+   "directed": "[slowly] Adhyavasāya - अध्यवसाय"
   },
   {
    "id": "b441",
@@ -3656,7 +3656,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prakṛti - प्रकृति",
-   "directed": "[slowly] ### Prakṛti - प्रकृति"
+   "directed": "[slowly] Prakṛti - प्रकृति"
   },
   {
    "id": "b457",
@@ -7176,7 +7176,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vācaka - वाचक",
-   "directed": "[slowly] ### Vācaka - वाचक"
+   "directed": "[slowly] Vācaka - वाचक"
   },
   {
    "id": "b897",
@@ -7248,7 +7248,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vācya - वाच्य",
-   "directed": "[slowly] ### Vācya - वाच्य"
+   "directed": "[slowly] Vācya - वाच्य"
   },
   {
    "id": "b906",
@@ -7672,7 +7672,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bīja - बीज",
-   "directed": "[slowly] ### Bīja - बीज"
+   "directed": "[slowly] Bīja - बीज"
   },
   {
    "id": "b959",
@@ -7760,7 +7760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Yoni - योनि",
-   "directed": "[slowly] ### Yoni - योनि"
+   "directed": "[slowly] Yoni - योनि"
   },
   {
    "id": "b970",
@@ -8880,7 +8880,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nyāsa - न्यास",
-   "directed": "[slowly] ### Nyāsa - न्यास"
+   "directed": "[slowly] Nyāsa - न्यास"
   },
   {
    "id": "b1110",
@@ -9256,7 +9256,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Niṣkriya - निष्क्रिय",
-   "directed": "[slowly] ### Niṣkriya - निष्क्रिय"
+   "directed": "[slowly] Niṣkriya - निष्क्रिय"
   },
   {
    "id": "b1157",
@@ -9352,7 +9352,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Jaḍatva - जडत्व",
-   "directed": "[slowly] ### Jaḍatva - जडत्व"
+   "directed": "[slowly] Jaḍatva - जडत्व"
   },
   {
    "id": "b1169",
@@ -9584,7 +9584,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "And rather than silently leap across that extraordinary material, we'll take it as the beginning of Part IX.",
-   "directed": "And rather than silently leap across that extraordinary material, we'll take it as the beginning of Part IX."
+   "directed": "And rather than silently leap across that extraordinary material, we'll take it as the beginning of Part Nine."
   },
   {
    "id": "b1198",
@@ -10344,7 +10344,7 @@
    "type": "title",
    "voice": "granny",
    "text": "19. Sanskrit to retain from Part VIII",
-   "directed": "[long pause] 19. Sanskrit to retain from Part VIII"
+   "directed": "[long pause] 19. Sanskrit to retain from Part Eight"
   },
   {
    "id": "b1293",
@@ -10654,7 +10654,7 @@
    "id": "b1331",
    "section": "20. Where we stop in the original Sanskrit",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "Primary text: (pp. 139-151). Parallel references: and .",
    "directed": "Primary text: (pp. 139-151). Parallel references: and ."
   }
@@ -10676,8 +10676,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [दिदृक्षयेव सर्वार्थान्यदा व्याप्यावतिष्ठ]: no granny block"
-  ]
+  "warnings": []
  }
 }

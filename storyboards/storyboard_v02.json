@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART II - The Sixteen Meanings of Anuttara",
-   "directed": "PART II - The Sixteen Meanings of Anuttara"
+   "directed": "The Sixteen Meanings of Anuttara"
   },
   {
    "id": "b3",
@@ -368,7 +368,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "नु - nu: न with the short-u vowel sign ु below it.\nत् - t: त with the virāma ्, suppressing its inherent a.\nत - ta: त with its inherent a retained.\nर - ra: र with its inherent a.",
-   "directed": "[slowly] - नु - nu: न with the short-u vowel sign ु below it.\nत् - t: त with the virāma ्, suppressing its inherent a.\nत - ta: त with its inherent a retained.\nर - ra: र with its inherent a."
+   "directed": "[slowly] नु - nu: न with the short-u vowel sign ु below it.\nत् - t: त with the virāma ्, suppressing its inherent a.\nत - ta: त with its inherent a retained.\nर - ra: र with its inherent a."
   },
   {
    "id": "b46",
@@ -1032,7 +1032,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sanskrit laboratory: प्रश्न and प्रतिवचन",
-   "directed": "[slowly] ### Sanskrit laboratory: प्रश्न and प्रतिवचन"
+   "directed": "[slowly] Sanskrit laboratory: प्रश्न and प्रतिवचन"
   },
   {
    "id": "b129",
@@ -2262,7 +2262,7 @@
    "id": "b282",
    "section": "Interpretation 5 - There is no ultimate bondage-and-liberati",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -2408,7 +2408,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: इदृश and तादृश",
-   "directed": "[slowly] ### The Sanskrit: इदृश and तादृश"
+   "directed": "[slowly] The Sanskrit: इदृश and तादृश"
   },
   {
    "id": "b301",
@@ -2656,7 +2656,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: विकल्प",
-   "directed": "[slowly] ### The Sanskrit: विकल्प"
+   "directed": "[slowly] The Sanskrit: विकल्प"
   },
   {
    "id": "b332",
@@ -2832,7 +2832,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sanskrit laboratory: अविकल्पित",
-   "directed": "[slowly] ### Sanskrit laboratory: अविकल्पित"
+   "directed": "[slowly] Sanskrit laboratory: अविकल्पित"
   },
   {
    "id": "b354",
@@ -3264,7 +3264,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sanskrit laboratory: उत्तरॊत्तर",
-   "directed": "[slowly] ### Sanskrit laboratory: उत्तरॊत्तर"
+   "directed": "[slowly] Sanskrit laboratory: उत्तरॊत्तर"
   },
   {
    "id": "b408",
@@ -3662,7 +3662,7 @@
    "id": "b457",
    "section": "Interpretation 9 - No person is metaphysically higher or low",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -3688,7 +3688,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Remember Part I?",
-   "directed": "Remember Part I?"
+   "directed": "Remember Part One?"
   },
   {
    "id": "b461",
@@ -4656,7 +4656,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sanskrit laboratory: नुद् and प्रेरण",
-   "directed": "[slowly] ### Sanskrit laboratory: नुद् and प्रेरण"
+   "directed": "[slowly] Sanskrit laboratory: नुद् and प्रेरण"
   },
   {
    "id": "b582",
@@ -4902,7 +4902,7 @@
    "id": "b612",
    "section": "Interpretation 13 - You cannot inject consciousness into con",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -5600,7 +5600,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Why अ?",
-   "directed": "[slowly] ### Why अ?"
+   "directed": "[slowly] Why अ?"
   },
   {
    "id": "b700",
@@ -5760,7 +5760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: अहंभाव",
-   "directed": "[slowly] ### The Sanskrit: अहंभाव"
+   "directed": "[slowly] The Sanskrit: अहंभाव"
   },
   {
    "id": "b720",
@@ -6488,7 +6488,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "The Sanskrit: विमर्श",
-   "directed": "[slowly] ### The Sanskrit: विमर्श"
+   "directed": "[slowly] The Sanskrit: विमर्श"
   },
   {
    "id": "b811",
@@ -6966,7 +6966,7 @@
    "id": "b870",
    "section": "Interpretation 16 - Even space and time cannot contain its a",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -8206,7 +8206,7 @@
    "id": "b1025",
    "section": "Sanskrit to remember",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "[Continue reading - Part III: Kaulika Siddhi and the Heart of Śiva]",
    "directed": "[Continue reading - Part III: Kaulika Siddhi and the Heart of Śiva]"
   },

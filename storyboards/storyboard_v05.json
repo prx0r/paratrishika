@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART V - Bhairava Speaks: The Secret of the Heart-Space",
-   "directed": "PART V - Bhairava Speaks: The Secret of the Heart-Space"
+   "directed": "Bhairava Speaks: The Secret of the Heart-Space"
   },
   {
    "id": "b3",
@@ -220,7 +220,7 @@
   },
   {
    "id": "b27",
-   "section": "कौलिकोऽयं विधिर्देवि मम हृद्व्योम्न्यवस्थितः।",
+   "section": "कथयामि सुरेशानि सद्यः कौलिकसिद्धिदम्॥४॥",
    "type": "verse",
    "voice": "verse",
    "text": "कौलिकोऽयं विधिर्देवि मम हृद्व्योम्न्यवस्थितः।",
@@ -992,7 +992,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "This is precisely the symbolic reversal encountered in Part IV.",
-   "directed": "This is precisely the symbolic reversal encountered in Part IV."
+   "directed": "This is precisely the symbolic reversal encountered in Part Four."
   },
   {
    "id": "b124",
@@ -3600,7 +3600,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṅkalana - सङ्कलन",
-   "directed": "[slowly] ### Saṅkalana - सङ्कलन"
+   "directed": "[slowly] Saṅkalana - सङ्कलन"
   },
   {
    "id": "b450",
@@ -3760,7 +3760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sphoṭa - स्फोट",
-   "directed": "[slowly] ### Sphoṭa - स्फोट"
+   "directed": "[slowly] Sphoṭa - स्फोट"
   },
   {
    "id": "b470",
@@ -5630,7 +5630,7 @@
    "id": "b703",
    "section": "6. The greatest Sanskrit grammar lesson in the whole bloody ",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ; ; ; ]",
    "directed": "; ; ; ; ]"
   },
@@ -5748,7 +5748,7 @@
   },
   {
    "id": "b718",
-   "section": "उत्तरस्य + अपि",
+   "section": "उत्तरस्यापि",
    "type": "verse",
    "voice": "verse",
    "text": "उत्तरस्य + अपि",
@@ -7224,7 +7224,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prasara - प्रसर",
-   "directed": "[slowly] ### Prasara - प्रसर"
+   "directed": "[slowly] Prasara - प्रसर"
   },
   {
    "id": "b903",
@@ -7240,7 +7240,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Viśrānti - विश्रान्ति",
-   "directed": "[slowly] ### Viśrānti - विश्रान्ति"
+   "directed": "[slowly] Viśrānti - विश्रान्ति"
   },
   {
    "id": "b905",
@@ -7696,7 +7696,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Avasthita - अवस्थित",
-   "directed": "[slowly] ### Avasthita - अवस्थित"
+   "directed": "[slowly] Avasthita - अवस्थित"
   },
   {
    "id": "b962",
@@ -7800,7 +7800,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Now remember Part IV.",
-   "directed": "Now remember Part IV."
+   "directed": "Now remember Part Four."
   },
   {
    "id": "b975",
@@ -8294,7 +8294,7 @@
    "id": "b1036",
    "section": "9. मम हृद्व्योम्नि - In the space of my Heart",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -8944,7 +8944,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sureśāni - सुरेशानि",
-   "directed": "[slowly] ### Sureśāni - सुरेशानि"
+   "directed": "[slowly] Sureśāni - सुरेशानि"
   },
   {
    "id": "b1118",
@@ -9128,7 +9128,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "We've already studied the ordinary meaning in Part III.",
-   "directed": "We've already studied the ordinary meaning in Part III."
+   "directed": "We've already studied the ordinary meaning in Part Three."
   },
   {
    "id": "b1141",
@@ -9200,7 +9200,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sat - सत्",
-   "directed": "[slowly] ### Sat - सत्"
+   "directed": "[slowly] Sat - सत्"
   },
   {
    "id": "b1150",
@@ -11448,7 +11448,7 @@
    "type": "title",
    "voice": "granny",
    "text": "Sanskrit to retain from Part V",
-   "directed": "[long pause] Sanskrit to retain from Part V"
+   "directed": "[long pause] Sanskrit to retain from Part Five"
   },
   {
    "id": "b1431",
@@ -11672,7 +11672,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Part VI begins exactly at verse 5:",
-   "directed": "[short pause] Part VI begins exactly at verse 5:"
+   "directed": "[short pause] Part Six begins exactly at verse 5:"
   },
   {
    "id": "b1459",
@@ -11694,7 +11694,7 @@
    "id": "b1461",
    "section": "व्योम्नि + अवस्थितः → व्योम्न्यवस्थितः",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "Primary sources: (pp. 63-97); ; ; ; .",
    "directed": "Primary sources: (pp. 63-97); ; ; ; ."
   }
@@ -11716,9 +11716,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [कौलिकोऽयं विधिर्देवि मम हृद्व्योम्न्यवस्]: no granny block",
-   "section [उत्तरस्य + अपि]: no granny block"
-  ]
+  "warnings": []
  }
 }

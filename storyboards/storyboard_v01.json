@@ -32,7 +32,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART I - The Goddess Asks the Ultimate Question",
-   "directed": "PART I - The Goddess Asks the Ultimate Question"
+   "directed": "The Goddess Asks the Ultimate Question"
   },
   {
    "id": "b4",
@@ -152,7 +152,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Parā (परा): the Supreme, the transcendent Goddess, supreme Consciousness.\nTrīśikā (त्रीशिका): interpreted within the Trika tradition in relation to the three divine powers.\nVivaraṇa (विवरण): an explanation, exposition, or detailed elucidation.",
-   "directed": "[slowly] - Parā (परा): the Supreme, the transcendent Goddess, supreme Consciousness.\nTrīśikā (त्रीशिका): interpreted within the Trika tradition in relation to the three divine powers.\nVivaraṇa (विवरण): an explanation, exposition, or detailed elucidation."
+   "directed": "[slowly] Parā (परा): the Supreme, the transcendent Goddess, supreme Consciousness.\nTrīśikā (त्रीशिका): interpreted within the Trika tradition in relation to the three divine powers.\nVivaraṇa (विवरण): an explanation, exposition, or detailed elucidation."
   },
   {
    "id": "b19",
@@ -352,7 +352,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "abhi (अभि) - towards, in the direction of, intensely.\nnava (नव) - new, fresh.",
-   "directed": "[slowly] - abhi (अभि) - towards, in the direction of, intensely.\nnava (नव) - new, fresh."
+   "directed": "[slowly] abhi (अभि) - towards, in the direction of, intensely.\nnava (नव) - new, fresh."
   },
   {
    "id": "b44",
@@ -624,7 +624,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "bāhya (बाह्य) - external, outward.\nābhāsa (आभास) - appearance, manifestation, shining forth.",
-   "directed": "[slowly] - bāhya (बाह्य) - external, outward.\nābhāsa (आभास) - appearance, manifestation, shining forth."
+   "directed": "[slowly] bāhya (बाह्य) - external, outward.\nābhāsa (आभास) - appearance, manifestation, shining forth."
   },
   {
    "id": "b78",
@@ -1356,7 +1356,7 @@
   },
   {
    "id": "b169",
-   "section": "श्रीदेव्युवाच",
+   "section": "Chapter One - The Goddess asks",
    "type": "verse",
    "voice": "verse",
    "text": "श्रीदेव्युवाच",
@@ -1364,7 +1364,7 @@
   },
   {
    "id": "b170",
-   "section": "अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।",
+   "section": "येन विज्ञातमात्रेण खेचरीसमतां व्रजेत्॥१॥",
    "type": "verse",
    "voice": "verse",
    "text": "अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।",
@@ -1528,7 +1528,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "1. अनुत्तरम् - anuttaram",
-   "directed": "[slowly] ### 1. अनुत्तरम् - anuttaram"
+   "directed": "[slowly] 1. अनुत्तरम् - anuttaram"
   },
   {
    "id": "b191",
@@ -1720,7 +1720,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "2. कथम् - katham",
-   "directed": "[slowly] ### 2. कथम् - katham"
+   "directed": "[slowly] 2. कथम् - katham"
   },
   {
    "id": "b215",
@@ -1816,7 +1816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "3. सद्यः - sadyaḥ",
-   "directed": "[slowly] ### 3. सद्यः - sadyaḥ"
+   "directed": "[slowly] 3. सद्यः - sadyaḥ"
   },
   {
    "id": "b227",
@@ -1936,7 +1936,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "4. कौलिकसिद्धिदम् - kaulikasiddhidam",
-   "directed": "[slowly] ### 4. कौलिकसिद्धिदम् - kaulikasiddhidam"
+   "directed": "[slowly] 4. कौलिकसिद्धिदम् - kaulikasiddhidam"
   },
   {
    "id": "b242",
@@ -2208,7 +2208,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "5. विज्ञातमात्रेण - vijñātamātreṇa",
-   "directed": "[slowly] ### 5. विज्ञातमात्रेण - vijñātamātreṇa"
+   "directed": "[slowly] 5. विज्ञातमात्रेण - vijñātamātreṇa"
   },
   {
    "id": "b276",
@@ -2384,7 +2384,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "6. खेचरीसमताम् - khecarīsamatām",
-   "directed": "[slowly] ### 6. खेचरीसमताम् - khecarīsamatām"
+   "directed": "[slowly] 6. खेचरीसमताम् - khecarīsamatām"
   },
   {
    "id": "b298",
@@ -2416,7 +2416,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "kha (ख) - sky, space, expanse.\ncarī (चरी) - moving, going, from √car, to move.",
-   "directed": "[slowly] - kha (ख) - sky, space, expanse.\ncarī (चरी) - moving, going, from √car, to move."
+   "directed": "[slowly] kha (ख) - sky, space, expanse.\ncarī (चरी) - moving, going, from √car, to move."
   },
   {
    "id": "b302",
@@ -2520,7 +2520,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "7. व्रजेत् - vrajet",
-   "directed": "[slowly] ### 7. व्रजेत् - vrajet"
+   "directed": "[slowly] 7. व्रजेत् - vrajet"
   },
   {
    "id": "b315",
@@ -3200,7 +3200,7 @@
    "type": "title",
    "voice": "granny",
    "text": "The philosophical punchline of Part I",
-   "directed": "[long pause] The philosophical punchline of Part I"
+   "directed": "[long pause] The philosophical punchline of Part One"
   },
   {
    "id": "b400",
@@ -3358,7 +3358,7 @@
    "id": "b419",
    "section": "The philosophical punchline of Part I",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "[Continue reading - Part II: The Sixteen Meanings of Anuttara]",
    "directed": "[Continue reading - Part II: The Sixteen Meanings of Anuttara]"
   },
@@ -3388,9 +3388,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [श्रीदेव्युवाच]: no granny block",
-   "section [अनुत्तरं कथं देव सद्यः कौलिकसिद्धिदम्।]: no granny block"
-  ]
+  "warnings": []
  }
 }

@@ -24,7 +24,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "PART XIV - Vowel Sandhi and the Trident of Śakti",
-   "directed": "PART XIV - Vowel Sandhi and the Trident of Śakti"
+   "directed": "Vowel Sandhi and the Trident of Śakti"
   },
   {
    "id": "b3",
@@ -64,7 +64,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "In Part XIII, we discovered that kriyāśakti, the power of action, emerges through the intermingling of will and knowledge. The six original vowel-powers remain grounded in Anuttara and Ānanda; the Absolute does not cease to be complete when manifestation begins.",
-   "directed": "In Part XIII, we discovered that kriyāśakti, the power of action, emerges through the intermingling of will and knowledge. The six original vowel-powers remain grounded in Anuttara and Ānanda; the Absolute does not cease to be complete when manifestation begins."
+   "directed": "In Part Thirteen, we discovered that kriyāśakti, the power of action, emerges through the intermingling of will and knowledge. The six original vowel-powers remain grounded in Anuttara and Ānanda; the Absolute does not cease to be complete when manifestation begins."
   },
   {
    "id": "b8",
@@ -240,7 +240,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Icchā - इच्छा",
-   "directed": "[slowly] ### Icchā - इच्छा"
+   "directed": "[slowly] Icchā - इच्छा"
   },
   {
    "id": "b30",
@@ -280,7 +280,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Īśana - ईशन",
-   "directed": "[slowly] ### Īśana - ईशन"
+   "directed": "[slowly] Īśana - ईशन"
   },
   {
    "id": "b35",
@@ -320,7 +320,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Iccheśana - इच्छेशन",
-   "directed": "[slowly] ### Iccheśana - इच्छेशन"
+   "directed": "[slowly] Iccheśana - इच्छेशन"
   },
   {
    "id": "b40",
@@ -432,7 +432,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ānandavapus - आनन्दवपुस्",
-   "directed": "[slowly] ### Ānandavapus - आनन्दवपुस्"
+   "directed": "[slowly] Ānandavapus - आनन्दवपुस्"
   },
   {
    "id": "b54",
@@ -496,7 +496,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Anuttaraparadhāman - अनुत्तरपरधामन्",
-   "directed": "[slowly] ### Anuttaraparadhāman - अनुत्तरपरधामन्"
+   "directed": "[slowly] Anuttaraparadhāman - अनुत्तरपरधामन्"
   },
   {
    "id": "b62",
@@ -708,7 +708,7 @@
   },
   {
    "id": "b88",
-   "section": "2. ए - E: The first compound vowel",
+   "section": "ए",
    "type": "verse",
    "voice": "verse",
    "text": "2. ए - E: The first compound vowel",
@@ -872,7 +872,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Avarṇa - अवर्ण",
-   "directed": "[slowly] ### Avarṇa - अवर्ण"
+   "directed": "[slowly] Avarṇa - अवर्ण"
   },
   {
    "id": "b109",
@@ -936,7 +936,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ivarṇa - इवर्ण",
-   "directed": "[slowly] ### Ivarṇa - इवर्ण"
+   "directed": "[slowly] Ivarṇa - इवर्ण"
   },
   {
    "id": "b117",
@@ -1288,7 +1288,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sphuṭa - स्फुट",
-   "directed": "[slowly] ### Sphuṭa - स्फुट"
+   "directed": "[slowly] Sphuṭa - स्फुट"
   },
   {
    "id": "b161",
@@ -1360,7 +1360,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sūkṣma - सूक्ष्म",
-   "directed": "[slowly] ### Sūkṣma - सूक्ष्म"
+   "directed": "[slowly] Sūkṣma - सूक्ष्म"
   },
   {
    "id": "b170",
@@ -1784,7 +1784,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Chandogānām - छान्दोगानाम्",
-   "directed": "[slowly] ### Chandogānām - छान्दोगानाम्"
+   "directed": "[slowly] Chandogānām - छान्दोगानाम्"
   },
   {
    "id": "b223",
@@ -1880,7 +1880,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Sātyamugri - सात्यमुग्रि",
-   "directed": "[slowly] ### Sātyamugri - सात्यमुग्रि"
+   "directed": "[slowly] Sātyamugri - सात्यमुग्रि"
   },
   {
    "id": "b235",
@@ -1920,7 +1920,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Rāṇāyanīya - राणायनीय",
-   "directed": "[slowly] ### Rāṇāyanīya - राणायनीय"
+   "directed": "[slowly] Rāṇāyanīya - राणायनीय"
   },
   {
    "id": "b240",
@@ -1992,7 +1992,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ardha - अर्ध",
-   "directed": "[slowly] ### Ardha - अर्ध"
+   "directed": "[slowly] Ardha - अर्ध"
   },
   {
    "id": "b249",
@@ -2048,7 +2048,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ekāra - एकार",
-   "directed": "[slowly] ### Ekāra - एकार"
+   "directed": "[slowly] Ekāra - एकार"
   },
   {
    "id": "b256",
@@ -2432,7 +2432,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Loka - लोक",
-   "directed": "[slowly] ### Loka - लोक"
+   "directed": "[slowly] Loka - लोक"
   },
   {
    "id": "b304",
@@ -2472,7 +2472,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prākṛta - प्राकृत",
-   "directed": "[slowly] ### Prākṛta - प्राकृत"
+   "directed": "[slowly] Prākṛta - प्राकृत"
   },
   {
    "id": "b309",
@@ -2544,7 +2544,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Deśabhāṣā - देशभाषा",
-   "directed": "[slowly] ### Deśabhāṣā - देशभाषा"
+   "directed": "[slowly] Deśabhāṣā - देशभाषा"
   },
   {
    "id": "b318",
@@ -2624,7 +2624,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Aṅga - अङ्ग",
-   "directed": "[slowly] ### Aṅga - अङ्ग"
+   "directed": "[slowly] Aṅga - अङ्ग"
   },
   {
    "id": "b328",
@@ -2648,7 +2648,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vaktra - वक्त्र",
-   "directed": "[slowly] ### Vaktra - वक्त्र"
+   "directed": "[slowly] Vaktra - वक्त्र"
   },
   {
    "id": "b331",
@@ -3380,7 +3380,7 @@
   },
   {
    "id": "b422",
-   "section": "7. ऐ - Ai: When the combined power enters the supreme ground",
+   "section": "ऐ",
    "type": "verse",
    "voice": "verse",
    "text": "7. ऐ - Ai: When the combined power enters the supreme ground again",
@@ -3456,7 +3456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Guṇa - गुण",
-   "directed": "[slowly] ### Guṇa - गुण"
+   "directed": "[slowly] Guṇa - गुण"
   },
   {
    "id": "b432",
@@ -3536,7 +3536,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vṛddhi - वृद्धि",
-   "directed": "[slowly] ### Vṛddhi - वृद्धि"
+   "directed": "[slowly] Vṛddhi - वृद्धि"
   },
   {
    "id": "b442",
@@ -3768,7 +3768,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śabalībhūta - शबलीभूत",
-   "directed": "[slowly] ### Śabalībhūta - शबलीभूत"
+   "directed": "[slowly] Śabalībhūta - शबलीभूत"
   },
   {
    "id": "b471",
@@ -4068,7 +4068,7 @@
   },
   {
    "id": "b508",
-   "section": "8. ओ - O: Knowledge enters the first and second vowels",
+   "section": "ओ",
    "type": "verse",
    "voice": "verse",
    "text": "8. ओ - O: Knowledge enters the first and second vowels",
@@ -4200,7 +4200,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Unmeṣa - उन्मेष",
-   "directed": "[slowly] ### Unmeṣa - उन्मेष"
+   "directed": "[slowly] Unmeṣa - उन्मेष"
   },
   {
    "id": "b525",
@@ -4428,7 +4428,7 @@
   },
   {
    "id": "b553",
-   "section": "9. औ - Au: The compound vowel that contains the trident",
+   "section": "औ",
    "type": "verse",
    "voice": "verse",
    "text": "9. औ - Au: The compound vowel that contains the trident",
@@ -4632,7 +4632,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Triśūla - त्रिशूल",
-   "directed": "[slowly] ### Triśūla - त्रिशूल"
+   "directed": "[slowly] Triśūla - त्रिशूल"
   },
   {
    "id": "b579",
@@ -5012,7 +5012,7 @@
   },
   {
    "id": "b626",
-   "section": "10. अं - Aṃ: The entire universe gathers into one point",
+   "section": "अं",
    "type": "verse",
    "voice": "verse",
    "text": "10. अं - Aṃ: The entire universe gathers into one point",
@@ -5088,7 +5088,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Bindu - बिन्दु",
-   "directed": "[slowly] ### Bindu - बिन्दु"
+   "directed": "[slowly] Bindu - बिन्दु"
   },
   {
    "id": "b636",
@@ -5464,7 +5464,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Vedanāmātra - वेदनामात्र",
-   "directed": "[slowly] ### Vedanāmātra - वेदनामात्र"
+   "directed": "[slowly] Vedanāmātra - वेदनामात्र"
   },
   {
    "id": "b683",
@@ -5608,7 +5608,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Abheda - अभेद",
-   "directed": "[slowly] ### Abheda - अभेद"
+   "directed": "[slowly] Abheda - अभेद"
   },
   {
    "id": "b701",
@@ -5696,7 +5696,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ārohaṇa - आरोहण",
-   "directed": "[slowly] ### Ārohaṇa - आरोहण"
+   "directed": "[slowly] Ārohaṇa - आरोहण"
   },
   {
    "id": "b712",
@@ -5984,7 +5984,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Puruṣa - पुरुष",
-   "directed": "[slowly] ### Puruṣa - पुरुष"
+   "directed": "[slowly] Puruṣa - पुरुष"
   },
   {
    "id": "b748",
@@ -6024,7 +6024,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Cinmaya - चिन्मय",
-   "directed": "[slowly] ### Cinmaya - चिन्मय"
+   "directed": "[slowly] Cinmaya - चिन्मय"
   },
   {
    "id": "b753",
@@ -6120,7 +6120,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tattva - तत्त्व",
-   "directed": "[slowly] ### Tattva - तत्त्व"
+   "directed": "[slowly] Tattva - तत्त्व"
   },
   {
    "id": "b765",
@@ -6388,7 +6388,7 @@
   },
   {
    "id": "b798",
-   "section": "12. अः - Aḥ: The universe is emitted again",
+   "section": "अः",
    "type": "verse",
    "voice": "verse",
    "text": "12. अः - Aḥ: The universe is emitted again",
@@ -6472,7 +6472,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Visarga - विसर्ग",
-   "directed": "[slowly] ### Visarga - विसर्ग"
+   "directed": "[slowly] Visarga - विसर्ग"
   },
   {
    "id": "b809",
@@ -6608,7 +6608,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Visṛjati - विसृजति",
-   "directed": "[slowly] ### Visṛjati - विसृजति"
+   "directed": "[slowly] Visṛjati - विसृजति"
   },
   {
    "id": "b826",
@@ -6760,7 +6760,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śaktimat - शक्तिमत्",
-   "directed": "[slowly] ### Śaktimat - शक्तिमत्"
+   "directed": "[slowly] Śaktimat - शक्तिमत्"
   },
   {
    "id": "b845",
@@ -6888,7 +6888,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Pradhāna - प्रधान",
-   "directed": "[slowly] ### Pradhāna - प्रधान"
+   "directed": "[slowly] Pradhāna - प्रधान"
   },
   {
    "id": "b861",
@@ -7440,7 +7440,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tri - त्रि",
-   "directed": "[slowly] ### Tri - त्रि"
+   "directed": "[slowly] Tri - त्रि"
   },
   {
    "id": "b930",
@@ -7456,7 +7456,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śūla - शूल",
-   "directed": "[slowly] ### Śūla - शूल"
+   "directed": "[slowly] Śūla - शूल"
   },
   {
    "id": "b932",
@@ -8040,7 +8040,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ullilasiṣā - उल्लिलसिषा",
-   "directed": "[slowly] ### Ullilasiṣā - उल्लिलसिषा"
+   "directed": "[slowly] Ullilasiṣā - उल्लिलसिषा"
   },
   {
    "id": "b1005",
@@ -8120,7 +8120,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ullasattā - उल्लसत्ता",
-   "directed": "[slowly] ### Ullasattā - उल्लसत्ता"
+   "directed": "[slowly] Ullasattā - उल्लसत्ता"
   },
   {
    "id": "b1015",
@@ -8208,7 +8208,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ullasitatā - उल्लसितता",
-   "directed": "[slowly] ### Ullasitatā - उल्लसितता"
+   "directed": "[slowly] Ullasitatā - उल्लसितता"
   },
   {
    "id": "b1026",
@@ -8720,7 +8720,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prabuddha - प्रबुद्ध",
-   "directed": "[slowly] ### Prabuddha - प्रबुद्ध"
+   "directed": "[slowly] Prabuddha - प्रबुद्ध"
   },
   {
    "id": "b1090",
@@ -8840,7 +8840,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Prasaraṇa - प्रसरण",
-   "directed": "[slowly] ### Prasaraṇa - प्रसरण"
+   "directed": "[slowly] Prasaraṇa - प्रसरण"
   },
   {
    "id": "b1105",
@@ -8936,7 +8936,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Āvaraṇa - आवरण",
-   "directed": "[slowly] ### Āvaraṇa - आवरण"
+   "directed": "[slowly] Āvaraṇa - आवरण"
   },
   {
    "id": "b1117",
@@ -9320,7 +9320,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nilīna - निलीन",
-   "directed": "[slowly] ### Nilīna - निलीन"
+   "directed": "[slowly] Nilīna - निलीन"
   },
   {
    "id": "b1165",
@@ -9424,7 +9424,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Śaktitritaya - शक्तित्रितय",
-   "directed": "[slowly] ### Śaktitritaya - शक्तित्रितय"
+   "directed": "[slowly] Śaktitritaya - शक्तित्रितय"
   },
   {
    "id": "b1178",
@@ -9712,7 +9712,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "We began Part XIII with a pot.",
-   "directed": "We began Part XIII with a pot."
+   "directed": "We began Part Thirteen with a pot."
   },
   {
    "id": "b1214",
@@ -10008,7 +10008,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Ekam - एकम्",
-   "directed": "[slowly] ### Ekam - एकम्"
+   "directed": "[slowly] Ekam - एकम्"
   },
   {
    "id": "b1251",
@@ -10048,7 +10048,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Eva - एव",
-   "directed": "[slowly] ### Eva - एव"
+   "directed": "[slowly] Eva - एव"
   },
   {
    "id": "b1256",
@@ -10064,7 +10064,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Hi - हि",
-   "directed": "[slowly] ### Hi - हि"
+   "directed": "[slowly] Hi - हि"
   },
   {
    "id": "b1258",
@@ -10088,7 +10088,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Tat - तत्",
-   "directed": "[slowly] ### Tat - तत्"
+   "directed": "[slowly] Tat - तत्"
   },
   {
    "id": "b1261",
@@ -10144,7 +10144,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Saṅkhyā - सङ्ख्या",
-   "directed": "[slowly] ### Saṅkhyā - सङ्ख्या"
+   "directed": "[slowly] Saṅkhyā - सङ्ख्या"
   },
   {
    "id": "b1268",
@@ -10264,7 +10264,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Atiriktatā - अतिरिक्तता",
-   "directed": "[slowly] ### Atiriktatā - अतिरिक्तता"
+   "directed": "[slowly] Atiriktatā - अतिरिक्तता"
   },
   {
    "id": "b1283",
@@ -10528,7 +10528,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "And it connects with something we've been studying since Part VII.",
-   "directed": "And it connects with something we've been studying since Part VII."
+   "directed": "And it connects with something we've been studying since Part Seven."
   },
   {
    "id": "b1316",
@@ -10720,7 +10720,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "That's where Part XV will begin.",
-   "directed": "That's where Part XV will begin."
+   "directed": "That's where Part Fifteen will begin."
   },
   {
    "id": "b1340",
@@ -10816,7 +10816,7 @@
    "type": "verse",
    "voice": "verse",
    "text": "Nirvacana - निर्वचन",
-   "directed": "[slowly] ### Nirvacana - निर्वचन"
+   "directed": "[slowly] Nirvacana - निर्वचन"
   },
   {
    "id": "b1352",
@@ -11008,7 +11008,7 @@
    "type": "title",
    "voice": "granny",
    "text": "20. The Sanskrit laboratory - Part XIV",
-   "directed": "[long pause] 20. The Sanskrit laboratory - Part XIV"
+   "directed": "[long pause] 20. The Sanskrit laboratory - Part Fourteen"
   },
   {
    "id": "b1376",
@@ -11480,7 +11480,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "That is the heart of Part XIV.",
-   "directed": "That is the heart of Part XIV."
+   "directed": "That is the heart of Part Fourteen."
   },
   {
    "id": "b1435",
@@ -11528,7 +11528,7 @@
    "type": "narration",
    "voice": "granny",
    "text": "Part XV will resume at the Śivadṛṣṭi citations and the first āhnika of the Saṃpradāya at approximately Kashmir Series pp. 178-179. We'll follow Somānanda's deeper argument about the inseparability of will, knowledge and action, the ordinary cognition of a pot, the relation between desire and agency, and the further development of Visarga and the sixteen powers.",
-   "directed": "Part XV will resume at the Śivadṛṣṭi citations and the first āhnika of the Saṃpradāya at approximately Kashmir Series pp. 178-179. We'll follow Somānanda's deeper argument about the inseparability of will, knowledge and action, the ordinary cognition of a pot, the relation between desire and agency, and the further development of Visarga and the sixteen powers."
+   "directed": "Part Fifteen will resume at the Śivadṛṣṭi citations and the first āhnika of the Saṃpradāya at approximately Kashmir Series pp. 178-179. We'll follow Somānanda's deeper argument about the inseparability of will, knowledge and action, the ordinary cognition of a pot, the relation between desire and agency, and the further development of Visarga and the sixteen powers."
   },
   {
    "id": "b1441",
@@ -11556,13 +11556,6 @@
  },
  "validation": {
   "errors": [],
-  "warnings": [
-   "section [2. ए - E: The first compound vowel]: no granny block",
-   "section [7. ऐ - Ai: When the combined power enter]: no granny block",
-   "section [8. ओ - O: Knowledge enters the first and]: no granny block",
-   "section [9. औ - Au: The compound vowel that conta]: no granny block",
-   "section [10. अं - Aṃ: The entire universe gathers]: no granny block",
-   "section [12. अः - Aḥ: The universe is emitted aga]: no granny block"
-  ]
+  "warnings": []
  }
 }
